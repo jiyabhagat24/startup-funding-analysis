@@ -1,0 +1,74 @@
+investor_name,investor_type,hq_country,founded_year,aum_billion_usd,total_deals_in_dataset,total_invested_million_usd,avg_deal_size_million_usd,top_sector,top_stage
+Sequoia Capital,Angel Investor,United States,1997,25.2,29,999.88,34.48,E-Commerce,Pre-Seed
+Andreessen Horowitz (a16z),Angel Investor,United States,1979,2.5,43,526.07,12.23,Artificial Intelligence,Pre-Seed
+Tiger Global,Angel Investor,United States,1963,22.4,37,120.42,3.25,Artificial Intelligence,Seed
+Accel Partners,Corporate VC,United States,1964,2.7,38,293.88,7.73,Fintech,Seed
+SoftBank Vision Fund,Corporate VC,India,1997,4.1,45,480.96,10.69,Artificial Intelligence,Seed
+Lightspeed Venture Partners,Private Equity,India,1962,4.0,40,369.66,9.24,Cybersecurity,Seed
+Y Combinator,Private Equity,United Kingdom,1984,3.8,47,822.67,17.5,Artificial Intelligence,Seed
+Benchmark,Private Equity,United States,2002,8.2,52,345.27,6.64,Artificial Intelligence,Seed
+General Catalyst,Venture Capital,United States,1970,4.7,36,921.28,25.59,Artificial Intelligence,Seed
+Insight Partners,Angel Investor,United States,1999,3.8,43,394.28,9.17,Cybersecurity,Seed
+GV (Google Ventures),Venture Capital,United States,1970,1.5,37,679.62,18.37,Artificial Intelligence,Pre-Seed
+Khosla Ventures,Corporate VC,United States,1990,8.1,36,588.15,16.34,Artificial Intelligence,Seed
+Bessemer Venture Partners,Venture Capital,Israel,1976,11.5,39,616.92,15.82,Artificial Intelligence,Pre-Seed
+Founders Fund,Venture Capital,United States,1970,2.1,28,261.75,9.35,Artificial Intelligence,Seed
+Index Ventures,Angel Investor,Germany,2010,1.6,38,420.79,11.07,Fintech,Seed
+Ribbit Capital,Private Equity,India,1963,4.8,37,412.66,11.15,Fintech,Seed
+Coatue Management,Private Equity,China,1994,13.7,37,185.09,5.0,Artificial Intelligence,Pre-Seed
+Greylock Partners,Angel Investor,United States,1988,3.0,39,481.3,12.34,Fintech,Seed
+Battery Ventures,Private Equity,United States,1976,3.4,35,444.87,12.71,Fintech,Seed
+NEA,Venture Capital,United States,1969,5.5,34,667.88,19.64,Fintech,Pre-Seed
+Peak XV Partners (fka Sequoia India),Corporate VC,United States,1960,4.0,43,263.14,6.12,Artificial Intelligence,Seed
+Matrix Partners,Private Equity,UAE,2009,6.0,33,392.05,11.88,Fintech,Pre-Seed
+500 Global,Corporate VC,China,2008,0.7,47,535.31,11.39,Fintech,Seed
+Techstars,Private Equity,Israel,1991,5.7,37,382.2,10.33,Fintech,Seed
+SOSV,Private Equity,United Kingdom,2015,5.2,32,328.4,10.26,Fintech,Pre-Seed
+Plug and Play,Corporate VC,United States,2017,1.6,40,340.38,8.51,Artificial Intelligence,Seed
+Antler,Venture Capital,United States,1961,9.5,39,442.99,11.36,Healthcare & Biotech,Pre-Seed
+Seedcamp,Corporate VC,Germany,2020,7.7,37,404.53,10.93,Artificial Intelligence,Seed
+BlueYard Capital,Private Equity,United States,1989,14.9,40,627.69,15.69,Fintech,Seed
+EQT Ventures,Venture Capital,Singapore,2013,15.9,40,276.32,6.91,Artificial Intelligence,Pre-Seed
+Balderton Capital,Angel Investor,Japan,1992,9.7,42,410.74,9.78,Artificial Intelligence,Seed
+Atomico,Venture Capital,United States,2020,19.1,34,254.42,7.48,Artificial Intelligence,Seed
+DST Global,Corporate VC,Germany,1974,1.6,40,384.58,9.61,Artificial Intelligence,Pre-Seed
+IVP,Corporate VC,United Kingdom,1960,2.5,38,376.63,9.91,Fintech,Seed
+Sapphire Ventures,Venture Capital,Israel,1989,0.6,46,299.09,6.5,Artificial Intelligence,Pre-Seed
+Elevation Capital,Corporate VC,China,1995,12.4,41,293.66,7.16,Fintech,Pre-Seed
+Norwest Venture Partners,Corporate VC,India,1987,6.2,36,426.12,11.84,Fintech,Seed
+Redpoint Ventures,Angel Investor,United States,1985,4.8,35,347.86,9.94,Fintech,Seed
+Union Square Ventures,Venture Capital,United States,1963,18.5,46,550.85,11.98,Fintech,Seed
+First Round Capital,Private Equity,United Kingdom,1976,3.5,36,361.41,10.04,Fintech,Seed
+Draper Associates,Corporate VC,Germany,1998,1.0,24,543.43,22.64,SaaS / Enterprise Software,Seed
+LocalGlobe,Angel Investor,France,2010,6.7,49,410.34,8.37,Artificial Intelligence,Seed
+Cherry Ventures,Venture Capital,United States,2022,4.8,40,623.3,15.58,SaaS / Enterprise Software,Seed
+Point Nine Capital,Corporate VC,United States,2005,1.1,45,430.99,9.58,Artificial Intelligence,Seed
+Headline,Venture Capital,Germany,1969,1.4,37,515.66,13.94,Artificial Intelligence,Pre-Seed
+Partech,Corporate VC,Japan,2009,5.9,33,250.65,7.6,Fintech,Pre-Seed
+Northzone,Angel Investor,India,1999,58.0,39,403.29,10.34,Artificial Intelligence,Seed
+B Capital Group,Venture Capital,United Kingdom,2012,42.0,38,669.23,17.61,Fintech,Seed
+Temasek,Venture Capital,United Kingdom,1970,16.0,42,419.69,9.99,Artificial Intelligence,Seed
+GIC,Corporate VC,Germany,1979,1.7,42,449.0,10.69,Artificial Intelligence,Seed
+Abu Dhabi Investment Authority,Angel Investor,Japan,1977,29.6,50,725.61,14.51,SaaS / Enterprise Software,Seed
+Saudi Aramco Ventures,Corporate VC,Israel,2003,15.9,44,534.28,12.14,Artificial Intelligence,Seed
+Tencent,Angel Investor,China,1990,0.7,32,293.3,9.17,Fintech,Seed
+Alibaba Group,Venture Capital,United States,2016,9.6,47,578.44,12.31,Fintech,Pre-Seed
+Samsung Ventures,Angel Investor,United States,2021,0.9,35,299.94,8.57,Artificial Intelligence,Seed
+Intel Capital,Venture Capital,United States,1986,4.1,46,296.22,6.44,Artificial Intelligence,Pre-Seed
+Microsoft M12,Venture Capital,United States,2007,4.6,39,718.59,18.43,Cybersecurity,Pre-Seed
+Salesforce Ventures,Corporate VC,United States,2001,21.8,36,438.59,12.18,Artificial Intelligence,Pre-Seed
+Google Ventures,Private Equity,United States,1995,2.9,45,233.91,5.2,Fintech,Seed
+NVIDIA NVentures,Angel Investor,India,2006,15.0,47,751.51,15.99,Fintech,Pre-Seed
+Amazon Alexa Fund,Angel Investor,United States,1963,6.7,45,704.25,15.65,Artificial Intelligence,Seed
+Qualcomm Ventures,Angel Investor,Israel,2001,3.9,37,268.72,7.26,Fintech,Pre-Seed
+Rakuten Capital,Venture Capital,United Kingdom,2002,6.3,33,778.12,23.58,SaaS / Enterprise Software,Seed
+Mitsubishi UFJ Capital,Corporate VC,China,1966,21.0,29,238.67,8.23,Artificial Intelligence,Seed
+SBI Investment,Angel Investor,UAE,1994,0.4,33,503.5,15.26,Artificial Intelligence,Pre-Seed
+Naspers / Prosus,Angel Investor,United States,1963,13.8,33,401.04,12.15,Artificial Intelligence,Pre-Seed
+Kingsway Capital,Corporate VC,United Kingdom,1990,1.0,40,325.27,8.13,Fintech,Pre-Seed
+TLcom Capital,Angel Investor,France,1985,11.4,44,611.12,13.89,SaaS / Enterprise Software,Seed
+Partech Africa,Private Equity,China,2005,2.3,37,436.31,11.79,Healthcare & Biotech,Pre-Seed
+Chiratae Ventures,Venture Capital,United States,2005,7.5,28,499.92,17.85,Artificial Intelligence,Pre-Seed
+Blume Ventures,Corporate VC,United States,1968,12.8,36,611.18,16.98,Fintech,Seed
+Nexus Venture Partners,Angel Investor,United States,2020,3.3,33,245.13,7.43,Artificial Intelligence,Pre-Seed
+Accel India,Venture Capital,Singapore,1977,0.8,28,584.09,20.86,Fintech,Seed

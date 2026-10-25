@@ -1,0 +1,1748 @@
+startup_id,startup_name,sector,country,region,city,founded_year,employee_count,female_founder,revenue_status
+S00001,DataTech,Gaming & Entertainment,Mexico,South America,Mexico City,2020,9,0,Profitable
+S00002,VertexPlatform,Artificial Intelligence,Indonesia,Asia,Surabaya,2024,2,1,Pre-Revenue
+S00003,KiteAI,SaaS / Enterprise Software,Germany,Europe,Munich,2019,4,0,Pre-Revenue
+S00004,SwiftSecurity,Healthcare & Biotech,Australia,Oceania,Sydney,2023,4,1,Profitable
+S00005,ZenBio,Travel Tech,Israel,Middle East,Jerusalem,2022,31,0,Pre-Revenue
+S00006,Tideio,Real Estate Tech,Spain,Europe,Madrid,2023,33,1,Profitable
+S00007,FluxSystems,SaaS / Enterprise Software,United States,North America,Boston,2019,8,1,Revenue Generating
+S00008,RapidCloud,Artificial Intelligence,China,Asia,Hangzhou,2020,6,0,Revenue Generating
+S00009,QuarkStack,SaaS / Enterprise Software,China,Asia,Beijing,2023,63,1,Revenue Generating
+S00010,EchoNet,Space Tech,Canada,North America,Montreal,2022,34,1,Revenue Generating
+S00011,RuneSpace,E-Commerce,Mexico,South America,Monterrey,2021,14,1,Pre-Revenue
+S00012,MetaCloud,Healthcare & Biotech,Poland,Europe,Kraków,2022,9,0,Profitable
+S00013,JetAI,Artificial Intelligence,United States,North America,Austin,2021,6,1,Pre-Revenue
+S00014,TideSecurity,Web3 / Blockchain,India,Asia,Bangalore,2021,13,0,Pre-Revenue
+S00015,ProtoAnalytics,Artificial Intelligence,United States,North America,Chicago,2023,21,0,Pre-Revenue
+S00016,YieldPlatform,Fintech,United States,North America,Seattle,2022,120,1,Revenue Generating
+S00017,ProtoWorks,Fintech,UAE,Middle East,Dubai,2018,103,0,Pre-Revenue
+S00018,ArcCore,E-Commerce,United States,North America,Los Angeles,2019,117,0,Revenue Generating
+S00019,EchoSense,Logistics & Supply Chain,United States,North America,Miami,2024,5,0,Profitable
+S00020,SageAI,SaaS / Enterprise Software,Israel,Middle East,Haifa,2022,10,0,Profitable
+S00021,KiteLink,Fintech,China,Asia,Shanghai,2020,13,1,Pre-Revenue
+S00022,PulseWorks,Artificial Intelligence,India,Asia,Hyderabad,2019,55,1,Revenue Generating
+S00023,HyperRobotics,Space Tech,Japan,Asia,Tokyo,2021,46,0,Revenue Generating
+S00024,SwiftAnalytics,Cybersecurity,United Kingdom,Europe,London,2021,119,1,Profitable
+S00025,PulseMind,Fintech,Argentina,South America,Buenos Aires,2022,21,0,Revenue Generating
+S00026,YieldLink,Healthcare & Biotech,United Kingdom,Europe,London,2020,9,0,Revenue Generating
+S00027,AlphaCore,Legal Tech,China,Asia,Shenzhen,2021,16,0,Pre-Revenue
+S00028,LumeForge,Fintech,United States,North America,Denver,2022,38,1,Revenue Generating
+S00029,CruxSense,Fintech,United States,North America,New York,2024,2,1,Pre-Revenue
+S00030,RuneBase,Healthcare & Biotech,United States,North America,Seattle,2021,15,1,Profitable
+S00031,JetSense,Logistics & Supply Chain,India,Asia,Hyderabad,2022,27,1,Revenue Generating
+S00032,AstraStack,Fintech,Singapore,Asia,Singapore,2023,16,0,Pre-Revenue
+S00033,Runely,Fintech,United Kingdom,Europe,Cambridge,2021,43,1,Revenue Generating
+S00034,OrionDynamics,Healthcare & Biotech,United Kingdom,Europe,Bristol,2019,283,0,Revenue Generating
+S00035,TidePay,Artificial Intelligence,Saudi Arabia,Middle East,Riyadh,2020,10,0,Revenue Generating
+S00036,HubBio,Healthcare & Biotech,Japan,Asia,Tokyo,2022,21,1,Revenue Generating
+S00037,HyperLogic,Real Estate Tech,Netherlands,Europe,Rotterdam,2024,23,0,Profitable
+S00038,VertexLink,Robotics & Automation,Brazil,South America,São Paulo,2020,20,0,Revenue Generating
+S00039,DataSense,Healthcare & Biotech,United States,North America,Seattle,2016,11,0,Revenue Generating
+S00040,JetHealth,SaaS / Enterprise Software,Spain,Europe,Barcelona,2022,5,0,Revenue Generating
+S00041,VertexCloud,E-Commerce,India,Asia,Delhi NCR,2017,6,1,Revenue Generating
+S00042,NovaFinance,E-Commerce,Japan,Asia,Osaka,2020,230,0,Revenue Generating
+S00043,ProtoFinance,SaaS / Enterprise Software,India,Asia,Chennai,2018,32,0,Pre-Revenue
+S00044,NexusStack,Robotics & Automation,India,Asia,Pune,2021,45,0,Revenue Generating
+S00045,Metaverse,SaaS / Enterprise Software,Indonesia,Asia,Jakarta,2019,14,0,Pre-Revenue
+S00046,BoltAI,Edtech,India,Asia,Bangalore,2023,2,0,Revenue Generating
+S00047,NexusHealth,Edtech,Nigeria,Africa,Lagos,2022,10,1,Profitable
+S00048,ZenForge,Artificial Intelligence,Japan,Asia,Osaka,2022,4,0,Revenue Generating
+S00049,DataCloud,Artificial Intelligence,United States,North America,Austin,2022,21,0,Revenue Generating
+S00050,ApexHealth,SaaS / Enterprise Software,China,Asia,Shanghai,2021,83,0,Profitable
+S00051,ApexSense,Fintech,United Kingdom,Europe,Manchester,2020,15,0,Revenue Generating
+S00052,VertexSecurity,Insurtech,Brazil,South America,São Paulo,2017,43,0,Revenue Generating
+S00053,Fluxfy,Logistics & Supply Chain,France,Europe,Lyon,2020,24,1,Revenue Generating
+S00054,FluxBase,Food & AgriTech,United States,North America,Chicago,2021,81,0,Pre-Revenue
+S00055,WaveSpace,Fintech,United States,North America,Los Angeles,2022,5,0,Revenue Generating
+S00056,DeltaStack,Fintech,Brazil,South America,Rio de Janeiro,2021,2,0,Pre-Revenue
+S00057,NeoNet,SaaS / Enterprise Software,India,Asia,Chennai,2022,63,0,Pre-Revenue
+S00058,RapidBeam,Artificial Intelligence,Singapore,Asia,Singapore,2017,6,0,Revenue Generating
+S00059,Lumely,Healthcare & Biotech,Poland,Europe,Kraków,2023,10,0,Profitable
+S00060,HubFlow,E-Commerce,United States,North America,Chicago,2021,54,0,Pre-Revenue
+S00061,NeoWorks,SaaS / Enterprise Software,United Kingdom,Europe,Bristol,2022,6,0,Revenue Generating
+S00062,CloudAI,Healthcare & Biotech,United States,North America,Los Angeles,2018,63,1,Revenue Generating
+S00063,ZenoRobotics,Artificial Intelligence,United States,North America,Austin,2016,17,0,Revenue Generating
+S00064,VibeFlow,E-Commerce,India,Asia,Chennai,2016,117,0,Pre-Revenue
+S00065,Metafy,Gaming & Entertainment,India,Asia,Bangalore,2022,22,1,Pre-Revenue
+S00066,ForgeWare,Food & AgriTech,United States,North America,Chicago,2023,33,0,Revenue Generating
+S00067,UltraWorks,Healthcare & Biotech,Sweden,Europe,Stockholm,2024,3,0,Pre-Revenue
+S00068,Wavely,Artificial Intelligence,Poland,Europe,Warsaw,2021,25,0,Pre-Revenue
+S00069,BetaBio,Edtech,China,Asia,Beijing,2024,2,1,Pre-Revenue
+S00070,YieldFinance,Healthcare & Biotech,United Kingdom,Europe,London,2024,34,0,Revenue Generating
+S00071,PixelPay,E-Commerce,United States,North America,Los Angeles,2022,3,0,Profitable
+S00072,DataWorks,SaaS / Enterprise Software,Spain,Europe,Barcelona,2020,9,0,Pre-Revenue
+S00073,KiteForge,Cybersecurity,United States,North America,Chicago,2019,2,0,Pre-Revenue
+S00074,MetaBase,Climate Tech / Clean Energy,United States,North America,Chicago,2022,2,0,Revenue Generating
+S00075,BoltDynamics,Fintech,Germany,Europe,Munich,2017,8,0,Pre-Revenue
+S00076,ArcTech,Healthcare & Biotech,Brazil,South America,Belo Horizonte,2022,58,1,Profitable
+S00077,Terrafy,Fintech,Canada,North America,Toronto,2017,14,0,Profitable
+S00078,EdgeCloud,HR Tech,Brazil,South America,Belo Horizonte,2024,404,0,Revenue Generating
+S00079,AstraBeam,E-Commerce,United Kingdom,Europe,Bristol,2019,172,0,Revenue Generating
+S00080,TerraMind,Healthcare & Biotech,China,Asia,Hangzhou,2017,8,0,Revenue Generating
+S00081,DawnDynamics,Fintech,United States,North America,San Diego,2021,34,0,Pre-Revenue
+S00082,CloudEnergy,Space Tech,China,Asia,Beijing,2021,2,0,Profitable
+S00083,CyberSense,Artificial Intelligence,United States,North America,Miami,2022,8,0,Profitable
+S00084,VibeCloud,Artificial Intelligence,United States,North America,Denver,2018,9,1,Revenue Generating
+S00085,Datafy,SaaS / Enterprise Software,United States,North America,Austin,2018,94,0,Profitable
+S00086,LumeSystems,Real Estate Tech,United Kingdom,Europe,Cambridge,2023,20,1,Pre-Revenue
+S00087,Swiftfy,Fintech,United States,North America,Seattle,2021,8,0,Revenue Generating
+S00088,Novaly,Gaming & Entertainment,Spain,Europe,Madrid,2017,15,0,Pre-Revenue
+S00089,HubTech,Logistics & Supply Chain,United Kingdom,Europe,London,2021,27,0,Revenue Generating
+S00090,YieldWorks,Climate Tech / Clean Energy,Germany,Europe,Frankfurt,2024,35,0,Pre-Revenue
+S00091,JetLabs,Robotics & Automation,United States,North America,Austin,2015,5,0,Pre-Revenue
+S00092,MetaLink,E-Commerce,Japan,Asia,Tokyo,2022,25,0,Revenue Generating
+S00093,QuantumRobotics,Fintech,India,Asia,Mumbai,2019,12,1,Revenue Generating
+S00094,CloudBio,Artificial Intelligence,Argentina,South America,Buenos Aires,2021,8,0,Pre-Revenue
+S00095,Swiftio,E-Commerce,Kenya,Africa,Nairobi,2022,5,1,Revenue Generating
+S00096,SwiftFinance,Healthcare & Biotech,Poland,Europe,Warsaw,2023,9,0,Revenue Generating
+S00097,BoltSense,Social Media / Creator Economy,Australia,Oceania,Sydney,2021,16,0,Revenue Generating
+S00098,QuantumHealth,Artificial Intelligence,United States,North America,Seattle,2024,92,1,Profitable
+S00099,LumeEnergy,Cybersecurity,United States,North America,San Francisco,2017,8,0,Revenue Generating
+S00100,QuantumLogic,E-Commerce,China,Asia,Guangzhou,2024,233,0,Pre-Revenue
+S00101,WaveX,Real Estate Tech,China,Asia,Beijing,2024,5,1,Revenue Generating
+S00102,Dawnfy,Web3 / Blockchain,United States,North America,Los Angeles,2017,29,0,Revenue Generating
+S00103,ProtoBeam,SaaS / Enterprise Software,Sweden,Europe,Stockholm,2022,34,0,Revenue Generating
+S00104,BetaRobotics,SaaS / Enterprise Software,Spain,Europe,Barcelona,2022,6,1,Pre-Revenue
+S00105,WaveFinance,Artificial Intelligence,India,Asia,Chennai,2015,56,0,Revenue Generating
+S00106,TideBio,Artificial Intelligence,Argentina,South America,Buenos Aires,2023,2,1,Revenue Generating
+S00107,RapidEnergy,Artificial Intelligence,China,Asia,Shanghai,2020,78,0,Revenue Generating
+S00108,Runeverse,Fintech,Mexico,South America,Mexico City,2017,3,0,Pre-Revenue
+S00109,TerraX,Artificial Intelligence,United States,North America,Austin,2020,15,0,Profitable
+S00110,ApexHub,Artificial Intelligence,United States,North America,Seattle,2020,16,1,Revenue Generating
+S00111,NexusPlatform,Gaming & Entertainment,Israel,Middle East,Tel Aviv,2020,5,0,Profitable
+S00112,BoltEnergy,Healthcare & Biotech,United States,North America,Chicago,2022,17,0,Profitable
+S00113,DeltaPay,Artificial Intelligence,United States,North America,Austin,2020,118,0,Revenue Generating
+S00114,RapidWare,Food & AgriTech,Brazil,South America,São Paulo,2021,34,0,Pre-Revenue
+S00115,Edgeverse,SaaS / Enterprise Software,United States,North America,San Francisco,2023,3,0,Pre-Revenue
+S00116,LumeHealth,Artificial Intelligence,India,Asia,Chennai,2020,38,0,Revenue Generating
+S00117,Dataly,HR Tech,United States,North America,Miami,2018,15,1,Revenue Generating
+S00118,AstraSpace,Fintech,Switzerland,Europe,Geneva,2021,44,0,Revenue Generating
+S00119,NexusBase,Edtech,Poland,Europe,Warsaw,2022,89,0,Revenue Generating
+S00120,Lumeio,SaaS / Enterprise Software,China,Asia,Shenzhen,2021,35,0,Revenue Generating
+S00121,VertexWare,Fintech,India,Asia,Mumbai,2023,7,0,Profitable
+S00122,EchoCore,Gaming & Entertainment,United States,North America,Los Angeles,2017,12,1,Revenue Generating
+S00123,Ultraly,Gaming & Entertainment,United States,North America,Denver,2021,84,0,Pre-Revenue
+S00124,PulseAI,Robotics & Automation,United States,North America,Chicago,2023,8,0,Revenue Generating
+S00125,CloudAnalytics,Robotics & Automation,United States,North America,San Diego,2017,22,0,Pre-Revenue
+S00126,OnyxHub,SaaS / Enterprise Software,Nigeria,Africa,Nairobi,2023,7,0,Pre-Revenue
+S00127,DawnWare,Legal Tech,Thailand,Asia,Bangkok,2021,3,0,Pre-Revenue
+S00128,GridBase,Real Estate Tech,United Kingdom,Europe,Manchester,2018,21,0,Revenue Generating
+S00129,Alphaverse,Climate Tech / Clean Energy,India,Asia,Mumbai,2022,12,0,Revenue Generating
+S00130,CyberBio,Artificial Intelligence,United Kingdom,Europe,Cambridge,2015,4,0,Pre-Revenue
+S00131,DawnLink,Cybersecurity,Singapore,Asia,Singapore,2023,18,0,Pre-Revenue
+S00132,CoreAnalytics,Food & AgriTech,United Kingdom,Europe,Bristol,2015,6,0,Revenue Generating
+S00133,Ionio,HR Tech,India,Asia,Mumbai,2024,21,0,Pre-Revenue
+S00134,FluxEnergy,Fintech,India,Asia,Pune,2024,30,0,Profitable
+S00135,DawnWorks,Real Estate Tech,United States,North America,Chicago,2024,13,0,Pre-Revenue
+S00136,BoltBeam,Artificial Intelligence,India,Asia,Bangalore,2015,215,0,Revenue Generating
+S00137,AlphaSpace,E-Commerce,United States,North America,Seattle,2021,34,0,Revenue Generating
+S00138,CruxTech,Logistics & Supply Chain,China,Asia,Shenzhen,2018,4,0,Revenue Generating
+S00139,CyberLogic,Real Estate Tech,Indonesia,Asia,Surabaya,2022,37,0,Pre-Revenue
+S00140,DeltaSpace,Artificial Intelligence,South Africa,Africa,Johannesburg,2019,3,0,Profitable
+S00141,AlphaStack,Climate Tech / Clean Energy,China,Asia,Beijing,2024,5,0,Revenue Generating
+S00142,OrionHealth,Fintech,Australia,Oceania,Melbourne,2023,107,0,Revenue Generating
+S00143,OrionLogic,Travel Tech,Indonesia,Asia,Surabaya,2023,7,0,Revenue Generating
+S00144,Pulseverse,E-Commerce,Japan,Asia,Tokyo,2021,81,1,Revenue Generating
+S00145,BoltPlatform,Climate Tech / Clean Energy,United States,North America,Miami,2019,39,1,Pre-Revenue
+S00146,GridDynamics,Real Estate Tech,Australia,Oceania,Sydney,2020,28,0,Revenue Generating
+S00147,CloudLabs,Edtech,Spain,Europe,Barcelona,2023,10,0,Revenue Generating
+S00148,ForgeHub,Gaming & Entertainment,Nigeria,Africa,Nairobi,2021,52,0,Revenue Generating
+S00149,CoreSense,Healthcare & Biotech,Australia,Oceania,Melbourne,2023,25,0,Pre-Revenue
+S00150,SagePay,Artificial Intelligence,Singapore,Asia,Singapore,2024,12,1,Profitable
+S00151,IonStack,Gaming & Entertainment,Colombia,South America,Medellín,2021,4,0,Pre-Revenue
+S00152,ProtoWare,Space Tech,Brazil,South America,Rio de Janeiro,2021,13,0,Profitable
+S00153,BoltForge,Cybersecurity,Brazil,South America,Belo Horizonte,2019,7,0,Revenue Generating
+S00154,NexusTech,Gaming & Entertainment,United States,North America,New York,2021,79,0,Pre-Revenue
+S00155,GridTech,Artificial Intelligence,Mexico,South America,Monterrey,2015,29,0,Pre-Revenue
+S00156,EdgeDynamics,Cybersecurity,India,Asia,Chennai,2022,58,0,Profitable
+S00157,SwiftDynamics,E-Commerce,Indonesia,Asia,Surabaya,2016,2,0,Pre-Revenue
+S00158,Cloudverse,Cybersecurity,China,Asia,Hangzhou,2022,58,0,Pre-Revenue
+S00159,IonRobotics,Gaming & Entertainment,Indonesia,Asia,Jakarta,2015,135,1,Profitable
+S00160,NeoSecurity,Climate Tech / Clean Energy,India,Asia,Hyderabad,2021,177,0,Pre-Revenue
+S00161,HubLogic,Social Media / Creator Economy,Nigeria,Africa,Nairobi,2024,160,0,Revenue Generating
+S00162,ZenoSense,Cybersecurity,United States,North America,Miami,2020,28,0,Revenue Generating
+S00163,ProtoSpace,Travel Tech,United Kingdom,Europe,Edinburgh,2019,11,0,Revenue Generating
+S00164,CoreBase,Food & AgriTech,South Korea,Asia,Seoul,2023,34,0,Revenue Generating
+S00165,GridAnalytics,SaaS / Enterprise Software,India,Asia,Mumbai,2018,20,1,Revenue Generating
+S00166,CyberFlow,Cybersecurity,Brazil,South America,São Paulo,2022,28,0,Revenue Generating
+S00167,CoreEnergy,Edtech,United States,North America,San Diego,2016,18,0,Pre-Revenue
+S00168,CoreCore,Food & AgriTech,China,Asia,Beijing,2020,38,0,Revenue Generating
+S00169,GridSecurity,Fintech,China,Asia,Guangzhou,2021,36,0,Pre-Revenue
+S00170,Terraverse,Fintech,Nigeria,Africa,Lagos,2022,43,0,Revenue Generating
+S00171,DawnForge,Logistics & Supply Chain,United States,North America,Los Angeles,2024,41,0,Revenue Generating
+S00172,MetaWare,E-Commerce,United States,North America,Los Angeles,2020,49,0,Pre-Revenue
+S00173,ProtoCore,Healthcare & Biotech,United States,North America,Los Angeles,2022,74,1,Pre-Revenue
+S00174,TidePlatform,E-Commerce,China,Asia,Guangzhou,2019,103,0,Pre-Revenue
+S00175,AstraEnergy,Space Tech,United Kingdom,Europe,Cambridge,2019,37,0,Revenue Generating
+S00176,CyberHealth,SaaS / Enterprise Software,United States,North America,New York,2020,24,0,Profitable
+S00177,Vertexverse,Healthcare & Biotech,United States,North America,Seattle,2023,55,1,Pre-Revenue
+S00178,OrionCore,Food & AgriTech,Mexico,South America,Mexico City,2018,7,0,Revenue Generating
+S00179,QuantumSense,Fintech,United States,North America,San Diego,2021,6,0,Pre-Revenue
+S00180,YieldBeam,Artificial Intelligence,Indonesia,Asia,Jakarta,2022,2,0,Profitable
+S00181,ZenFinance,E-Commerce,India,Asia,Mumbai,2022,51,0,Revenue Generating
+S00182,RuneLabs,Food & AgriTech,South Korea,Asia,Busan,2021,2,0,Pre-Revenue
+S00183,QuantumWorks,Legal Tech,Singapore,Asia,Singapore,2017,31,1,Profitable
+S00184,SwiftHealth,Cybersecurity,United States,North America,Austin,2023,2,0,Pre-Revenue
+S00185,FluxFlow,Robotics & Automation,United States,North America,Los Angeles,2024,136,0,Revenue Generating
+S00186,CloudBase,Logistics & Supply Chain,Spain,Europe,Barcelona,2020,96,1,Revenue Generating
+S00187,QuantumPlatform,Edtech,United Kingdom,Europe,London,2023,3,0,Pre-Revenue
+S00188,KitePay,SaaS / Enterprise Software,Australia,Oceania,Melbourne,2023,57,0,Pre-Revenue
+S00189,AstraRobotics,Fintech,United States,North America,New York,2023,28,0,Profitable
+S00190,ArcNet,SaaS / Enterprise Software,Japan,Asia,Osaka,2017,3,1,Profitable
+S00191,CloudSecurity,Fintech,United Kingdom,Europe,Cambridge,2022,51,1,Pre-Revenue
+S00192,NexusAnalytics,Travel Tech,Argentina,South America,Buenos Aires,2021,9,1,Profitable
+S00193,QuarkAI,Robotics & Automation,United States,North America,Chicago,2022,36,0,Pre-Revenue
+S00194,CruxWare,E-Commerce,United Kingdom,Europe,Manchester,2017,9,1,Pre-Revenue
+S00195,CoreBio,Cybersecurity,India,Asia,Bangalore,2024,50,1,Pre-Revenue
+S00196,NexusLabs,Food & AgriTech,Netherlands,Europe,Rotterdam,2024,56,0,Profitable
+S00197,YieldAnalytics,Cybersecurity,Nigeria,Africa,Lagos,2023,12,0,Pre-Revenue
+S00198,WaveAI,Gaming & Entertainment,United States,North America,Chicago,2020,30,0,Pre-Revenue
+S00199,HyperHealth,Cybersecurity,India,Asia,Pune,2023,45,0,Revenue Generating
+S00200,AstraLogic,Gaming & Entertainment,Poland,Europe,Kraków,2021,23,0,Revenue Generating
+S00201,VibeX,Fintech,Canada,North America,Vancouver,2022,89,0,Revenue Generating
+S00202,Sageverse,Fintech,United Kingdom,Europe,Bristol,2021,363,0,Pre-Revenue
+S00203,ProtoLabs,Legal Tech,United States,North America,Los Angeles,2018,5,0,Pre-Revenue
+S00204,RapidStack,Artificial Intelligence,Switzerland,Europe,Zurich,2023,103,0,Profitable
+S00205,DataCore,Healthcare & Biotech,United States,North America,Austin,2020,16,0,Pre-Revenue
+S00206,HyperTech,Artificial Intelligence,United Kingdom,Europe,Cambridge,2023,44,1,Pre-Revenue
+S00207,NexusEnergy,Artificial Intelligence,Israel,Middle East,Jerusalem,2018,67,1,Pre-Revenue
+S00208,FluxBio,Fintech,United States,North America,Chicago,2020,13,0,Profitable
+S00209,UltraTech,Gaming & Entertainment,Germany,Europe,Frankfurt,2019,581,1,Revenue Generating
+S00210,WaveSystems,Healthcare & Biotech,South Africa,Africa,Cape Town,2022,8,0,Pre-Revenue
+S00211,EchoSecurity,Real Estate Tech,China,Asia,Shenzhen,2024,12,1,Revenue Generating
+S00212,Arcio,Fintech,France,Europe,Lyon,2017,28,1,Revenue Generating
+S00213,HyperMind,Climate Tech / Clean Energy,China,Asia,Hangzhou,2022,7,0,Revenue Generating
+S00214,MetaAI,Fintech,United States,North America,Los Angeles,2018,2,0,Revenue Generating
+S00215,DawnSecurity,SaaS / Enterprise Software,United States,North America,Los Angeles,2021,108,0,Revenue Generating
+S00216,VertexAI,Logistics & Supply Chain,United Kingdom,Europe,Edinburgh,2024,70,0,Pre-Revenue
+S00217,OrionAI,SaaS / Enterprise Software,Japan,Asia,Osaka,2020,33,0,Revenue Generating
+S00218,FluxLogic,Climate Tech / Clean Energy,United States,North America,Denver,2018,24,0,Revenue Generating
+S00219,ArcEnergy,Healthcare & Biotech,United Kingdom,Europe,Bristol,2015,11,0,Revenue Generating
+S00220,MetaX,Healthcare & Biotech,France,Europe,Lyon,2023,156,0,Revenue Generating
+S00221,Zenly,Fintech,France,Europe,Lyon,2024,10,0,Profitable
+S00222,WaveForge,E-Commerce,India,Asia,Chennai,2024,30,1,Revenue Generating
+S00223,BoltLink,Food & AgriTech,United States,North America,San Francisco,2024,13,0,Pre-Revenue
+S00224,OnyxPlatform,Food & AgriTech,United Kingdom,Europe,Bristol,2016,17,0,Revenue Generating
+S00225,TerraWorks,Gaming & Entertainment,Vietnam,Asia,Ho Chi Minh City,2023,31,0,Pre-Revenue
+S00226,DataRobotics,SaaS / Enterprise Software,United Kingdom,Europe,Bristol,2022,12,0,Pre-Revenue
+S00227,FluxHub,Fintech,Singapore,Asia,Singapore,2024,36,0,Revenue Generating
+S00228,TerraHealth,Healthcare & Biotech,Netherlands,Europe,Amsterdam,2021,19,0,Revenue Generating
+S00229,DataWare,Space Tech,United States,North America,Boston,2024,55,0,Revenue Generating
+S00230,ApexBase,Fintech,China,Asia,Hangzhou,2022,16,0,Revenue Generating
+S00231,FluxAnalytics,Cybersecurity,United Kingdom,Europe,Edinburgh,2017,38,0,Revenue Generating
+S00232,NeoAI,Food & AgriTech,United States,North America,New York,2020,25,1,Pre-Revenue
+S00233,Pulsefy,Fintech,China,Asia,Shenzhen,2019,6,0,Revenue Generating
+S00234,DataNet,Fintech,United States,North America,San Francisco,2021,70,0,Revenue Generating
+S00235,ArcBio,Space Tech,China,Asia,Guangzhou,2021,5,0,Revenue Generating
+S00236,Echoly,Healthcare & Biotech,United Kingdom,Europe,Edinburgh,2023,5,0,Revenue Generating
+S00237,AlphaTech,Artificial Intelligence,United States,North America,Boston,2022,27,1,Revenue Generating
+S00238,ForgeWorks,Fintech,United States,North America,Seattle,2023,6,0,Revenue Generating
+S00239,ApexWare,Healthcare & Biotech,United States,North America,Seattle,2022,14,0,Pre-Revenue
+S00240,ZenAnalytics,Fintech,Germany,Europe,Hamburg,2018,24,1,Pre-Revenue
+S00241,NeoEnergy,Cybersecurity,Kenya,Africa,Nairobi,2022,361,0,Pre-Revenue
+S00242,KiteSecurity,Fintech,United States,North America,Seattle,2021,56,0,Revenue Generating
+S00243,HyperHub,E-Commerce,India,Asia,Mumbai,2018,88,0,Pre-Revenue
+S00244,Cruxio,HR Tech,Canada,North America,Toronto,2020,7,0,Revenue Generating
+S00245,CruxDynamics,Cybersecurity,India,Asia,Pune,2022,8,0,Pre-Revenue
+S00246,Tideverse,Artificial Intelligence,United States,North America,Chicago,2022,20,0,Pre-Revenue
+S00247,BoltTech,Insurtech,United Kingdom,Europe,Manchester,2021,42,0,Profitable
+S00248,PixelEnergy,Food & AgriTech,United States,North America,San Diego,2019,49,0,Revenue Generating
+S00249,FluxLink,Space Tech,United States,North America,Miami,2018,17,1,Revenue Generating
+S00250,RuneLink,Web3 / Blockchain,India,Asia,Chennai,2024,7,1,Pre-Revenue
+S00251,QuarkLabs,Fintech,Australia,Oceania,Melbourne,2021,25,0,Revenue Generating
+S00252,ZenoForge,Food & AgriTech,Germany,Europe,Berlin,2022,17,0,Revenue Generating
+S00253,Nexusverse,Artificial Intelligence,Singapore,Asia,Singapore,2024,5,0,Revenue Generating
+S00254,PulseNet,Social Media / Creator Economy,United Kingdom,Europe,Edinburgh,2021,3,0,Revenue Generating
+S00255,BoltSecurity,Fintech,United States,North America,San Francisco,2024,6,0,Revenue Generating
+S00256,ForgeFlow,Gaming & Entertainment,United States,North America,Los Angeles,2022,14,0,Profitable
+S00257,CruxFinance,Fintech,Germany,Europe,Hamburg,2024,451,0,Revenue Generating
+S00258,OrionX,Artificial Intelligence,Netherlands,Europe,Amsterdam,2021,8,0,Revenue Generating
+S00259,CloudTech,Cybersecurity,India,Asia,Mumbai,2024,46,0,Profitable
+S00260,JetTech,Fintech,China,Asia,Shenzhen,2022,27,0,Revenue Generating
+S00261,Neoverse,Healthcare & Biotech,India,Asia,Hyderabad,2015,3,0,Pre-Revenue
+S00262,XenoWare,Artificial Intelligence,India,Asia,Mumbai,2021,19,0,Pre-Revenue
+S00263,YieldSystems,Fintech,United States,North America,Chicago,2024,5,0,Profitable
+S00264,RapidWorks,Fintech,Canada,North America,Vancouver,2019,2,0,Revenue Generating
+S00265,RuneWorks,E-Commerce,Japan,Asia,Tokyo,2024,165,1,Profitable
+S00266,Veloio,Fintech,China,Asia,Shanghai,2023,16,1,Revenue Generating
+S00267,FluxHealth,Web3 / Blockchain,Egypt,Africa,Cairo,2017,15,0,Revenue Generating
+S00268,ZenoBase,Real Estate Tech,France,Europe,Toulouse,2018,11,0,Pre-Revenue
+S00269,OnyxForge,Climate Tech / Clean Energy,Brazil,South America,São Paulo,2021,15,0,Pre-Revenue
+S00270,DawnNet,Climate Tech / Clean Energy,United States,North America,San Francisco,2024,22,1,Pre-Revenue
+S00271,SageForge,Gaming & Entertainment,India,Asia,Chennai,2021,6,0,Revenue Generating
+S00272,CloudSense,Robotics & Automation,United States,North America,New York,2020,14,0,Pre-Revenue
+S00273,QuarkForge,SaaS / Enterprise Software,India,Asia,Hyderabad,2022,3,0,Revenue Generating
+S00274,Cruxverse,HR Tech,Japan,Asia,Osaka,2021,69,0,Pre-Revenue
+S00275,GridHub,Cybersecurity,France,Europe,Toulouse,2022,12,0,Revenue Generating
+S00276,ZenoWare,Social Media / Creator Economy,United States,North America,Seattle,2019,242,1,Profitable
+S00277,Rapidverse,E-Commerce,South Korea,Asia,Busan,2022,4,0,Pre-Revenue
+S00278,NeoStack,Food & AgriTech,Netherlands,Europe,Rotterdam,2020,7,0,Pre-Revenue
+S00279,JetEnergy,Climate Tech / Clean Energy,United States,North America,San Francisco,2024,51,0,Revenue Generating
+S00280,MetaCore,E-Commerce,United States,North America,San Francisco,2018,12,0,Revenue Generating
+S00281,EdgeBeam,Real Estate Tech,Brazil,South America,Belo Horizonte,2022,4,0,Pre-Revenue
+S00282,UltraFinance,Fintech,United States,North America,Chicago,2023,2,0,Profitable
+S00283,WaveEnergy,Fintech,India,Asia,Hyderabad,2023,5,0,Revenue Generating
+S00284,QuantumWare,Climate Tech / Clean Energy,United States,North America,Denver,2021,20,0,Revenue Generating
+S00285,ProtoRobotics,Cybersecurity,United States,North America,Seattle,2015,24,0,Revenue Generating
+S00286,PulseLabs,Logistics & Supply Chain,South Africa,Africa,Johannesburg,2019,7,0,Pre-Revenue
+S00287,ZenoCloud,E-Commerce,Singapore,Asia,Singapore,2020,21,0,Revenue Generating
+S00288,KiteEnergy,Cybersecurity,China,Asia,Shenzhen,2018,3,0,Pre-Revenue
+S00289,Yieldfy,Artificial Intelligence,United States,North America,Boston,2019,30,0,Revenue Generating
+S00290,Fluxverse,SaaS / Enterprise Software,United Kingdom,Europe,Bristol,2024,31,0,Pre-Revenue
+S00291,NeoCloud,Healthcare & Biotech,United States,North America,Denver,2023,110,0,Revenue Generating
+S00292,CloudDynamics,Logistics & Supply Chain,Mexico,South America,Monterrey,2022,17,1,Pre-Revenue
+S00293,SageSecurity,E-Commerce,India,Asia,Bangalore,2023,11,0,Revenue Generating
+S00294,OnyxTech,Healthcare & Biotech,United Kingdom,Europe,Bristol,2021,2,0,Pre-Revenue
+S00295,GridLink,Logistics & Supply Chain,United States,North America,Seattle,2023,48,0,Revenue Generating
+S00296,EchoMind,HR Tech,Argentina,South America,Buenos Aires,2023,16,1,Revenue Generating
+S00297,HubLink,Cybersecurity,United States,North America,Los Angeles,2015,19,1,Revenue Generating
+S00298,FluxForge,SaaS / Enterprise Software,Australia,Oceania,Melbourne,2019,15,1,Pre-Revenue
+S00299,AstraNet,Healthcare & Biotech,China,Asia,Guangzhou,2021,57,0,Revenue Generating
+S00300,FluxSecurity,HR Tech,Brazil,South America,São Paulo,2023,9,0,Revenue Generating
+S00301,RapidLabs,Healthcare & Biotech,Israel,Middle East,Tel Aviv,2024,49,0,Pre-Revenue
+S00302,EchoAI,Fintech,Egypt,Africa,Cairo,2022,42,0,Pre-Revenue
+S00303,EdgeForge,Logistics & Supply Chain,Vietnam,Asia,Ho Chi Minh City,2019,4,0,Revenue Generating
+S00304,ApexWorks,Fintech,United States,North America,Seattle,2019,53,0,Pre-Revenue
+S00305,IonEnergy,E-Commerce,United States,North America,Boston,2021,2,0,Revenue Generating
+S00306,TideCloud,Fintech,Japan,Asia,Tokyo,2024,8,0,Revenue Generating
+S00307,CoreFlow,Healthcare & Biotech,Brazil,South America,São Paulo,2021,22,0,Revenue Generating
+S00308,TerraWare,Artificial Intelligence,Brazil,South America,Belo Horizonte,2022,21,1,Revenue Generating
+S00309,RapidHealth,Healthcare & Biotech,United States,North America,Seattle,2019,2,0,Pre-Revenue
+S00310,BoltX,Artificial Intelligence,India,Asia,Chennai,2016,114,0,Pre-Revenue
+S00311,BoltHub,Food & AgriTech,United States,North America,Austin,2020,15,0,Pre-Revenue
+S00312,VibePay,E-Commerce,South Korea,Asia,Seoul,2021,21,0,Revenue Generating
+S00313,JetDynamics,Artificial Intelligence,United States,North America,San Francisco,2022,11,1,Revenue Generating
+S00314,ApexSystems,Real Estate Tech,United Kingdom,Europe,Manchester,2021,96,1,Pre-Revenue
+S00315,PixelFinance,Real Estate Tech,United Kingdom,Europe,Cambridge,2020,35,0,Pre-Revenue
+S00316,OrionCloud,SaaS / Enterprise Software,United States,North America,Seattle,2019,66,0,Pre-Revenue
+S00317,ZenSense,Fintech,Singapore,Asia,Singapore,2022,98,0,Revenue Generating
+S00318,IonTech,Gaming & Entertainment,India,Asia,Chennai,2015,2,1,Revenue Generating
+S00319,GridBio,E-Commerce,Israel,Middle East,Jerusalem,2018,16,0,Pre-Revenue
+S00320,HubRobotics,Climate Tech / Clean Energy,India,Asia,Pune,2020,5,0,Revenue Generating
+S00321,IonAnalytics,SaaS / Enterprise Software,India,Asia,Pune,2020,31,0,Revenue Generating
+S00322,AlphaCloud,Fintech,Mexico,South America,Monterrey,2022,4,0,Pre-Revenue
+S00323,OnyxEnergy,Fintech,Israel,Middle East,Tel Aviv,2022,100,0,Pre-Revenue
+S00324,CyberHub,Food & AgriTech,Australia,Oceania,Melbourne,2024,20,0,Pre-Revenue
+S00325,KiteDynamics,Artificial Intelligence,United Kingdom,Europe,London,2023,3,1,Pre-Revenue
+S00326,ProtoSense,Real Estate Tech,United Kingdom,Europe,Manchester,2021,19,0,Revenue Generating
+S00327,VeloCore,E-Commerce,United States,North America,New York,2023,30,0,Revenue Generating
+S00328,DawnLabs,Healthcare & Biotech,United States,North America,Chicago,2018,6,0,Revenue Generating
+S00329,VertexHub,Cybersecurity,United Kingdom,Europe,Manchester,2024,4,1,Pre-Revenue
+S00330,PulseSystems,Healthcare & Biotech,China,Asia,Hangzhou,2018,15,0,Revenue Generating
+S00331,OrionLink,Healthcare & Biotech,United States,North America,Miami,2023,3,0,Revenue Generating
+S00332,BetaPlatform,Robotics & Automation,United States,North America,Miami,2022,14,0,Pre-Revenue
+S00333,VeloPlatform,Healthcare & Biotech,United States,North America,Boston,2024,38,0,Revenue Generating
+S00334,NovaX,Healthcare & Biotech,United States,North America,San Francisco,2021,16,0,Pre-Revenue
+S00335,VertexSystems,Artificial Intelligence,United States,North America,Chicago,2017,15,0,Revenue Generating
+S00336,NovaAI,Fintech,United States,North America,Boston,2022,4,1,Revenue Generating
+S00337,Pixelio,Healthcare & Biotech,China,Asia,Guangzhou,2024,23,0,Pre-Revenue
+S00338,XenoSecurity,SaaS / Enterprise Software,United States,North America,San Diego,2019,12,0,Revenue Generating
+S00339,KiteBase,Gaming & Entertainment,India,Asia,Mumbai,2023,34,0,Revenue Generating
+S00340,VeloLink,Food & AgriTech,Japan,Asia,Osaka,2023,68,0,Pre-Revenue
+S00341,DeltaHealth,Artificial Intelligence,United States,North America,San Francisco,2018,168,0,Pre-Revenue
+S00342,ZenoSpace,Edtech,United States,North America,Chicago,2021,27,1,Pre-Revenue
+S00343,QuantumStack,HR Tech,South Korea,Asia,Seoul,2024,6,0,Revenue Generating
+S00344,CoreStack,Artificial Intelligence,Brazil,South America,Rio de Janeiro,2019,20,0,Pre-Revenue
+S00345,NexusSense,Fintech,Germany,Europe,Frankfurt,2021,13,0,Profitable
+S00346,HubWorks,Artificial Intelligence,Turkey,Europe,Ankara,2022,411,0,Profitable
+S00347,ForgeSpace,Fintech,China,Asia,Guangzhou,2018,5,0,Pre-Revenue
+S00348,NexusDynamics,Fintech,India,Asia,Delhi NCR,2022,6,0,Pre-Revenue
+S00349,HubPay,Artificial Intelligence,Canada,North America,Toronto,2015,14,0,Revenue Generating
+S00350,VibeStack,Web3 / Blockchain,United States,North America,New York,2018,109,1,Pre-Revenue
+S00351,DeltaSense,Healthcare & Biotech,United States,North America,Denver,2020,2,1,Profitable
+S00352,AstraDynamics,SaaS / Enterprise Software,Brazil,South America,Belo Horizonte,2021,32,1,Revenue Generating
+S00353,TerraDynamics,Edtech,United States,North America,San Diego,2020,24,1,Profitable
+S00354,DeltaFlow,Climate Tech / Clean Energy,United Kingdom,Europe,London,2022,55,0,Revenue Generating
+S00355,CoreSecurity,Real Estate Tech,India,Asia,Chennai,2024,32,0,Revenue Generating
+S00356,EchoLabs,Fintech,Germany,Europe,Hamburg,2022,18,0,Revenue Generating
+S00357,Dawnverse,Artificial Intelligence,Singapore,Asia,Singapore,2022,2,0,Profitable
+S00358,ProtoHealth,SaaS / Enterprise Software,Israel,Middle East,Haifa,2024,75,0,Revenue Generating
+S00359,WaveWorks,Social Media / Creator Economy,Argentina,South America,Buenos Aires,2023,3,0,Pre-Revenue
+S00360,Vertexly,Fintech,France,Europe,Lyon,2019,10,0,Profitable
+S00361,ForgeLabs,SaaS / Enterprise Software,United Kingdom,Europe,Bristol,2024,57,0,Revenue Generating
+S00362,TideMind,HR Tech,India,Asia,Delhi NCR,2021,25,0,Pre-Revenue
+S00363,ForgeForge,Logistics & Supply Chain,India,Asia,Mumbai,2022,95,1,Pre-Revenue
+S00364,VeloMind,Web3 / Blockchain,China,Asia,Hangzhou,2024,29,1,Revenue Generating
+S00365,NovaRobotics,Healthcare & Biotech,Japan,Asia,Osaka,2017,2,0,Pre-Revenue
+S00366,CoreWorks,Fintech,India,Asia,Delhi NCR,2022,22,0,Profitable
+S00367,SageCore,Logistics & Supply Chain,Brazil,South America,São Paulo,2024,5,0,Revenue Generating
+S00368,NexusPay,Healthcare & Biotech,Colombia,South America,Bogotá,2020,15,1,Revenue Generating
+S00369,UltraPay,SaaS / Enterprise Software,China,Asia,Beijing,2020,64,1,Revenue Generating
+S00370,LumeTech,Social Media / Creator Economy,United Kingdom,Europe,Manchester,2021,19,0,Profitable
+S00371,XenoX,E-Commerce,United States,North America,Seattle,2019,30,0,Revenue Generating
+S00372,XenoLabs,Social Media / Creator Economy,China,Asia,Shenzhen,2024,166,0,Pre-Revenue
+S00373,CyberLabs,E-Commerce,India,Asia,Hyderabad,2018,2,0,Revenue Generating
+S00374,DawnBio,Fintech,Brazil,South America,São Paulo,2023,34,0,Revenue Generating
+S00375,LumeHub,SaaS / Enterprise Software,United States,North America,Austin,2019,66,0,Profitable
+S00376,DawnFlow,Artificial Intelligence,United States,North America,Miami,2023,5,0,Revenue Generating
+S00377,ForgePay,SaaS / Enterprise Software,United States,North America,Denver,2022,24,0,Pre-Revenue
+S00378,CloudSystems,SaaS / Enterprise Software,Germany,Europe,Berlin,2022,27,0,Revenue Generating
+S00379,UltraWare,SaaS / Enterprise Software,United States,North America,San Diego,2024,36,0,Profitable
+S00380,UltraAnalytics,Artificial Intelligence,United States,North America,San Diego,2021,153,1,Revenue Generating
+S00381,DeltaAI,Edtech,United States,North America,New York,2024,45,1,Pre-Revenue
+S00382,Echoio,Food & AgriTech,Indonesia,Asia,Surabaya,2017,3,0,Profitable
+S00383,OrionSense,Insurtech,India,Asia,Mumbai,2023,11,0,Profitable
+S00384,NovaBio,Artificial Intelligence,United States,North America,New York,2024,5,0,Revenue Generating
+S00385,ForgeAI,Gaming & Entertainment,India,Asia,Mumbai,2018,12,0,Pre-Revenue
+S00386,CloudPay,Climate Tech / Clean Energy,Israel,Middle East,Jerusalem,2017,10,1,Revenue Generating
+S00387,HubEnergy,Real Estate Tech,Canada,North America,Montreal,2017,6,0,Revenue Generating
+S00388,TerraCore,HR Tech,Germany,Europe,Frankfurt,2021,28,0,Profitable
+S00389,HyperStack,Web3 / Blockchain,France,Europe,Paris,2023,12,0,Revenue Generating
+S00390,CyberX,Healthcare & Biotech,Brazil,South America,Rio de Janeiro,2020,23,0,Pre-Revenue
+S00391,RapidSpace,Artificial Intelligence,United Kingdom,Europe,Cambridge,2015,15,0,Pre-Revenue
+S00392,CruxCloud,Artificial Intelligence,Australia,Oceania,Melbourne,2020,356,0,Revenue Generating
+S00393,Tidely,E-Commerce,India,Asia,Pune,2022,109,0,Profitable
+S00394,BetaEnergy,Healthcare & Biotech,Singapore,Asia,Singapore,2022,16,0,Revenue Generating
+S00395,WaveCloud,Climate Tech / Clean Energy,United Kingdom,Europe,Edinburgh,2020,4,0,Pre-Revenue
+S00396,BoltRobotics,SaaS / Enterprise Software,Canada,North America,Toronto,2020,29,0,Profitable
+S00397,OrionSecurity,Gaming & Entertainment,Canada,North America,Montreal,2019,6,0,Revenue Generating
+S00398,Nexusly,Artificial Intelligence,United States,North America,Los Angeles,2020,8,0,Pre-Revenue
+S00399,VibeBeam,Robotics & Automation,India,Asia,Chennai,2023,14,0,Revenue Generating
+S00400,UltraSecurity,Artificial Intelligence,Indonesia,Asia,Surabaya,2024,26,0,Pre-Revenue
+S00401,DeltaCloud,Travel Tech,Israel,Middle East,Tel Aviv,2022,25,0,Revenue Generating
+S00402,BetaNet,Food & AgriTech,Indonesia,Asia,Surabaya,2019,23,0,Pre-Revenue
+S00403,VeloBeam,Edtech,Singapore,Asia,Singapore,2023,13,0,Profitable
+S00404,Fluxio,Fintech,UAE,Middle East,Abu Dhabi,2021,15,0,Revenue Generating
+S00405,Vertexio,Web3 / Blockchain,Singapore,Asia,Singapore,2017,76,0,Pre-Revenue
+S00406,TerraLogic,Artificial Intelligence,South Korea,Asia,Busan,2020,10,1,Revenue Generating
+S00407,DeltaLink,Cybersecurity,United Kingdom,Europe,Manchester,2019,8,1,Profitable
+S00408,OrionBeam,Fintech,China,Asia,Guangzhou,2019,85,1,Pre-Revenue
+S00409,EdgeSense,Gaming & Entertainment,United States,North America,Chicago,2024,16,0,Revenue Generating
+S00410,VertexPay,Logistics & Supply Chain,United States,North America,San Diego,2024,9,0,Pre-Revenue
+S00411,ArcFlow,Fintech,Brazil,South America,Rio de Janeiro,2022,18,0,Revenue Generating
+S00412,HubFinance,Fintech,United States,North America,Boston,2018,8,1,Revenue Generating
+S00413,MetaHub,Fintech,Kenya,Africa,Nairobi,2021,7,0,Profitable
+S00414,BoltNet,E-Commerce,United States,North America,San Diego,2022,26,0,Revenue Generating
+S00415,ArcMind,SaaS / Enterprise Software,UAE,Middle East,Abu Dhabi,2024,39,1,Revenue Generating
+S00416,VeloX,Fintech,United Kingdom,Europe,Edinburgh,2021,26,0,Revenue Generating
+S00417,VibeHub,Gaming & Entertainment,Germany,Europe,Berlin,2020,24,0,Revenue Generating
+S00418,DawnPay,Food & AgriTech,United States,North America,Miami,2021,20,1,Pre-Revenue
+S00419,MetaDynamics,Climate Tech / Clean Energy,United States,North America,Austin,2016,2,0,Pre-Revenue
+S00420,EdgeHealth,Social Media / Creator Economy,United Kingdom,Europe,Cambridge,2021,44,1,Revenue Generating
+S00421,CloudFinance,Fintech,India,Asia,Chennai,2019,100,1,Revenue Generating
+S00422,NeoTech,SaaS / Enterprise Software,France,Europe,Toulouse,2024,149,0,Profitable
+S00423,XenoTech,E-Commerce,India,Asia,Pune,2022,20,1,Pre-Revenue
+S00424,CloudLink,Healthcare & Biotech,Canada,North America,Vancouver,2019,57,1,Revenue Generating
+S00425,NovaBeam,Artificial Intelligence,India,Asia,Mumbai,2021,107,1,Profitable
+S00426,TideCore,SaaS / Enterprise Software,United States,North America,New York,2018,11,0,Revenue Generating
+S00427,NovaFlow,Climate Tech / Clean Energy,India,Asia,Hyderabad,2024,2,0,Profitable
+S00428,TerraRobotics,SaaS / Enterprise Software,Israel,Middle East,Tel Aviv,2023,9,0,Revenue Generating
+S00429,AlphaSecurity,Gaming & Entertainment,Canada,North America,Vancouver,2019,604,0,Pre-Revenue
+S00430,CruxEnergy,Fintech,China,Asia,Shenzhen,2020,12,0,Pre-Revenue
+S00431,CloudStack,Cybersecurity,India,Asia,Bangalore,2015,5,1,Pre-Revenue
+S00432,DataEnergy,E-Commerce,Indonesia,Asia,Surabaya,2020,48,0,Revenue Generating
+S00433,Xenoverse,SaaS / Enterprise Software,United States,North America,Austin,2020,297,0,Pre-Revenue
+S00434,TideWare,Gaming & Entertainment,Germany,Europe,Munich,2023,35,0,Revenue Generating
+S00435,SwiftSpace,E-Commerce,United Kingdom,Europe,Bristol,2017,3,0,Pre-Revenue
+S00436,QuantumForge,Fintech,United States,North America,Miami,2022,24,0,Revenue Generating
+S00437,VibeSpace,Fintech,Kenya,Africa,Nairobi,2024,118,0,Revenue Generating
+S00438,Quantumverse,Cybersecurity,United States,North America,San Diego,2018,35,1,Profitable
+S00439,RapidPay,Fintech,India,Asia,Bangalore,2022,104,0,Revenue Generating
+S00440,MetaMind,SaaS / Enterprise Software,Bangladesh,Asia,Dhaka,2022,66,1,Revenue Generating
+S00441,NexusFinance,Healthcare & Biotech,United States,North America,Seattle,2019,12,1,Revenue Generating
+S00442,WaveFlow,Gaming & Entertainment,India,Asia,Hyderabad,2020,2,0,Revenue Generating
+S00443,FluxX,Fintech,United Kingdom,Europe,Bristol,2024,28,0,Revenue Generating
+S00444,QuantumNet,Space Tech,United States,North America,Chicago,2019,21,0,Pre-Revenue
+S00445,QuantumSecurity,Legal Tech,India,Asia,Hyderabad,2021,12,0,Pre-Revenue
+S00446,ForgeLogic,Gaming & Entertainment,United States,North America,Boston,2023,31,0,Revenue Generating
+S00447,TideBase,Cybersecurity,United States,North America,Chicago,2019,18,0,Revenue Generating
+S00448,EdgeTech,Real Estate Tech,Canada,North America,Vancouver,2021,20,0,Revenue Generating
+S00449,AstraX,Fintech,India,Asia,Hyderabad,2021,28,0,Profitable
+S00450,Corely,Edtech,United Kingdom,Europe,Cambridge,2018,258,0,Revenue Generating
+S00451,NovaNet,Cybersecurity,Indonesia,Asia,Surabaya,2015,8,0,Profitable
+S00452,UltraBeam,Space Tech,Estonia,Europe,Tallinn,2021,143,0,Pre-Revenue
+S00453,Apexio,Fintech,Estonia,Europe,Tallinn,2024,22,0,Pre-Revenue
+S00454,NexusBeam,Web3 / Blockchain,Spain,Europe,Madrid,2021,35,0,Revenue Generating
+S00455,VertexSense,Artificial Intelligence,Germany,Europe,Frankfurt,2020,10,0,Pre-Revenue
+S00456,JetCore,Cybersecurity,China,Asia,Beijing,2020,2,0,Revenue Generating
+S00457,SwiftMind,Edtech,United States,North America,Los Angeles,2016,71,0,Pre-Revenue
+S00458,NeoHealth,E-Commerce,Germany,Europe,Frankfurt,2022,8,0,Revenue Generating
+S00459,GridPlatform,Healthcare & Biotech,Singapore,Asia,Singapore,2024,68,0,Revenue Generating
+S00460,ZenSystems,Artificial Intelligence,France,Europe,Lyon,2022,3,0,Revenue Generating
+S00461,Ultraio,Fintech,United States,North America,Denver,2024,80,0,Pre-Revenue
+S00462,NovaHub,Artificial Intelligence,South Korea,Asia,Busan,2021,34,1,Pre-Revenue
+S00463,ZenoAnalytics,Artificial Intelligence,France,Europe,Paris,2022,19,0,Revenue Generating
+S00464,QuarkX,SaaS / Enterprise Software,United States,North America,Los Angeles,2018,300,0,Revenue Generating
+S00465,KiteFlow,Artificial Intelligence,Indonesia,Asia,Jakarta,2019,11,0,Profitable
+S00466,WaveAnalytics,Artificial Intelligence,Australia,Oceania,Melbourne,2020,5,0,Revenue Generating
+S00467,AlphaLink,Healthcare & Biotech,UAE,Middle East,Abu Dhabi,2018,17,0,Revenue Generating
+S00468,CoreHealth,Social Media / Creator Economy,Singapore,Asia,Singapore,2015,5,0,Revenue Generating
+S00469,Kiteverse,Fintech,Kenya,Africa,Nairobi,2020,62,0,Pre-Revenue
+S00470,VeloForge,Travel Tech,United States,North America,Austin,2022,252,0,Pre-Revenue
+S00471,GridFinance,Healthcare & Biotech,India,Asia,Bangalore,2021,10,0,Pre-Revenue
+S00472,DeltaSecurity,Artificial Intelligence,Germany,Europe,Munich,2022,296,0,Revenue Generating
+S00473,ApexSpace,Fintech,France,Europe,Lyon,2024,126,0,Pre-Revenue
+S00474,Terraly,Artificial Intelligence,China,Asia,Guangzhou,2020,38,0,Profitable
+S00475,XenoLogic,SaaS / Enterprise Software,Japan,Asia,Tokyo,2022,42,0,Pre-Revenue
+S00476,TideSystems,Fintech,India,Asia,Hyderabad,2022,3,0,Revenue Generating
+S00477,ArcLabs,Cybersecurity,United Kingdom,Europe,Cambridge,2016,2,0,Pre-Revenue
+S00478,TerraSpace,E-Commerce,China,Asia,Shenzhen,2023,31,0,Pre-Revenue
+S00479,UltraLabs,Healthcare & Biotech,Kenya,Africa,Nairobi,2018,13,0,Revenue Generating
+S00480,Zenio,Edtech,United States,North America,Los Angeles,2022,6,1,Revenue Generating
+S00481,QuantumFlow,Web3 / Blockchain,Bangladesh,Asia,Dhaka,2023,122,0,Revenue Generating
+S00482,OnyxMind,Artificial Intelligence,United Kingdom,Europe,Manchester,2023,30,0,Profitable
+S00483,ArcLogic,SaaS / Enterprise Software,India,Asia,Delhi NCR,2020,30,0,Revenue Generating
+S00484,TerraCloud,Artificial Intelligence,Germany,Europe,Frankfurt,2024,47,0,Revenue Generating
+S00485,ZenoMind,Fintech,United States,North America,Miami,2024,8,0,Revenue Generating
+S00486,ArcStack,Artificial Intelligence,France,Europe,Lyon,2021,13,0,Pre-Revenue
+S00487,VeloWorks,E-Commerce,India,Asia,Mumbai,2022,3,0,Pre-Revenue
+S00488,ZenoTech,Logistics & Supply Chain,United States,North America,Chicago,2021,46,0,Profitable
+S00489,MetaEnergy,Fintech,Canada,North America,Vancouver,2017,11,1,Revenue Generating
+S00490,RuneAI,Artificial Intelligence,Germany,Europe,Berlin,2023,26,0,Pre-Revenue
+S00491,ZenoDynamics,Artificial Intelligence,Brazil,South America,Rio de Janeiro,2022,21,1,Revenue Generating
+S00492,LumeLogic,SaaS / Enterprise Software,China,Asia,Hangzhou,2021,2,0,Profitable
+S00493,QuantumEnergy,Climate Tech / Clean Energy,South Korea,Asia,Busan,2024,36,0,Revenue Generating
+S00494,HyperForge,Fintech,United States,North America,Seattle,2017,43,0,Pre-Revenue
+S00495,OrionWorks,Healthcare & Biotech,China,Asia,Guangzhou,2020,22,0,Revenue Generating
+S00496,PixelFlow,Logistics & Supply Chain,United States,North America,Denver,2020,12,0,Revenue Generating
+S00497,LumeMind,Web3 / Blockchain,India,Asia,Hyderabad,2016,6,0,Revenue Generating
+S00498,LumeFlow,Fintech,France,Europe,Paris,2022,13,0,Pre-Revenue
+S00499,GridSense,Fintech,Singapore,Asia,Singapore,2020,22,0,Revenue Generating
+S00500,Astraverse,Artificial Intelligence,India,Asia,Hyderabad,2024,4,0,Revenue Generating
+S00501,EchoSpace,Real Estate Tech,South Africa,Africa,Cape Town,2019,2,0,Revenue Generating
+S00502,NeoMind,Cybersecurity,South Korea,Asia,Seoul,2024,91,0,Revenue Generating
+S00503,FluxFinance,E-Commerce,United States,North America,Boston,2021,64,1,Revenue Generating
+S00504,HyperX,SaaS / Enterprise Software,Brazil,South America,Belo Horizonte,2023,17,1,Revenue Generating
+S00505,KiteTech,Healthcare & Biotech,Spain,Europe,Barcelona,2021,26,0,Revenue Generating
+S00506,HyperPay,Fintech,United States,North America,Seattle,2020,26,0,Revenue Generating
+S00507,AlphaLogic,Cybersecurity,United States,North America,Denver,2021,12,0,Profitable
+S00508,QuantumMind,E-Commerce,United States,North America,Los Angeles,2021,113,1,Pre-Revenue
+S00509,ForgeCloud,Fintech,China,Asia,Shenzhen,2023,94,0,Revenue Generating
+S00510,UltraBase,Insurtech,Australia,Oceania,Melbourne,2023,18,0,Revenue Generating
+S00511,OnyxAI,Robotics & Automation,Singapore,Asia,Singapore,2023,21,0,Profitable
+S00512,XenoSpace,Artificial Intelligence,Australia,Oceania,Melbourne,2024,2,1,Pre-Revenue
+S00513,TerraEnergy,Food & AgriTech,Brazil,South America,Rio de Janeiro,2016,9,0,Pre-Revenue
+S00514,Zenoly,Fintech,United States,North America,Miami,2020,4,0,Pre-Revenue
+S00515,VeloDynamics,E-Commerce,Kenya,Africa,Nairobi,2023,86,0,Revenue Generating
+S00516,KiteAnalytics,E-Commerce,United States,North America,Chicago,2021,26,1,Pre-Revenue
+S00517,ZenoHub,Healthcare & Biotech,United States,North America,Boston,2023,276,0,Pre-Revenue
+S00518,DataHub,Gaming & Entertainment,Germany,Europe,Munich,2022,56,1,Pre-Revenue
+S00519,VibeMind,Artificial Intelligence,United States,North America,Los Angeles,2021,29,0,Revenue Generating
+S00520,ZenTech,SaaS / Enterprise Software,Philippines,Asia,Manila,2018,21,0,Pre-Revenue
+S00521,PixelCloud,Real Estate Tech,United Kingdom,Europe,Edinburgh,2022,45,0,Pre-Revenue
+S00522,BoltCloud,Legal Tech,Israel,Middle East,Tel Aviv,2022,14,0,Revenue Generating
+S00523,ForgeAnalytics,Food & AgriTech,United States,North America,New York,2020,7,0,Revenue Generating
+S00524,CyberFinance,Fintech,United States,North America,New York,2017,16,1,Profitable
+S00525,PulseStack,Fintech,Estonia,Europe,Tallinn,2018,36,0,Revenue Generating
+S00526,JetBase,Food & AgriTech,Indonesia,Asia,Surabaya,2018,98,0,Revenue Generating
+S00527,DataLabs,SaaS / Enterprise Software,United States,North America,Chicago,2024,43,0,Revenue Generating
+S00528,ForgeEnergy,Artificial Intelligence,United States,North America,New York,2021,3,1,Revenue Generating
+S00529,VibeForge,HR Tech,India,Asia,Bangalore,2022,4,0,Revenue Generating
+S00530,OrionPay,Artificial Intelligence,Brazil,South America,São Paulo,2018,9,0,Profitable
+S00531,RuneDynamics,HR Tech,India,Asia,Bangalore,2018,2,0,Pre-Revenue
+S00532,XenoAnalytics,Fintech,Philippines,Asia,Manila,2020,25,0,Pre-Revenue
+S00533,RuneLogic,Fintech,Australia,Oceania,Sydney,2024,29,0,Pre-Revenue
+S00534,AstraHealth,Artificial Intelligence,United States,North America,Los Angeles,2020,45,0,Profitable
+S00535,MetaAnalytics,Artificial Intelligence,India,Asia,Pune,2024,23,0,Revenue Generating
+S00536,GridRobotics,E-Commerce,United States,North America,San Diego,2017,11,0,Revenue Generating
+S00537,VertexEnergy,Artificial Intelligence,China,Asia,Guangzhou,2024,2,0,Pre-Revenue
+S00538,Kitefy,Space Tech,India,Asia,Chennai,2019,4,0,Profitable
+S00539,NovaSystems,Logistics & Supply Chain,United States,North America,Chicago,2020,30,0,Revenue Generating
+S00540,AstraPlatform,SaaS / Enterprise Software,India,Asia,Mumbai,2020,75,1,Revenue Generating
+S00541,RuneX,Artificial Intelligence,India,Asia,Mumbai,2022,29,1,Pre-Revenue
+S00542,Boltverse,SaaS / Enterprise Software,Egypt,Africa,Cairo,2023,96,0,Revenue Generating
+S00543,RapidForge,Fintech,Vietnam,Asia,Ho Chi Minh City,2023,7,0,Revenue Generating
+S00544,UltraLink,Healthcare & Biotech,United States,North America,Boston,2018,25,0,Profitable
+S00545,QuantumBio,Fintech,India,Asia,Pune,2023,11,0,Pre-Revenue
+S00546,EdgeSystems,Edtech,Singapore,Asia,Singapore,2020,35,0,Profitable
+S00547,OrionFlow,Healthcare & Biotech,China,Asia,Beijing,2024,22,0,Revenue Generating
+S00548,ZenoLabs,SaaS / Enterprise Software,United States,North America,Miami,2020,391,1,Pre-Revenue
+S00549,GridSystems,E-Commerce,United States,North America,San Francisco,2016,11,1,Revenue Generating
+S00550,YieldStack,Fintech,Argentina,South America,Buenos Aires,2015,29,1,Revenue Generating
+S00551,AstraCloud,SaaS / Enterprise Software,Indonesia,Asia,Surabaya,2021,13,0,Pre-Revenue
+S00552,TerraPay,Edtech,United States,North America,Austin,2016,36,1,Profitable
+S00553,KiteLogic,SaaS / Enterprise Software,United States,North America,San Francisco,2021,60,1,Revenue Generating
+S00554,ApexAnalytics,Travel Tech,United Kingdom,Europe,London,2017,42,0,Pre-Revenue
+S00555,AlphaSystems,E-Commerce,Netherlands,Europe,Rotterdam,2023,3,1,Revenue Generating
+S00556,BetaAI,Artificial Intelligence,United States,North America,San Francisco,2020,3,0,Profitable
+S00557,SwiftCore,Fintech,Germany,Europe,Berlin,2018,71,0,Revenue Generating
+S00558,HyperBeam,Fintech,United Kingdom,Europe,Manchester,2021,64,0,Profitable
+S00559,PulseBeam,SaaS / Enterprise Software,India,Asia,Pune,2023,18,0,Pre-Revenue
+S00560,ZenoFlow,Logistics & Supply Chain,United States,North America,Denver,2020,71,1,Revenue Generating
+S00561,ForgeBase,Artificial Intelligence,United States,North America,Los Angeles,2019,16,1,Pre-Revenue
+S00562,CruxBio,Social Media / Creator Economy,China,Asia,Guangzhou,2020,93,0,Profitable
+S00563,TideHub,Space Tech,Saudi Arabia,Middle East,Jeddah,2017,31,0,Revenue Generating
+S00564,SwiftForge,Artificial Intelligence,United Kingdom,Europe,Cambridge,2022,77,0,Pre-Revenue
+S00565,VeloBio,Healthcare & Biotech,Germany,Europe,Hamburg,2015,32,0,Pre-Revenue
+S00566,EdgeFlow,Logistics & Supply Chain,Nigeria,Africa,Nairobi,2020,2,0,Revenue Generating
+S00567,WaveCore,Healthcare & Biotech,Canada,North America,Toronto,2018,85,0,Pre-Revenue
+S00568,ApexDynamics,SaaS / Enterprise Software,UAE,Middle East,Dubai,2023,5,1,Revenue Generating
+S00569,FluxTech,Gaming & Entertainment,United States,North America,Chicago,2017,26,0,Revenue Generating
+S00570,CyberSecurity,Space Tech,China,Asia,Shenzhen,2018,3,0,Revenue Generating
+S00571,WaveBeam,Artificial Intelligence,United States,North America,Seattle,2023,10,0,Pre-Revenue
+S00572,DataX,Fintech,United Kingdom,Europe,Cambridge,2017,9,0,Profitable
+S00573,UltraCloud,Logistics & Supply Chain,United States,North America,Seattle,2024,10,0,Revenue Generating
+S00574,ProtoDynamics,Fintech,India,Asia,Pune,2021,15,1,Revenue Generating
+S00575,FluxAI,Climate Tech / Clean Energy,United States,North America,Austin,2020,40,0,Pre-Revenue
+S00576,HyperWorks,E-Commerce,United States,North America,Los Angeles,2019,59,0,Revenue Generating
+S00577,UltraBio,Artificial Intelligence,China,Asia,Shenzhen,2019,3,1,Pre-Revenue
+S00578,TideFinance,Artificial Intelligence,Japan,Asia,Tokyo,2023,11,0,Revenue Generating
+S00579,CruxLink,Cybersecurity,Indonesia,Asia,Jakarta,2024,13,0,Pre-Revenue
+S00580,VibeTech,Edtech,United States,North America,Chicago,2018,18,0,Profitable
+S00581,ZenMind,Fintech,United States,North America,Chicago,2022,6,0,Pre-Revenue
+S00582,SageTech,Healthcare & Biotech,Kenya,Africa,Nairobi,2021,18,1,Revenue Generating
+S00583,Veloverse,Artificial Intelligence,China,Asia,Shenzhen,2021,36,0,Pre-Revenue
+S00584,Alphaio,Gaming & Entertainment,United States,North America,Chicago,2022,17,1,Profitable
+S00585,DeltaBase,Fintech,Vietnam,Asia,Ho Chi Minh City,2024,26,0,Revenue Generating
+S00586,AstraBase,Logistics & Supply Chain,India,Asia,Pune,2023,29,0,Profitable
+S00587,DeltaLogic,Fintech,United States,North America,New York,2022,6,0,Pre-Revenue
+S00588,PixelDynamics,Social Media / Creator Economy,China,Asia,Shanghai,2015,7,0,Pre-Revenue
+S00589,Swiftverse,Artificial Intelligence,United Kingdom,Europe,Manchester,2024,214,0,Revenue Generating
+S00590,OrionMind,E-Commerce,India,Asia,Mumbai,2021,24,0,Revenue Generating
+S00591,LumeSense,Fintech,France,Europe,Paris,2022,20,0,Pre-Revenue
+S00592,CoreSystems,E-Commerce,Netherlands,Europe,Amsterdam,2021,6,1,Pre-Revenue
+S00593,IonBeam,Artificial Intelligence,Germany,Europe,Berlin,2023,25,0,Revenue Generating
+S00594,UltraPlatform,Fintech,United States,North America,San Diego,2017,5,0,Profitable
+S00595,ProtoAI,Robotics & Automation,China,Asia,Beijing,2020,35,0,Pre-Revenue
+S00596,LumeRobotics,Healthcare & Biotech,China,Asia,Guangzhou,2020,35,0,Profitable
+S00597,ApexPay,Edtech,United States,North America,San Francisco,2020,46,1,Pre-Revenue
+S00598,MetaWorks,Artificial Intelligence,Nigeria,Africa,Nairobi,2023,15,0,Pre-Revenue
+S00599,OnyxX,Fintech,India,Asia,Pune,2019,2,0,Profitable
+S00600,EdgeNet,Artificial Intelligence,United States,North America,Miami,2021,4,0,Pre-Revenue
+S00601,AstraPay,Web3 / Blockchain,UAE,Middle East,Dubai,2022,2,0,Pre-Revenue
+S00602,EchoStack,Artificial Intelligence,Indonesia,Asia,Jakarta,2023,10,0,Revenue Generating
+S00603,MetaRobotics,Artificial Intelligence,Nigeria,Africa,Nairobi,2017,48,1,Revenue Generating
+S00604,TideLabs,SaaS / Enterprise Software,Mexico,South America,Monterrey,2024,5,1,Revenue Generating
+S00605,CruxLogic,Space Tech,United States,North America,Miami,2022,18,0,Revenue Generating
+S00606,MetaStack,Climate Tech / Clean Energy,United States,North America,New York,2016,20,0,Pre-Revenue
+S00607,OnyxCloud,SaaS / Enterprise Software,India,Asia,Chennai,2018,95,0,Pre-Revenue
+S00608,RapidHub,Healthcare & Biotech,France,Europe,Lyon,2024,10,0,Revenue Generating
+S00609,HyperPlatform,Edtech,United States,North America,Denver,2021,40,1,Revenue Generating
+S00610,ApexMind,Gaming & Entertainment,France,Europe,Lyon,2023,23,0,Revenue Generating
+S00611,KiteHealth,Healthcare & Biotech,China,Asia,Shanghai,2023,21,0,Pre-Revenue
+S00612,CyberRobotics,Healthcare & Biotech,Canada,North America,Montreal,2021,36,1,Revenue Generating
+S00613,ArcSpace,Edtech,United States,North America,Seattle,2017,77,1,Pre-Revenue
+S00614,TideForge,Fintech,France,Europe,Toulouse,2024,46,0,Profitable
+S00615,RuneMind,SaaS / Enterprise Software,Germany,Europe,Munich,2022,414,0,Revenue Generating
+S00616,PulseHealth,Artificial Intelligence,South Korea,Asia,Seoul,2020,9,0,Pre-Revenue
+S00617,RapidFinance,Web3 / Blockchain,China,Asia,Hangzhou,2020,30,0,Revenue Generating
+S00618,IonLabs,Fintech,India,Asia,Delhi NCR,2024,37,1,Revenue Generating
+S00619,IonSystems,Healthcare & Biotech,United States,North America,New York,2022,16,0,Revenue Generating
+S00620,Cyberverse,Climate Tech / Clean Energy,United Kingdom,Europe,Manchester,2021,37,0,Revenue Generating
+S00621,PulseTech,Cybersecurity,Canada,North America,Vancouver,2020,36,0,Revenue Generating
+S00622,JetBeam,E-Commerce,United States,North America,San Diego,2023,15,1,Pre-Revenue
+S00623,QuarkSystems,Climate Tech / Clean Energy,China,Asia,Hangzhou,2019,39,0,Profitable
+S00624,OnyxBase,Space Tech,Bangladesh,Asia,Dhaka,2023,2,0,Revenue Generating
+S00625,CyberPlatform,Edtech,United States,North America,San Francisco,2020,21,0,Revenue Generating
+S00626,DawnEnergy,Insurtech,United States,North America,San Francisco,2023,12,0,Revenue Generating
+S00627,TerraTech,Fintech,United Kingdom,Europe,Bristol,2020,7,0,Profitable
+S00628,SagePlatform,SaaS / Enterprise Software,United States,North America,Denver,2024,46,0,Revenue Generating
+S00629,WavePay,SaaS / Enterprise Software,Colombia,South America,Bogotá,2023,9,0,Revenue Generating
+S00630,PixelRobotics,HR Tech,Philippines,Asia,Manila,2017,79,0,Revenue Generating
+S00631,BetaFinance,Artificial Intelligence,Philippines,Asia,Manila,2023,61,0,Revenue Generating
+S00632,EchoTech,Gaming & Entertainment,United Kingdom,Europe,Manchester,2022,7,0,Revenue Generating
+S00633,HyperCore,SaaS / Enterprise Software,India,Asia,Mumbai,2022,5,1,Revenue Generating
+S00634,SwiftWorks,Healthcare & Biotech,Sweden,Europe,Gothenburg,2021,275,0,Revenue Generating
+S00635,AstraBio,Cybersecurity,Israel,Middle East,Haifa,2022,34,0,Revenue Generating
+S00636,Cyberio,Artificial Intelligence,United States,North America,Seattle,2016,60,0,Revenue Generating
+S00637,ArcRobotics,Space Tech,India,Asia,Bangalore,2017,4,0,Revenue Generating
+S00638,CoreBeam,Fintech,United States,North America,San Francisco,2017,15,0,Pre-Revenue
+S00639,NovaCore,E-Commerce,India,Asia,Chennai,2021,11,0,Revenue Generating
+S00640,Hubly,SaaS / Enterprise Software,Netherlands,Europe,Rotterdam,2021,6,0,Revenue Generating
+S00641,CruxBeam,Fintech,United States,North America,Seattle,2020,2,0,Pre-Revenue
+S00642,AlphaX,Cybersecurity,India,Asia,Mumbai,2019,94,0,Profitable
+S00643,YieldEnergy,Artificial Intelligence,United Kingdom,Europe,Cambridge,2024,20,0,Profitable
+S00644,EdgeWare,SaaS / Enterprise Software,Canada,North America,Toronto,2023,18,1,Pre-Revenue
+S00645,Hyperfy,Artificial Intelligence,India,Asia,Mumbai,2015,36,0,Pre-Revenue
+S00646,ArcLink,Cybersecurity,Germany,Europe,Munich,2020,61,0,Profitable
+S00647,XenoHub,Fintech,India,Asia,Pune,2022,40,0,Revenue Generating
+S00648,Pixelly,Food & AgriTech,United States,North America,Chicago,2022,31,1,Pre-Revenue
+S00649,NovaAnalytics,E-Commerce,Australia,Oceania,Sydney,2021,69,0,Pre-Revenue
+S00650,UltraLogic,E-Commerce,United States,North America,Denver,2022,317,1,Revenue Generating
+S00651,QuarkAnalytics,Social Media / Creator Economy,China,Asia,Shenzhen,2021,3,0,Pre-Revenue
+S00652,JetX,Space Tech,United States,North America,Los Angeles,2022,108,1,Revenue Generating
+S00653,CruxMind,Web3 / Blockchain,China,Asia,Beijing,2017,19,0,Revenue Generating
+S00654,VibeCore,Cybersecurity,United States,North America,Seattle,2021,4,0,Revenue Generating
+S00655,DawnHealth,Food & AgriTech,Estonia,Europe,Tallinn,2021,29,1,Pre-Revenue
+S00656,QuarkBase,Real Estate Tech,India,Asia,Mumbai,2019,22,0,Revenue Generating
+S00657,VeloBase,Fintech,United States,North America,Seattle,2021,533,0,Revenue Generating
+S00658,XenoSystems,Healthcare & Biotech,United States,North America,Miami,2018,30,0,Revenue Generating
+S00659,RapidRobotics,Fintech,Netherlands,Europe,Rotterdam,2021,97,0,Pre-Revenue
+S00660,ArcAnalytics,E-Commerce,United States,North America,Miami,2017,18,1,Pre-Revenue
+S00661,ProtoBio,Logistics & Supply Chain,Turkey,Europe,Ankara,2017,44,0,Revenue Generating
+S00662,KiteSystems,Fintech,China,Asia,Shanghai,2017,7,0,Profitable
+S00663,Apexly,Climate Tech / Clean Energy,United States,North America,San Francisco,2021,3,0,Pre-Revenue
+S00664,PixelBase,Fintech,United States,North America,Boston,2020,13,1,Revenue Generating
+S00665,MetaLabs,Space Tech,Nigeria,Africa,Nairobi,2023,6,0,Pre-Revenue
+S00666,Astraio,E-Commerce,India,Asia,Bangalore,2021,24,1,Pre-Revenue
+S00667,ForgeBeam,Healthcare & Biotech,Mexico,South America,Mexico City,2015,17,0,Pre-Revenue
+S00668,NexusSystems,HR Tech,Estonia,Europe,Tallinn,2022,62,0,Pre-Revenue
+S00669,ApexCloud,E-Commerce,United States,North America,San Diego,2022,86,1,Pre-Revenue
+S00670,SwiftTech,Healthcare & Biotech,India,Asia,Chennai,2018,14,0,Revenue Generating
+S00671,VertexStack,Cybersecurity,United Kingdom,Europe,Manchester,2023,15,0,Pre-Revenue
+S00672,NeoCore,Social Media / Creator Economy,China,Asia,Beijing,2019,44,1,Profitable
+S00673,CyberBase,Social Media / Creator Economy,Spain,Europe,Madrid,2020,99,1,Pre-Revenue
+S00674,XenoAI,Artificial Intelligence,Israel,Middle East,Haifa,2022,116,1,Profitable
+S00675,OnyxBio,Healthcare & Biotech,Germany,Europe,Frankfurt,2018,176,0,Pre-Revenue
+S00676,Yieldly,Healthcare & Biotech,India,Asia,Delhi NCR,2018,12,0,Revenue Generating
+S00677,VibeLink,Web3 / Blockchain,United States,North America,San Diego,2017,18,0,Revenue Generating
+S00678,AstraLabs,Food & AgriTech,France,Europe,Toulouse,2024,25,0,Pre-Revenue
+S00679,Kitely,Healthcare & Biotech,United States,North America,Los Angeles,2022,7,1,Revenue Generating
+S00680,HubHealth,Gaming & Entertainment,Canada,North America,Montreal,2016,8,0,Revenue Generating
+S00681,QuarkCloud,Cybersecurity,United States,North America,Denver,2021,15,0,Profitable
+S00682,VibeAnalytics,Artificial Intelligence,Canada,North America,Vancouver,2017,26,0,Revenue Generating
+S00683,BetaPay,E-Commerce,India,Asia,Chennai,2017,26,0,Revenue Generating
+S00684,VertexX,Artificial Intelligence,United States,North America,New York,2021,9,0,Revenue Generating
+S00685,FluxDynamics,Artificial Intelligence,Singapore,Asia,Singapore,2015,106,0,Pre-Revenue
+S00686,Astrafy,Logistics & Supply Chain,United Kingdom,Europe,Bristol,2018,40,0,Revenue Generating
+S00687,BoltStack,Fintech,India,Asia,Delhi NCR,2020,16,0,Pre-Revenue
+S00688,WaveRobotics,SaaS / Enterprise Software,Indonesia,Asia,Jakarta,2022,4,0,Profitable
+S00689,VeloTech,E-Commerce,Australia,Oceania,Sydney,2022,7,1,Pre-Revenue
+S00690,XenoWorks,Artificial Intelligence,United States,North America,Austin,2023,2,1,Revenue Generating
+S00691,NovaWorks,Healthcare & Biotech,United Kingdom,Europe,Manchester,2016,22,0,Pre-Revenue
+S00692,TerraLink,Fintech,Brazil,South America,Belo Horizonte,2015,7,0,Revenue Generating
+S00693,ApexCore,SaaS / Enterprise Software,Estonia,Europe,Tallinn,2024,116,0,Revenue Generating
+S00694,RuneWare,Artificial Intelligence,China,Asia,Hangzhou,2024,71,0,Pre-Revenue
+S00695,ProtoPay,Food & AgriTech,Indonesia,Asia,Surabaya,2019,20,0,Pre-Revenue
+S00696,IonLogic,Artificial Intelligence,United States,North America,Seattle,2024,22,0,Pre-Revenue
+S00697,IonNet,Food & AgriTech,United States,North America,New York,2020,9,0,Profitable
+S00698,NovaSecurity,E-Commerce,India,Asia,Mumbai,2017,114,1,Revenue Generating
+S00699,Cloudfy,E-Commerce,Australia,Oceania,Sydney,2023,25,0,Pre-Revenue
+S00700,TideStack,Climate Tech / Clean Energy,Netherlands,Europe,Amsterdam,2020,81,1,Pre-Revenue
+S00701,DawnCore,Healthcare & Biotech,United Kingdom,Europe,Edinburgh,2018,10,1,Profitable
+S00702,EchoPlatform,Artificial Intelligence,Sweden,Europe,Gothenburg,2023,64,1,Revenue Generating
+S00703,ForgeSystems,Artificial Intelligence,United States,North America,Austin,2024,95,0,Revenue Generating
+S00704,LumeSpace,Cybersecurity,United States,North America,New York,2022,2,1,Revenue Generating
+S00705,QuantumCloud,Healthcare & Biotech,Germany,Europe,Hamburg,2023,2,0,Revenue Generating
+S00706,OrionSystems,SaaS / Enterprise Software,Netherlands,Europe,Rotterdam,2023,67,0,Pre-Revenue
+S00707,XenoPay,Healthcare & Biotech,Germany,Europe,Munich,2020,224,0,Revenue Generating
+S00708,Betaly,SaaS / Enterprise Software,United Kingdom,Europe,Edinburgh,2022,35,0,Revenue Generating
+S00709,YieldPay,Cybersecurity,India,Asia,Mumbai,2023,2,0,Profitable
+S00710,YieldX,Healthcare & Biotech,United States,North America,Miami,2023,7,0,Pre-Revenue
+S00711,VertexBase,Logistics & Supply Chain,China,Asia,Shanghai,2015,9,1,Profitable
+S00712,YieldLogic,Space Tech,China,Asia,Guangzhou,2021,2,0,Pre-Revenue
+S00713,ApexFlow,Travel Tech,United States,North America,Denver,2022,38,0,Profitable
+S00714,WaveBase,Food & AgriTech,Indonesia,Asia,Jakarta,2019,17,0,Revenue Generating
+S00715,DawnRobotics,Artificial Intelligence,Canada,North America,Toronto,2023,5,0,Pre-Revenue
+S00716,VeloSystems,Artificial Intelligence,United States,North America,San Diego,2023,45,0,Profitable
+S00717,BoltFlow,Edtech,United States,North America,Chicago,2019,4,1,Profitable
+S00718,ApexRobotics,Logistics & Supply Chain,Saudi Arabia,Middle East,Jeddah,2021,27,1,Pre-Revenue
+S00719,VeloRobotics,Edtech,Saudi Arabia,Middle East,Riyadh,2020,6,0,Revenue Generating
+S00720,TerraSense,Robotics & Automation,United States,North America,Chicago,2023,173,0,Revenue Generating
+S00721,DawnSystems,E-Commerce,United States,North America,San Diego,2021,25,0,Pre-Revenue
+S00722,OnyxBeam,Insurtech,France,Europe,Lyon,2018,14,0,Pre-Revenue
+S00723,AlphaMind,Edtech,Indonesia,Asia,Jakarta,2019,3,0,Pre-Revenue
+S00724,CloudHub,Fintech,United States,North America,San Francisco,2024,2,0,Profitable
+S00725,AlphaBio,Insurtech,France,Europe,Lyon,2023,49,1,Revenue Generating
+S00726,TerraSecurity,Climate Tech / Clean Energy,United States,North America,Austin,2018,22,0,Profitable
+S00727,IonLink,Real Estate Tech,United States,North America,Miami,2020,17,0,Revenue Generating
+S00728,EchoFinance,Cybersecurity,Mexico,South America,Monterrey,2021,18,0,Pre-Revenue
+S00729,CoreMind,SaaS / Enterprise Software,China,Asia,Shanghai,2023,4,0,Profitable
+S00730,SwiftSystems,Fintech,South Korea,Asia,Seoul,2017,5,0,Profitable
+S00731,VeloAI,HR Tech,Thailand,Asia,Bangkok,2016,7,1,Pre-Revenue
+S00732,ForgeTech,Climate Tech / Clean Energy,South Africa,Africa,Cape Town,2021,20,0,Revenue Generating
+S00733,VibeSense,Artificial Intelligence,United States,North America,Seattle,2021,76,0,Pre-Revenue
+S00734,KiteCore,Space Tech,Israel,Middle East,Haifa,2021,159,1,Revenue Generating
+S00735,HubBeam,Web3 / Blockchain,Israel,Middle East,Haifa,2024,99,0,Pre-Revenue
+S00736,ZenEnergy,Gaming & Entertainment,United States,North America,Chicago,2021,5,0,Pre-Revenue
+S00737,SageBio,Fintech,United States,North America,Miami,2018,7,1,Revenue Generating
+S00738,MetaLogic,Artificial Intelligence,Netherlands,Europe,Rotterdam,2022,27,0,Revenue Generating
+S00739,SageSystems,Fintech,Israel,Middle East,Tel Aviv,2020,55,0,Pre-Revenue
+S00740,Sageio,SaaS / Enterprise Software,Singapore,Asia,Singapore,2022,133,0,Profitable
+S00741,PixelBio,Fintech,South Africa,Africa,Johannesburg,2017,20,0,Pre-Revenue
+S00742,Zenfy,Healthcare & Biotech,Switzerland,Europe,Zurich,2021,37,0,Revenue Generating
+S00743,Pixelfy,Climate Tech / Clean Energy,France,Europe,Paris,2020,16,1,Revenue Generating
+S00744,WaveLabs,Climate Tech / Clean Energy,United States,North America,Seattle,2021,206,1,Pre-Revenue
+S00745,AlphaFinance,HR Tech,United States,North America,Chicago,2019,12,1,Revenue Generating
+S00746,RapidSense,Cybersecurity,United States,North America,Los Angeles,2020,8,0,Revenue Generating
+S00747,Novaio,Real Estate Tech,Japan,Asia,Osaka,2022,12,0,Revenue Generating
+S00748,KitePlatform,Logistics & Supply Chain,China,Asia,Guangzhou,2020,78,0,Pre-Revenue
+S00749,KiteStack,E-Commerce,Singapore,Asia,Singapore,2020,46,0,Profitable
+S00750,Apexverse,Social Media / Creator Economy,Germany,Europe,Hamburg,2022,11,0,Revenue Generating
+S00751,WaveLink,Cybersecurity,United States,North America,Seattle,2019,31,0,Profitable
+S00752,TerraFinance,Healthcare & Biotech,China,Asia,Beijing,2022,15,0,Pre-Revenue
+S00753,Arcfy,Healthcare & Biotech,United States,North America,Miami,2024,4,0,Revenue Generating
+S00754,TerraAnalytics,Fintech,United States,North America,New York,2018,39,0,Pre-Revenue
+S00755,BetaDynamics,Fintech,China,Asia,Guangzhou,2022,15,0,Pre-Revenue
+S00756,Hyperly,Healthcare & Biotech,Chile,South America,Santiago,2019,7,0,Profitable
+S00757,ForgeFinance,Cybersecurity,France,Europe,Toulouse,2019,25,1,Revenue Generating
+S00758,VibeNet,Gaming & Entertainment,United States,North America,San Diego,2024,42,1,Revenue Generating
+S00759,ProtoBase,Logistics & Supply Chain,Switzerland,Europe,Zurich,2020,77,0,Profitable
+S00760,Protofy,Fintech,United Kingdom,Europe,London,2022,13,0,Revenue Generating
+S00761,PulseAnalytics,Fintech,United Kingdom,Europe,Edinburgh,2015,22,0,Pre-Revenue
+S00762,EchoWorks,Cybersecurity,United States,North America,San Francisco,2022,8,0,Revenue Generating
+S00763,SwiftCloud,Fintech,India,Asia,Delhi NCR,2019,2,1,Revenue Generating
+S00764,TerraHub,Artificial Intelligence,Estonia,Europe,Tallinn,2021,3,0,Pre-Revenue
+S00765,Orionverse,Edtech,United States,North America,Austin,2021,64,1,Revenue Generating
+S00766,OrionStack,Artificial Intelligence,United States,North America,Chicago,2022,2,0,Pre-Revenue
+S00767,FluxWare,E-Commerce,United States,North America,Chicago,2021,47,0,Revenue Generating
+S00768,NeoPay,Artificial Intelligence,Israel,Middle East,Tel Aviv,2024,3,0,Revenue Generating
+S00769,HubSystems,Fintech,India,Asia,Pune,2024,15,0,Pre-Revenue
+S00770,RuneCloud,Fintech,Brazil,South America,Belo Horizonte,2024,3,0,Revenue Generating
+S00771,GridLogic,Artificial Intelligence,India,Asia,Delhi NCR,2020,7,0,Revenue Generating
+S00772,NovaLink,HR Tech,United States,North America,Miami,2022,33,0,Revenue Generating
+S00773,SageWorks,Climate Tech / Clean Energy,United Kingdom,Europe,London,2020,39,0,Revenue Generating
+S00774,CruxStack,Logistics & Supply Chain,Germany,Europe,Frankfurt,2018,12,1,Pre-Revenue
+S00775,HubHub,Edtech,Thailand,Asia,Bangkok,2022,16,0,Revenue Generating
+S00776,HubForge,Artificial Intelligence,United States,North America,San Francisco,2020,18,0,Pre-Revenue
+S00777,PulseFlow,Cybersecurity,Estonia,Europe,Tallinn,2018,30,0,Revenue Generating
+S00778,SageX,Cybersecurity,United States,North America,Chicago,2021,199,0,Revenue Generating
+S00779,NeoLabs,Fintech,United States,North America,San Francisco,2024,10,0,Pre-Revenue
+S00780,YieldAI,Gaming & Entertainment,United States,North America,New York,2022,4,0,Profitable
+S00781,Onyxio,SaaS / Enterprise Software,United States,North America,Seattle,2018,22,0,Profitable
+S00782,VertexFlow,Artificial Intelligence,Egypt,Africa,Cairo,2023,18,0,Revenue Generating
+S00783,HubDynamics,Healthcare & Biotech,India,Asia,Delhi NCR,2024,2,1,Revenue Generating
+S00784,JetLink,Fintech,United States,North America,Seattle,2024,11,0,Revenue Generating
+S00785,AstraForge,Artificial Intelligence,India,Asia,Delhi NCR,2018,60,1,Profitable
+S00786,CloudForge,Artificial Intelligence,Colombia,South America,Bogotá,2023,20,0,Revenue Generating
+S00787,PulseCore,Healthcare & Biotech,United States,North America,San Diego,2021,71,1,Pre-Revenue
+S00788,Dataverse,Artificial Intelligence,Singapore,Asia,Singapore,2023,21,0,Profitable
+S00789,DataFlow,E-Commerce,India,Asia,Delhi NCR,2024,10,0,Pre-Revenue
+S00790,EchoSystems,Cybersecurity,United States,North America,Chicago,2017,11,0,Profitable
+S00791,PixelSpace,Fintech,Indonesia,Asia,Jakarta,2017,6,0,Revenue Generating
+S00792,CloudWorks,Healthcare & Biotech,United Kingdom,Europe,London,2024,22,0,Pre-Revenue
+S00793,AlphaAnalytics,Healthcare & Biotech,Germany,Europe,Frankfurt,2022,68,1,Revenue Generating
+S00794,Rapidfy,Healthcare & Biotech,India,Asia,Bangalore,2021,20,0,Profitable
+S00795,GridSpace,Healthcare & Biotech,Singapore,Asia,Singapore,2021,16,0,Pre-Revenue
+S00796,SageSense,Cybersecurity,United States,North America,San Francisco,2021,60,0,Pre-Revenue
+S00797,AstraWare,Web3 / Blockchain,Canada,North America,Toronto,2021,54,0,Revenue Generating
+S00798,CoreForge,Real Estate Tech,United States,North America,Seattle,2024,328,1,Revenue Generating
+S00799,QuarkBio,Insurtech,India,Asia,Mumbai,2018,51,0,Pre-Revenue
+S00800,Runefy,Gaming & Entertainment,United States,North America,Austin,2021,57,0,Revenue Generating
+S00801,ZenLink,SaaS / Enterprise Software,Japan,Asia,Osaka,2018,111,0,Revenue Generating
+S00802,FluxSense,Fintech,India,Asia,Hyderabad,2021,74,0,Revenue Generating
+S00803,CyberDynamics,SaaS / Enterprise Software,United States,North America,Miami,2021,6,0,Pre-Revenue
+S00804,VertexMind,HR Tech,China,Asia,Beijing,2023,14,0,Pre-Revenue
+S00805,CyberLink,Fintech,Vietnam,Asia,Hanoi,2023,50,0,Profitable
+S00806,PulseEnergy,Cybersecurity,South Korea,Asia,Seoul,2021,68,0,Pre-Revenue
+S00807,XenoHealth,Fintech,India,Asia,Chennai,2024,2,1,Pre-Revenue
+S00808,SageAnalytics,Gaming & Entertainment,Canada,North America,Montreal,2016,2,0,Revenue Generating
+S00809,CyberAnalytics,SaaS / Enterprise Software,South Africa,Africa,Johannesburg,2024,110,0,Revenue Generating
+S00810,LumeLabs,Edtech,United States,North America,Seattle,2021,162,0,Revenue Generating
+S00811,YieldCore,Artificial Intelligence,United States,North America,Miami,2022,19,0,Profitable
+S00812,CyberWare,Logistics & Supply Chain,United States,North America,Los Angeles,2016,85,0,Revenue Generating
+S00813,ForgeSense,SaaS / Enterprise Software,Australia,Oceania,Melbourne,2024,12,0,Profitable
+S00814,PulseForge,E-Commerce,United States,North America,Miami,2023,2,1,Pre-Revenue
+S00815,HubCloud,Fintech,Australia,Oceania,Sydney,2016,3,0,Revenue Generating
+S00816,ProtoFlow,Artificial Intelligence,United States,North America,Los Angeles,2021,48,0,Pre-Revenue
+S00817,EdgeCore,E-Commerce,Estonia,Europe,Tallinn,2024,2,0,Pre-Revenue
+S00818,YieldForge,Cybersecurity,Australia,Oceania,Sydney,2022,3,0,Revenue Generating
+S00819,QuarkMind,Legal Tech,Spain,Europe,Madrid,2021,4,0,Revenue Generating
+S00820,NeoPlatform,Real Estate Tech,United States,North America,Seattle,2023,10,0,Pre-Revenue
+S00821,NovaDynamics,Gaming & Entertainment,Israel,Middle East,Haifa,2020,33,0,Pre-Revenue
+S00822,AstraFinance,SaaS / Enterprise Software,United States,North America,New York,2023,2,0,Revenue Generating
+S00823,RuneCore,Edtech,United States,North America,New York,2023,52,0,Revenue Generating
+S00824,SageEnergy,Space Tech,India,Asia,Chennai,2016,2,0,Revenue Generating
+S00825,MetaNet,Logistics & Supply Chain,China,Asia,Shanghai,2021,23,0,Profitable
+S00826,CloudNet,Artificial Intelligence,China,Asia,Guangzhou,2022,5,0,Pre-Revenue
+S00827,PixelHealth,Fintech,China,Asia,Beijing,2022,24,1,Pre-Revenue
+S00828,Boltly,Artificial Intelligence,UAE,Middle East,Abu Dhabi,2016,35,0,Revenue Generating
+S00829,CyberCloud,Fintech,Singapore,Asia,Singapore,2021,9,0,Revenue Generating
+S00830,Nexusfy,Artificial Intelligence,China,Asia,Shanghai,2017,2,0,Pre-Revenue
+S00831,Novaverse,Gaming & Entertainment,China,Asia,Hangzhou,2022,16,0,Pre-Revenue
+S00832,SageSpace,SaaS / Enterprise Software,Sweden,Europe,Stockholm,2022,11,0,Revenue Generating
+S00833,ProtoSecurity,Climate Tech / Clean Energy,Israel,Middle East,Jerusalem,2023,26,0,Pre-Revenue
+S00834,YieldSecurity,E-Commerce,United States,North America,San Diego,2022,7,0,Revenue Generating
+S00835,DeltaTech,Climate Tech / Clean Energy,United States,North America,Denver,2022,2,0,Revenue Generating
+S00836,ApexForge,E-Commerce,United States,North America,New York,2024,22,0,Profitable
+S00837,FluxCloud,Fintech,China,Asia,Shanghai,2021,14,1,Revenue Generating
+S00838,NexusLink,Logistics & Supply Chain,Germany,Europe,Frankfurt,2023,39,1,Revenue Generating
+S00839,ProtoHub,Artificial Intelligence,United States,North America,Austin,2024,31,0,Revenue Generating
+S00840,DataSystems,Gaming & Entertainment,China,Asia,Beijing,2016,18,1,Pre-Revenue
+S00841,NexusCloud,Artificial Intelligence,United States,North America,Los Angeles,2023,16,1,Profitable
+S00842,YieldDynamics,Cybersecurity,South Korea,Asia,Seoul,2022,2,0,Pre-Revenue
+S00843,OnyxPay,Climate Tech / Clean Energy,United Kingdom,Europe,Edinburgh,2021,41,1,Revenue Generating
+S00844,AstraSecurity,Artificial Intelligence,United States,North America,Miami,2021,20,1,Revenue Generating
+S00845,DataSpace,SaaS / Enterprise Software,Germany,Europe,Frankfurt,2015,2,0,Revenue Generating
+S00846,MetaPlatform,Fintech,United States,North America,Seattle,2022,27,0,Pre-Revenue
+S00847,VibeLabs,Edtech,United States,North America,Denver,2021,8,0,Revenue Generating
+S00848,DawnPlatform,Climate Tech / Clean Energy,Australia,Oceania,Melbourne,2023,18,0,Pre-Revenue
+S00849,PixelCore,Artificial Intelligence,India,Asia,Chennai,2023,4,0,Profitable
+S00850,PulseBase,Artificial Intelligence,Switzerland,Europe,Zurich,2020,65,0,Pre-Revenue
+S00851,NeoSystems,Healthcare & Biotech,China,Asia,Beijing,2015,19,0,Revenue Generating
+S00852,ZenX,Healthcare & Biotech,France,Europe,Lyon,2018,2,0,Pre-Revenue
+S00853,KiteSense,Gaming & Entertainment,United States,North America,Miami,2018,42,0,Pre-Revenue
+S00854,YieldHub,Edtech,South Africa,Africa,Johannesburg,2024,36,0,Pre-Revenue
+S00855,QuantumAI,Insurtech,United Kingdom,Europe,Manchester,2017,7,0,Revenue Generating
+S00856,VertexCore,E-Commerce,United States,North America,Boston,2024,17,1,Revenue Generating
+S00857,ZenoCore,Healthcare & Biotech,UAE,Middle East,Dubai,2023,11,1,Pre-Revenue
+S00858,EchoHealth,Robotics & Automation,Vietnam,Asia,Ho Chi Minh City,2021,352,0,Revenue Generating
+S00859,Rapidly,Fintech,Egypt,Africa,Cairo,2020,14,0,Revenue Generating
+S00860,ZenDynamics,Healthcare & Biotech,United States,North America,Miami,2023,11,0,Revenue Generating
+S00861,CyberForge,Logistics & Supply Chain,Canada,North America,Toronto,2021,19,0,Revenue Generating
+S00862,LumeBase,Real Estate Tech,Germany,Europe,Berlin,2022,3,0,Revenue Generating
+S00863,TideLink,E-Commerce,United States,North America,Miami,2023,49,0,Pre-Revenue
+S00864,TerraBase,Climate Tech / Clean Energy,France,Europe,Paris,2022,274,1,Pre-Revenue
+S00865,VibeDynamics,Real Estate Tech,Australia,Oceania,Melbourne,2022,5,0,Revenue Generating
+S00866,ZenoLink,Artificial Intelligence,Chile,South America,Santiago,2021,8,0,Revenue Generating
+S00867,BetaSpace,Fintech,Brazil,South America,Rio de Janeiro,2020,107,1,Pre-Revenue
+S00868,UltraHub,Artificial Intelligence,United States,North America,Miami,2015,5,0,Revenue Generating
+S00869,VertexWorks,Artificial Intelligence,United Kingdom,Europe,Bristol,2021,13,0,Pre-Revenue
+S00870,RapidAnalytics,Legal Tech,United States,North America,Denver,2022,7,0,Revenue Generating
+S00871,BetaStack,E-Commerce,Canada,North America,Vancouver,2024,3,0,Revenue Generating
+S00872,VibeWare,Gaming & Entertainment,Israel,Middle East,Tel Aviv,2021,9,0,Revenue Generating
+S00873,ZenPay,Fintech,Australia,Oceania,Sydney,2018,65,0,Pre-Revenue
+S00874,KiteFinance,E-Commerce,Spain,Europe,Barcelona,2021,35,0,Pre-Revenue
+S00875,DataPay,Logistics & Supply Chain,Vietnam,Asia,Ho Chi Minh City,2021,60,0,Revenue Generating
+S00876,TerraFlow,Gaming & Entertainment,Canada,North America,Montreal,2018,18,0,Revenue Generating
+S00877,CoreAI,Logistics & Supply Chain,United States,North America,Boston,2017,42,0,Profitable
+S00878,BoltWare,Food & AgriTech,Bangladesh,Asia,Dhaka,2024,34,0,Profitable
+S00879,DataLink,Climate Tech / Clean Energy,United States,North America,New York,2022,4,0,Revenue Generating
+S00880,Vibely,Robotics & Automation,China,Asia,Shanghai,2022,120,0,Pre-Revenue
+S00881,QuarkTech,Space Tech,Vietnam,Asia,Ho Chi Minh City,2023,16,0,Profitable
+S00882,BetaLink,Logistics & Supply Chain,South Korea,Asia,Seoul,2019,40,0,Pre-Revenue
+S00883,HubAnalytics,Climate Tech / Clean Energy,United States,North America,San Diego,2024,25,0,Pre-Revenue
+S00884,PixelTech,Fintech,United States,North America,New York,2019,117,0,Revenue Generating
+S00885,KiteX,Edtech,United States,North America,San Diego,2023,43,0,Revenue Generating
+S00886,DeltaBeam,Legal Tech,China,Asia,Shanghai,2024,9,0,Pre-Revenue
+S00887,ProtoNet,Artificial Intelligence,United States,North America,Los Angeles,2020,34,0,Revenue Generating
+S00888,ZenoBio,Food & AgriTech,India,Asia,Delhi NCR,2024,51,0,Revenue Generating
+S00889,VeloLogic,SaaS / Enterprise Software,Australia,Oceania,Sydney,2023,31,0,Profitable
+S00890,GridMind,Artificial Intelligence,United States,North America,Miami,2024,2,0,Pre-Revenue
+S00891,ForgePlatform,Artificial Intelligence,China,Asia,Shanghai,2018,15,0,Revenue Generating
+S00892,KiteNet,Food & AgriTech,United Kingdom,Europe,Bristol,2021,8,0,Revenue Generating
+S00893,Terraio,Food & AgriTech,Sweden,Europe,Gothenburg,2020,10,0,Pre-Revenue
+S00894,DataSecurity,Artificial Intelligence,United States,North America,Denver,2018,30,0,Pre-Revenue
+S00895,Alphafy,Insurtech,China,Asia,Hangzhou,2022,14,0,Revenue Generating
+S00896,Waveio,Fintech,South Korea,Asia,Seoul,2016,10,0,Profitable
+S00897,GridEnergy,SaaS / Enterprise Software,United States,North America,San Francisco,2020,31,1,Revenue Generating
+S00898,HyperWare,Real Estate Tech,Israel,Middle East,Jerusalem,2020,23,1,Pre-Revenue
+S00899,Dataio,SaaS / Enterprise Software,Germany,Europe,Hamburg,2019,191,0,Revenue Generating
+S00900,KiteRobotics,Food & AgriTech,Bangladesh,Asia,Dhaka,2023,24,0,Pre-Revenue
+S00901,VertexRobotics,Food & AgriTech,Israel,Middle East,Tel Aviv,2016,56,0,Pre-Revenue
+S00902,ApexSecurity,Climate Tech / Clean Energy,Brazil,South America,São Paulo,2021,4,0,Profitable
+S00903,BoltMind,Space Tech,United States,North America,Miami,2017,8,0,Pre-Revenue
+S00904,UltraMind,Logistics & Supply Chain,United States,North America,San Francisco,2016,6,1,Revenue Generating
+S00905,UltraCore,Edtech,United Kingdom,Europe,Manchester,2016,151,0,Profitable
+S00906,PixelBeam,Healthcare & Biotech,Israel,Middle East,Tel Aviv,2018,67,0,Revenue Generating
+S00907,DeltaMind,Insurtech,United Kingdom,Europe,London,2019,5,0,Pre-Revenue
+S00908,TerraStack,Food & AgriTech,United States,North America,San Francisco,2020,6,0,Revenue Generating
+S00909,TideFlow,Logistics & Supply Chain,United States,North America,New York,2021,51,0,Pre-Revenue
+S00910,AlphaDynamics,Cybersecurity,Switzerland,Europe,Zurich,2019,9,1,Revenue Generating
+S00911,SageBase,Robotics & Automation,France,Europe,Toulouse,2023,10,0,Pre-Revenue
+S00912,RapidAI,E-Commerce,China,Asia,Guangzhou,2024,27,0,Revenue Generating
+S00913,CruxHub,SaaS / Enterprise Software,China,Asia,Beijing,2018,6,1,Revenue Generating
+S00914,PulseHub,Cybersecurity,Kenya,Africa,Nairobi,2015,35,1,Revenue Generating
+S00915,AlphaEnergy,Real Estate Tech,United States,North America,Miami,2019,2,0,Revenue Generating
+S00916,VeloStack,Healthcare & Biotech,Netherlands,Europe,Amsterdam,2022,41,1,Pre-Revenue
+S00917,NexusRobotics,Social Media / Creator Economy,United Kingdom,Europe,Cambridge,2018,49,0,Revenue Generating
+S00918,Jetfy,Edtech,China,Asia,Beijing,2022,49,0,Revenue Generating
+S00919,QuarkPay,Legal Tech,United Kingdom,Europe,Edinburgh,2023,8,0,Profitable
+S00920,Neofy,Cybersecurity,Germany,Europe,Hamburg,2020,20,0,Pre-Revenue
+S00921,XenoBase,Fintech,United Kingdom,Europe,Cambridge,2016,13,0,Revenue Generating
+S00922,ProtoLogic,Artificial Intelligence,Nigeria,Africa,Lagos,2022,70,0,Pre-Revenue
+S00923,ArcCloud,SaaS / Enterprise Software,India,Asia,Bangalore,2023,11,0,Pre-Revenue
+S00924,RuneEnergy,SaaS / Enterprise Software,India,Asia,Chennai,2022,7,0,Pre-Revenue
+S00925,SwiftLogic,Artificial Intelligence,China,Asia,Beijing,2023,2,0,Revenue Generating
+S00926,EdgeMind,Gaming & Entertainment,Canada,North America,Montreal,2024,60,0,Revenue Generating
+S00927,OnyxNet,SaaS / Enterprise Software,United Kingdom,Europe,Cambridge,2024,34,0,Pre-Revenue
+S00928,YieldBio,Artificial Intelligence,Vietnam,Asia,Ho Chi Minh City,2019,15,0,Revenue Generating
+S00929,WaveSecurity,Climate Tech / Clean Energy,United States,North America,San Francisco,2020,78,0,Profitable
+S00930,Waveverse,Robotics & Automation,Australia,Oceania,Melbourne,2018,122,0,Pre-Revenue
+S00931,EchoFlow,Fintech,United Kingdom,Europe,Edinburgh,2018,10,0,Revenue Generating
+S00932,TideAnalytics,Logistics & Supply Chain,United States,North America,Denver,2021,4,0,Revenue Generating
+S00933,ProtoMind,Climate Tech / Clean Energy,Estonia,Europe,Tallinn,2024,10,0,Pre-Revenue
+S00934,CoreHub,Climate Tech / Clean Energy,United States,North America,New York,2024,25,0,Revenue Generating
+S00935,DataAnalytics,Food & AgriTech,Singapore,Asia,Singapore,2015,22,0,Pre-Revenue
+S00936,VertexForge,Cybersecurity,United States,North America,Los Angeles,2015,13,0,Profitable
+S00937,KiteWare,E-Commerce,Japan,Asia,Tokyo,2021,6,1,Pre-Revenue
+S00938,NexusFlow,Insurtech,United States,North America,New York,2023,104,1,Revenue Generating
+S00939,SwiftPlatform,Web3 / Blockchain,France,Europe,Toulouse,2022,42,1,Pre-Revenue
+S00940,PulseLogic,HR Tech,Poland,Europe,Kraków,2022,60,1,Profitable
+S00941,Gridverse,Travel Tech,United States,North America,Miami,2023,14,0,Profitable
+S00942,Quarkly,Web3 / Blockchain,Chile,South America,Santiago,2021,2,1,Profitable
+S00943,CloudBeam,SaaS / Enterprise Software,United Kingdom,Europe,London,2021,65,1,Revenue Generating
+S00944,KiteMind,Food & AgriTech,United States,North America,Chicago,2021,82,1,Pre-Revenue
+S00945,FluxRobotics,Space Tech,China,Asia,Hangzhou,2022,5,1,Pre-Revenue
+S00946,QuarkCore,SaaS / Enterprise Software,France,Europe,Paris,2024,7,0,Pre-Revenue
+S00947,ProtoLink,Healthcare & Biotech,United Kingdom,Europe,London,2022,103,1,Pre-Revenue
+S00948,CoreRobotics,Gaming & Entertainment,United Kingdom,Europe,Bristol,2019,6,0,Revenue Generating
+S00949,RuneHealth,Edtech,United States,North America,San Diego,2024,3,0,Profitable
+S00950,ZenWare,Artificial Intelligence,Chile,South America,Santiago,2016,20,0,Revenue Generating
+S00951,EchoEnergy,Social Media / Creator Economy,Singapore,Asia,Singapore,2023,26,0,Pre-Revenue
+S00952,WaveNet,Healthcare & Biotech,France,Europe,Paris,2023,26,0,Revenue Generating
+S00953,PixelSense,SaaS / Enterprise Software,Australia,Oceania,Melbourne,2021,31,1,Revenue Generating
+S00954,ApexStack,Artificial Intelligence,United States,North America,Los Angeles,2024,43,0,Revenue Generating
+S00955,ArcWare,Artificial Intelligence,Netherlands,Europe,Amsterdam,2024,8,0,Pre-Revenue
+S00956,Vertexfy,Climate Tech / Clean Energy,United States,North America,Denver,2022,4,1,Revenue Generating
+S00957,BoltBase,Artificial Intelligence,Saudi Arabia,Middle East,Riyadh,2023,40,0,Revenue Generating
+S00958,EdgeX,Healthcare & Biotech,India,Asia,Pune,2024,12,0,Profitable
+S00959,CyberAI,Food & AgriTech,China,Asia,Beijing,2022,14,0,Revenue Generating
+S00960,GridBeam,Artificial Intelligence,United States,North America,Chicago,2024,2,1,Profitable
+S00961,GridHealth,E-Commerce,Brazil,South America,Belo Horizonte,2024,52,1,Revenue Generating
+S00962,CloudX,Climate Tech / Clean Energy,China,Asia,Hangzhou,2018,22,0,Pre-Revenue
+S00963,Zenoverse,Fintech,United States,North America,Seattle,2016,14,1,Revenue Generating
+S00964,Betaio,SaaS / Enterprise Software,Saudi Arabia,Middle East,Jeddah,2021,45,1,Revenue Generating
+S00965,PulseSense,Fintech,United States,North America,Chicago,2021,140,1,Revenue Generating
+S00966,Pulseio,Healthcare & Biotech,China,Asia,Beijing,2023,11,0,Pre-Revenue
+S00967,Cruxfy,HR Tech,China,Asia,Shenzhen,2019,45,0,Revenue Generating
+S00968,CyberBeam,E-Commerce,China,Asia,Shenzhen,2017,15,0,Pre-Revenue
+S00969,Lumefy,Cybersecurity,United States,North America,Miami,2021,5,1,Revenue Generating
+S00970,OrionTech,Web3 / Blockchain,United States,North America,Miami,2020,144,0,Revenue Generating
+S00971,VeloSecurity,Web3 / Blockchain,India,Asia,Mumbai,2023,85,0,Revenue Generating
+S00972,BetaFlow,E-Commerce,Singapore,Asia,Singapore,2020,7,0,Revenue Generating
+S00973,JetLogic,Healthcare & Biotech,Estonia,Europe,Tallinn,2024,14,0,Revenue Generating
+S00974,NeoLogic,Logistics & Supply Chain,United States,North America,Boston,2019,106,0,Pre-Revenue
+S00975,DataLogic,Web3 / Blockchain,France,Europe,Lyon,2022,18,0,Revenue Generating
+S00976,YieldTech,Logistics & Supply Chain,United States,North America,New York,2019,8,1,Revenue Generating
+S00977,CoreFinance,Fintech,Japan,Asia,Osaka,2022,10,0,Pre-Revenue
+S00978,ArcPlatform,Healthcare & Biotech,India,Asia,Mumbai,2023,9,1,Revenue Generating
+S00979,DeltaPlatform,Fintech,UAE,Middle East,Abu Dhabi,2023,14,1,Profitable
+S00980,CoreDynamics,Healthcare & Biotech,France,Europe,Toulouse,2023,69,0,Pre-Revenue
+S00981,NeoSense,Artificial Intelligence,India,Asia,Hyderabad,2020,8,0,Pre-Revenue
+S00982,SageLogic,SaaS / Enterprise Software,Brazil,South America,Belo Horizonte,2024,56,0,Pre-Revenue
+S00983,GridCloud,HR Tech,Israel,Middle East,Jerusalem,2020,5,1,Revenue Generating
+S00984,OrionSpace,Healthcare & Biotech,France,Europe,Toulouse,2015,11,0,Revenue Generating
+S00985,SwiftNet,Fintech,United States,North America,Los Angeles,2023,23,0,Revenue Generating
+S00986,JetSpace,Real Estate Tech,France,Europe,Paris,2018,19,0,Revenue Generating
+S00987,TerraAI,E-Commerce,Mexico,South America,Monterrey,2019,146,0,Profitable
+S00988,ForgeRobotics,Gaming & Entertainment,Brazil,South America,Rio de Janeiro,2023,118,0,Revenue Generating
+S00989,DawnBeam,Climate Tech / Clean Energy,Singapore,Asia,Singapore,2022,5,0,Revenue Generating
+S00990,Forgeio,Healthcare & Biotech,United Kingdom,Europe,Bristol,2020,2,1,Pre-Revenue
+S00991,VertexNet,SaaS / Enterprise Software,United Kingdom,Europe,Manchester,2022,15,0,Revenue Generating
+S00992,TerraBio,Healthcare & Biotech,Netherlands,Europe,Rotterdam,2017,45,0,Pre-Revenue
+S00993,RuneFlow,Artificial Intelligence,Nigeria,Africa,Lagos,2021,96,0,Pre-Revenue
+S00994,ArcForge,Fintech,Israel,Middle East,Jerusalem,2023,6,0,Revenue Generating
+S00995,Edgely,Fintech,United States,North America,San Diego,2022,43,0,Pre-Revenue
+S00996,WaveHub,Artificial Intelligence,United States,North America,Austin,2024,57,0,Revenue Generating
+S00997,OnyxLogic,Climate Tech / Clean Energy,United Kingdom,Europe,Bristol,2021,35,0,Pre-Revenue
+S00998,CloudFlow,Fintech,United States,North America,Seattle,2020,23,0,Revenue Generating
+S00999,EchoAnalytics,E-Commerce,India,Asia,Hyderabad,2024,16,1,Pre-Revenue
+S01000,ApexAI,SaaS / Enterprise Software,United States,North America,Seattle,2018,40,0,Pre-Revenue
+S01001,JetSystems,Climate Tech / Clean Energy,United States,North America,San Diego,2018,6,0,Revenue Generating
+S01002,ArcHub,Fintech,United Kingdom,Europe,Manchester,2022,43,0,Profitable
+S01003,SageLabs,Artificial Intelligence,United States,North America,New York,2023,79,0,Revenue Generating
+S01004,WaveStack,Robotics & Automation,United States,North America,Los Angeles,2019,38,0,Profitable
+S01005,BoltWorks,Web3 / Blockchain,United States,North America,Chicago,2023,85,0,Revenue Generating
+S01006,CruxSpace,Social Media / Creator Economy,United States,North America,New York,2021,40,0,Pre-Revenue
+S01007,ArcDynamics,Food & AgriTech,Vietnam,Asia,Ho Chi Minh City,2020,128,0,Revenue Generating
+S01008,DeltaLabs,Healthcare & Biotech,United Kingdom,Europe,London,2021,127,1,Revenue Generating
+S01009,Sagefy,Artificial Intelligence,United States,North America,Denver,2023,320,0,Revenue Generating
+S01010,PulseSecurity,Healthcare & Biotech,India,Asia,Pune,2022,2,1,Profitable
+S01011,NexusWare,Healthcare & Biotech,Australia,Oceania,Sydney,2021,101,0,Revenue Generating
+S01012,KiteCloud,Food & AgriTech,United States,North America,Los Angeles,2021,4,0,Revenue Generating
+S01013,PulseBio,Artificial Intelligence,India,Asia,Delhi NCR,2019,11,0,Revenue Generating
+S01014,ArcSense,Artificial Intelligence,United States,North America,Miami,2024,28,0,Revenue Generating
+S01015,YieldRobotics,Gaming & Entertainment,Poland,Europe,Warsaw,2015,3,0,Revenue Generating
+S01016,UltraStack,Real Estate Tech,Singapore,Asia,Singapore,2023,11,0,Revenue Generating
+S01017,QuantumSystems,Healthcare & Biotech,Japan,Asia,Osaka,2021,5,0,Pre-Revenue
+S01018,ZenoSecurity,Fintech,India,Asia,Hyderabad,2015,114,0,Pre-Revenue
+S01019,NexusWorks,Fintech,Spain,Europe,Barcelona,2019,2,0,Pre-Revenue
+S01020,ArcPay,Climate Tech / Clean Energy,Estonia,Europe,Tallinn,2015,15,1,Revenue Generating
+S01021,XenoNet,SaaS / Enterprise Software,Australia,Oceania,Sydney,2020,22,0,Pre-Revenue
+S01022,TideWorks,Web3 / Blockchain,Vietnam,Asia,Ho Chi Minh City,2023,118,0,Pre-Revenue
+S01023,EdgeBio,Healthcare & Biotech,United States,North America,Los Angeles,2022,10,0,Revenue Generating
+S01024,MetaForge,Fintech,United States,North America,New York,2023,7,0,Revenue Generating
+S01025,JetFinance,Healthcare & Biotech,United States,North America,Denver,2018,4,1,Pre-Revenue
+S01026,DeltaNet,Web3 / Blockchain,United States,North America,Austin,2016,8,0,Profitable
+S01027,GridWorks,Fintech,United Kingdom,Europe,Edinburgh,2021,27,1,Revenue Generating
+S01028,ZenCloud,Healthcare & Biotech,United States,North America,Austin,2024,11,1,Profitable
+S01029,VeloEnergy,Healthcare & Biotech,United Kingdom,Europe,Edinburgh,2022,18,0,Revenue Generating
+S01030,ForgeSecurity,Robotics & Automation,Switzerland,Europe,Zurich,2020,91,0,Revenue Generating
+S01031,HyperDynamics,Healthcare & Biotech,Israel,Middle East,Tel Aviv,2022,10,1,Pre-Revenue
+S01032,VertexBio,Logistics & Supply Chain,Germany,Europe,Frankfurt,2016,3,0,Pre-Revenue
+S01033,PixelLabs,Social Media / Creator Economy,Japan,Asia,Tokyo,2020,22,1,Pre-Revenue
+S01034,DataMind,Fintech,United Kingdom,Europe,Cambridge,2021,42,0,Revenue Generating
+S01035,VeloHub,Fintech,UAE,Middle East,Abu Dhabi,2020,20,0,Revenue Generating
+S01036,QuarkPlatform,SaaS / Enterprise Software,United Kingdom,Europe,Bristol,2022,29,0,Revenue Generating
+S01037,NeoHub,Robotics & Automation,United States,North America,San Diego,2016,81,0,Revenue Generating
+S01038,VibeRobotics,Climate Tech / Clean Energy,Singapore,Asia,Singapore,2023,5,0,Revenue Generating
+S01039,VertexHealth,Fintech,Singapore,Asia,Singapore,2023,9,0,Revenue Generating
+S01040,AstraWorks,Social Media / Creator Economy,Germany,Europe,Berlin,2022,77,0,Pre-Revenue
+S01041,DataFinance,Artificial Intelligence,India,Asia,Mumbai,2020,20,0,Pre-Revenue
+S01042,DeltaCore,Fintech,United States,North America,Seattle,2019,63,1,Revenue Generating
+S01043,ZenBeam,Healthcare & Biotech,United States,North America,Boston,2019,21,0,Revenue Generating
+S01044,QuarkEnergy,Fintech,South Africa,Africa,Cape Town,2020,5,1,Revenue Generating
+S01045,XenoRobotics,SaaS / Enterprise Software,United States,North America,Boston,2022,7,0,Revenue Generating
+S01046,Boltio,Artificial Intelligence,United States,North America,Seattle,2022,129,0,Pre-Revenue
+S01047,Hyperio,Artificial Intelligence,Japan,Asia,Osaka,2023,2,1,Revenue Generating
+S01048,NovaMind,Cybersecurity,United States,North America,Denver,2023,33,0,Revenue Generating
+S01049,CloudSpace,Space Tech,India,Asia,Hyderabad,2019,22,0,Pre-Revenue
+S01050,BoltCore,Food & AgriTech,Canada,North America,Vancouver,2015,17,0,Pre-Revenue
+S01051,CruxCore,Artificial Intelligence,Poland,Europe,Warsaw,2018,2,0,Pre-Revenue
+S01052,YieldSpace,Edtech,United States,North America,Chicago,2016,4,0,Pre-Revenue
+S01053,SageStack,Artificial Intelligence,United States,North America,Austin,2023,50,1,Revenue Generating
+S01054,ZenBase,Cybersecurity,United States,North America,New York,2023,44,0,Revenue Generating
+S01055,ZenoSystems,Fintech,United States,North America,San Francisco,2020,95,0,Profitable
+S01056,TerraLabs,Cybersecurity,India,Asia,Bangalore,2023,111,0,Pre-Revenue
+S01057,BetaBase,Edtech,United Kingdom,Europe,Cambridge,2023,114,0,Pre-Revenue
+S01058,Echoverse,Artificial Intelligence,United States,North America,Los Angeles,2018,13,0,Pre-Revenue
+S01059,DawnHub,Food & AgriTech,United States,North America,Austin,2023,24,0,Revenue Generating
+S01060,UltraSense,Logistics & Supply Chain,India,Asia,Mumbai,2020,29,0,Pre-Revenue
+S01061,NexusHub,Climate Tech / Clean Energy,Nigeria,Africa,Nairobi,2019,71,0,Revenue Generating
+S01062,DeltaAnalytics,Cybersecurity,Spain,Europe,Madrid,2023,86,1,Revenue Generating
+S01063,IonX,Travel Tech,United States,North America,Denver,2024,18,0,Profitable
+S01064,BetaWare,Fintech,United States,North America,Boston,2022,2,0,Profitable
+S01065,PixelNet,Logistics & Supply Chain,United States,North America,Seattle,2022,6,0,Revenue Generating
+S01066,VibeLogic,Fintech,Canada,North America,Vancouver,2015,34,0,Revenue Generating
+S01067,ForgeLink,SaaS / Enterprise Software,United Kingdom,Europe,London,2022,14,0,Revenue Generating
+S01068,Veloly,HR Tech,Colombia,South America,Medellín,2022,2,0,Revenue Generating
+S01069,ZenoFinance,Healthcare & Biotech,United States,North America,New York,2021,5,0,Pre-Revenue
+S01070,EchoForge,Gaming & Entertainment,United States,North America,Boston,2017,12,0,Revenue Generating
+S01071,JetPlatform,Fintech,Canada,North America,Montreal,2022,2,0,Pre-Revenue
+S01072,FluxPlatform,Fintech,Poland,Europe,Kraków,2017,6,1,Profitable
+S01073,PixelAnalytics,Healthcare & Biotech,China,Asia,Beijing,2022,14,0,Pre-Revenue
+S01074,PixelHub,Logistics & Supply Chain,Israel,Middle East,Haifa,2022,35,0,Pre-Revenue
+S01075,Protoverse,Cybersecurity,United States,North America,San Diego,2018,19,1,Revenue Generating
+S01076,PixelSystems,Climate Tech / Clean Energy,India,Asia,Mumbai,2023,3,0,Revenue Generating
+S01077,JetWorks,Fintech,Kenya,Africa,Nairobi,2022,56,0,Revenue Generating
+S01078,OnyxSpace,Web3 / Blockchain,India,Asia,Bangalore,2015,16,0,Revenue Generating
+S01079,IonHub,Robotics & Automation,France,Europe,Lyon,2022,5,1,Revenue Generating
+S01080,AlphaHub,Fintech,United States,North America,Miami,2021,14,0,Revenue Generating
+S01081,RuneTech,Healthcare & Biotech,Israel,Middle East,Jerusalem,2021,10,0,Profitable
+S01082,DeltaForge,Healthcare & Biotech,Chile,South America,Santiago,2022,2,1,Revenue Generating
+S01083,BetaCore,Artificial Intelligence,United States,North America,Denver,2020,94,1,Revenue Generating
+S01084,LumeStack,Artificial Intelligence,Spain,Europe,Barcelona,2018,58,0,Pre-Revenue
+S01085,OrionRobotics,E-Commerce,Indonesia,Asia,Jakarta,2024,53,0,Revenue Generating
+S01086,PixelPlatform,Robotics & Automation,France,Europe,Toulouse,2022,8,0,Pre-Revenue
+S01087,OnyxAnalytics,Logistics & Supply Chain,India,Asia,Mumbai,2018,135,0,Pre-Revenue
+S01088,XenoSense,Cybersecurity,South Korea,Asia,Seoul,2022,22,1,Revenue Generating
+S01089,HyperFinance,Fintech,China,Asia,Shenzhen,2023,3,0,Revenue Generating
+S01090,XenoBeam,Fintech,Canada,North America,Toronto,2018,103,1,Profitable
+S01091,Lumeverse,Healthcare & Biotech,Germany,Europe,Berlin,2024,9,0,Profitable
+S01092,QuarkNet,Cybersecurity,China,Asia,Shenzhen,2022,20,1,Revenue Generating
+S01093,WaveTech,Web3 / Blockchain,United States,North America,Los Angeles,2019,15,0,Profitable
+S01094,AstraAnalytics,Artificial Intelligence,United States,North America,New York,2023,62,0,Pre-Revenue
+S01095,BetaLabs,E-Commerce,India,Asia,Bangalore,2017,17,0,Profitable
+S01096,ZenoAI,Healthcare & Biotech,United States,North America,Denver,2024,49,0,Profitable
+S01097,WaveLogic,HR Tech,Germany,Europe,Munich,2022,35,0,Pre-Revenue
+S01098,Metaly,Artificial Intelligence,United States,North America,Los Angeles,2020,5,1,Revenue Generating
+S01099,LumeAnalytics,Social Media / Creator Economy,Australia,Oceania,Melbourne,2016,4,1,Pre-Revenue
+S01100,OrionNet,Fintech,United States,North America,Los Angeles,2022,14,0,Profitable
+S01101,CruxSystems,Food & AgriTech,India,Asia,Bangalore,2017,38,0,Revenue Generating
+S01102,VertexAnalytics,SaaS / Enterprise Software,India,Asia,Bangalore,2017,2,1,Pre-Revenue
+S01103,Ionfy,Artificial Intelligence,South Korea,Asia,Seoul,2020,9,0,Profitable
+S01104,AlphaRobotics,Web3 / Blockchain,United States,North America,New York,2022,2,1,Profitable
+S01105,WavePlatform,Healthcare & Biotech,United States,North America,San Diego,2020,16,0,Pre-Revenue
+S01106,FluxNet,E-Commerce,India,Asia,Pune,2021,173,0,Revenue Generating
+S01107,RuneRobotics,Legal Tech,Turkey,Europe,Istanbul,2019,9,0,Revenue Generating
+S01108,PixelWare,Edtech,Germany,Europe,Munich,2023,2,0,Pre-Revenue
+S01109,DawnX,Healthcare & Biotech,United States,North America,Miami,2022,33,0,Pre-Revenue
+S01110,QuarkFlow,Artificial Intelligence,Brazil,South America,Rio de Janeiro,2023,14,1,Revenue Generating
+S01111,HubWare,Fintech,United States,North America,Austin,2019,87,0,Pre-Revenue
+S01112,EchoWare,Artificial Intelligence,United Kingdom,Europe,Edinburgh,2023,21,0,Pre-Revenue
+S01113,VibeBase,Artificial Intelligence,Singapore,Asia,Singapore,2022,30,0,Profitable
+S01114,Gridly,Healthcare & Biotech,United States,North America,Austin,2022,12,1,Revenue Generating
+S01115,ArcAI,Climate Tech / Clean Energy,Turkey,Europe,Ankara,2015,18,0,Revenue Generating
+S01116,ZenAI,Climate Tech / Clean Energy,United States,North America,Los Angeles,2024,11,0,Pre-Revenue
+S01117,EchoPay,Space Tech,United States,North America,New York,2020,24,0,Revenue Generating
+S01118,Arcverse,Artificial Intelligence,United States,North America,Seattle,2019,1080,0,Revenue Generating
+S01119,IonFlow,SaaS / Enterprise Software,India,Asia,Chennai,2022,51,0,Revenue Generating
+S01120,TideSense,Artificial Intelligence,United States,North America,Denver,2024,13,0,Revenue Generating
+S01121,KiteHub,Real Estate Tech,United States,North America,San Francisco,2020,23,0,Pre-Revenue
+S01122,VeloNet,Artificial Intelligence,United States,North America,Los Angeles,2019,4,0,Revenue Generating
+S01123,ApexPlatform,Food & AgriTech,Sweden,Europe,Gothenburg,2022,86,0,Revenue Generating
+S01124,OnyxStack,Insurtech,China,Asia,Beijing,2021,125,0,Revenue Generating
+S01125,AlphaBeam,Insurtech,United States,North America,Chicago,2022,29,0,Revenue Generating
+S01126,CorePlatform,SaaS / Enterprise Software,United States,North America,San Diego,2020,11,0,Revenue Generating
+S01127,CloudPlatform,Travel Tech,Germany,Europe,Berlin,2018,17,1,Revenue Generating
+S01128,NovaCloud,E-Commerce,India,Asia,Mumbai,2024,12,0,Revenue Generating
+S01129,OnyxSecurity,SaaS / Enterprise Software,Vietnam,Asia,Ho Chi Minh City,2021,133,0,Pre-Revenue
+S01130,NovaHealth,Fintech,United Kingdom,Europe,London,2023,9,0,Pre-Revenue
+S01131,SageHealth,Space Tech,China,Asia,Guangzhou,2018,113,0,Revenue Generating
+S01132,SwiftBio,Fintech,United Kingdom,Europe,Bristol,2019,50,0,Pre-Revenue
+S01133,QuarkLink,Artificial Intelligence,China,Asia,Shanghai,2024,6,0,Revenue Generating
+S01134,VeloSense,Cybersecurity,United States,North America,Los Angeles,2022,454,0,Pre-Revenue
+S01135,EchoCloud,SaaS / Enterprise Software,United States,North America,Miami,2021,5,0,Pre-Revenue
+S01136,YieldFlow,Logistics & Supply Chain,United States,North America,Austin,2019,11,0,Revenue Generating
+S01137,NovaPlatform,Fintech,Australia,Oceania,Melbourne,2024,36,0,Profitable
+S01138,DawnAI,Fintech,United States,North America,New York,2020,5,0,Revenue Generating
+S01139,IonSecurity,Climate Tech / Clean Energy,UAE,Middle East,Dubai,2024,2,0,Revenue Generating
+S01140,Fluxly,Space Tech,United States,North America,Chicago,2022,92,0,Pre-Revenue
+S01141,BoltHealth,Fintech,Israel,Middle East,Jerusalem,2019,16,0,Pre-Revenue
+S01142,JetStack,Insurtech,United States,North America,Boston,2019,28,0,Pre-Revenue
+S01143,FluxStack,Fintech,United Kingdom,Europe,Bristol,2019,7,0,Profitable
+S01144,AlphaPlatform,SaaS / Enterprise Software,Canada,North America,Montreal,2021,10,0,Revenue Generating
+S01145,DeltaFinance,E-Commerce,China,Asia,Guangzhou,2024,169,0,Revenue Generating
+S01146,OnyxSense,Gaming & Entertainment,Canada,North America,Montreal,2023,13,1,Profitable
+S01147,NeoDynamics,E-Commerce,United States,North America,Boston,2022,2,0,Pre-Revenue
+S01148,EdgeLabs,Gaming & Entertainment,United Kingdom,Europe,Bristol,2020,49,0,Pre-Revenue
+S01149,CruxRobotics,SaaS / Enterprise Software,France,Europe,Lyon,2018,31,0,Pre-Revenue
+S01150,VibeAI,E-Commerce,South Africa,Africa,Johannesburg,2015,3,0,Revenue Generating
+S01151,Orionio,Artificial Intelligence,Japan,Asia,Osaka,2024,3,1,Revenue Generating
+S01152,QuarkLogic,Food & AgriTech,Brazil,South America,Belo Horizonte,2022,15,0,Revenue Generating
+S01153,PulseWare,Robotics & Automation,South Africa,Africa,Johannesburg,2024,551,1,Pre-Revenue
+S01154,ZenoPay,Social Media / Creator Economy,United Kingdom,Europe,Cambridge,2024,39,0,Revenue Generating
+S01155,CoreLabs,Real Estate Tech,Brazil,South America,Belo Horizonte,2022,171,0,Pre-Revenue
+S01156,NovaSense,Edtech,United States,North America,Los Angeles,2018,13,0,Revenue Generating
+S01157,RunePlatform,Insurtech,India,Asia,Chennai,2018,148,0,Revenue Generating
+S01158,DawnLogic,Fintech,India,Asia,Delhi NCR,2017,44,0,Revenue Generating
+S01159,Astraly,Real Estate Tech,South Africa,Africa,Johannesburg,2023,210,1,Revenue Generating
+S01160,NeoForge,Logistics & Supply Chain,United States,North America,Boston,2020,25,0,Revenue Generating
+S01161,QuarkSense,Artificial Intelligence,Germany,Europe,Frankfurt,2022,264,0,Revenue Generating
+S01162,NovaStack,Space Tech,Israel,Middle East,Tel Aviv,2021,11,0,Revenue Generating
+S01163,YieldLabs,SaaS / Enterprise Software,China,Asia,Shanghai,2021,77,0,Profitable
+S01164,Quarkio,Gaming & Entertainment,United States,North America,San Francisco,2022,19,0,Profitable
+S01165,VibeFinance,Artificial Intelligence,Kenya,Africa,Nairobi,2022,8,0,Pre-Revenue
+S01166,NexusBio,Real Estate Tech,India,Asia,Hyderabad,2015,37,1,Pre-Revenue
+S01167,JetWare,Climate Tech / Clean Energy,Canada,North America,Toronto,2021,164,0,Revenue Generating
+S01168,CruxNet,Web3 / Blockchain,Israel,Middle East,Jerusalem,2023,5,0,Pre-Revenue
+S01169,LumeBeam,Real Estate Tech,United Kingdom,Europe,Manchester,2023,46,0,Pre-Revenue
+S01170,IonMind,Climate Tech / Clean Energy,Canada,North America,Vancouver,2022,15,0,Profitable
+S01171,Apexfy,Artificial Intelligence,United States,North America,Los Angeles,2022,23,0,Revenue Generating
+S01172,RapidDynamics,Artificial Intelligence,United Kingdom,Europe,Bristol,2022,84,0,Pre-Revenue
+S01173,PulseFinance,Artificial Intelligence,India,Asia,Mumbai,2022,15,0,Revenue Generating
+S01174,DeltaWorks,Artificial Intelligence,India,Asia,Delhi NCR,2024,65,1,Revenue Generating
+S01175,JetNet,Artificial Intelligence,United States,North America,San Diego,2022,25,1,Revenue Generating
+S01176,YieldCloud,Artificial Intelligence,Vietnam,Asia,Ho Chi Minh City,2021,5,0,Pre-Revenue
+S01177,WaveWare,Artificial Intelligence,Germany,Europe,Frankfurt,2019,25,0,Revenue Generating
+S01178,ProtoPlatform,SaaS / Enterprise Software,Germany,Europe,Frankfurt,2024,111,1,Revenue Generating
+S01179,VeloAnalytics,Artificial Intelligence,Japan,Asia,Tokyo,2022,6,1,Pre-Revenue
+S01180,UltraSystems,Artificial Intelligence,United States,North America,Seattle,2020,12,0,Revenue Generating
+S01181,Vibeio,Space Tech,South Korea,Asia,Busan,2020,15,0,Revenue Generating
+S01182,QuarkWorks,SaaS / Enterprise Software,United States,North America,San Diego,2018,35,0,Pre-Revenue
+S01183,PulseDynamics,Artificial Intelligence,Israel,Middle East,Haifa,2022,6,0,Revenue Generating
+S01184,HyperCloud,Fintech,Israel,Middle East,Tel Aviv,2023,3,0,Revenue Generating
+S01185,ZenLogic,SaaS / Enterprise Software,United States,North America,New York,2022,22,0,Pre-Revenue
+S01186,IonBase,Social Media / Creator Economy,Singapore,Asia,Singapore,2017,11,0,Revenue Generating
+S01187,QuantumAnalytics,Climate Tech / Clean Energy,France,Europe,Toulouse,2023,114,0,Profitable
+S01188,RuneSystems,Robotics & Automation,Australia,Oceania,Sydney,2022,27,0,Pre-Revenue
+S01189,ArcBeam,Healthcare & Biotech,United States,North America,San Diego,2023,392,1,Pre-Revenue
+S01190,DataBio,Artificial Intelligence,United Kingdom,Europe,London,2023,28,0,Revenue Generating
+S01191,MetaBio,SaaS / Enterprise Software,Egypt,Africa,Cairo,2024,25,0,Revenue Generating
+S01192,BoltLabs,Fintech,United Kingdom,Europe,Edinburgh,2017,66,0,Revenue Generating
+S01193,BoltAnalytics,E-Commerce,Bangladesh,Asia,Dhaka,2022,42,1,Revenue Generating
+S01194,DeltaBio,Cybersecurity,United States,North America,Miami,2019,19,0,Revenue Generating
+S01195,VertexTech,Healthcare & Biotech,Australia,Oceania,Melbourne,2021,17,0,Revenue Generating
+S01196,XenoCloud,Artificial Intelligence,Singapore,Asia,Singapore,2022,121,0,Profitable
+S01197,PixelWorks,Artificial Intelligence,United States,North America,San Francisco,2023,65,0,Revenue Generating
+S01198,FluxMind,SaaS / Enterprise Software,India,Asia,Mumbai,2022,30,1,Revenue Generating
+S01199,KiteBio,SaaS / Enterprise Software,United States,North America,San Diego,2021,44,1,Pre-Revenue
+S01200,EchoDynamics,Artificial Intelligence,India,Asia,Delhi NCR,2018,18,0,Pre-Revenue
+S01201,EdgeStack,Artificial Intelligence,Sweden,Europe,Stockholm,2024,16,0,Revenue Generating
+S01202,RuneAnalytics,Fintech,United States,North America,New York,2024,71,0,Pre-Revenue
+S01203,NexusCore,Fintech,China,Asia,Guangzhou,2021,24,0,Pre-Revenue
+S01204,Deltaio,Climate Tech / Clean Energy,Australia,Oceania,Melbourne,2015,25,0,Revenue Generating
+S01205,LumePlatform,Cybersecurity,Japan,Asia,Tokyo,2019,125,0,Revenue Generating
+S01206,YieldWare,Fintech,United States,North America,Austin,2021,8,0,Revenue Generating
+S01207,DawnBase,Artificial Intelligence,China,Asia,Hangzhou,2022,8,0,Revenue Generating
+S01208,JetBio,HR Tech,Chile,South America,Santiago,2023,16,0,Revenue Generating
+S01209,QuarkSpace,Cybersecurity,Australia,Oceania,Melbourne,2021,2,0,Revenue Generating
+S01210,ForgeNet,Fintech,China,Asia,Shanghai,2016,2,0,Revenue Generating
+S01211,Arcly,Edtech,China,Asia,Beijing,2024,22,0,Revenue Generating
+S01212,EdgeSecurity,SaaS / Enterprise Software,United States,North America,Denver,2022,32,0,Revenue Generating
+S01213,Forgefy,Edtech,United Kingdom,Europe,London,2023,44,0,Pre-Revenue
+S01214,QuantumTech,Artificial Intelligence,Sweden,Europe,Stockholm,2018,15,0,Revenue Generating
+S01215,BetaX,Edtech,India,Asia,Mumbai,2024,30,0,Revenue Generating
+S01216,QuantumHub,E-Commerce,China,Asia,Beijing,2023,65,0,Pre-Revenue
+S01217,BetaSystems,Logistics & Supply Chain,UAE,Middle East,Dubai,2022,117,0,Profitable
+S01218,NexusX,HR Tech,United States,North America,Miami,2020,15,0,Pre-Revenue
+S01219,RuneSecurity,Artificial Intelligence,United States,North America,San Francisco,2022,11,0,Revenue Generating
+S01220,ZenoBeam,Social Media / Creator Economy,Estonia,Europe,Tallinn,2020,281,0,Revenue Generating
+S01221,AstraHub,Fintech,Israel,Middle East,Tel Aviv,2021,8,0,Profitable
+S01222,CruxHealth,Robotics & Automation,China,Asia,Shanghai,2022,3,0,Profitable
+S01223,ApexLogic,Artificial Intelligence,China,Asia,Hangzhou,2022,207,0,Revenue Generating
+S01224,VertexDynamics,Logistics & Supply Chain,United States,North America,Chicago,2023,73,0,Revenue Generating
+S01225,ZenPlatform,E-Commerce,Argentina,South America,Buenos Aires,2019,8,0,Revenue Generating
+S01226,NexusForge,Gaming & Entertainment,Thailand,Asia,Bangkok,2024,18,0,Pre-Revenue
+S01227,IonSpace,Social Media / Creator Economy,Philippines,Asia,Manila,2018,39,0,Revenue Generating
+S01228,BetaAnalytics,Cybersecurity,India,Asia,Mumbai,2023,66,0,Revenue Generating
+S01229,ZenRobotics,E-Commerce,United States,North America,Austin,2020,12,1,Revenue Generating
+S01230,Protoio,Cybersecurity,Canada,North America,Toronto,2022,89,0,Profitable
+S01231,NexusLogic,Artificial Intelligence,China,Asia,Beijing,2024,50,1,Revenue Generating
+S01232,HyperAnalytics,Healthcare & Biotech,Nigeria,Africa,Lagos,2023,19,1,Revenue Generating
+S01233,FluxWorks,Real Estate Tech,United Kingdom,Europe,Manchester,2023,15,0,Pre-Revenue
+S01234,Quantumfy,Climate Tech / Clean Energy,China,Asia,Shenzhen,2018,17,0,Revenue Generating
+S01235,OrionLabs,SaaS / Enterprise Software,Sweden,Europe,Gothenburg,2022,127,0,Revenue Generating
+S01236,RapidBio,Artificial Intelligence,China,Asia,Hangzhou,2016,118,0,Revenue Generating
+S01237,LumeBio,Robotics & Automation,Argentina,South America,Buenos Aires,2023,8,0,Pre-Revenue
+S01238,CoreNet,Fintech,Japan,Asia,Tokyo,2022,48,0,Pre-Revenue
+S01239,HubAI,Gaming & Entertainment,China,Asia,Beijing,2016,11,0,Pre-Revenue
+S01240,TideBeam,Real Estate Tech,United States,North America,Seattle,2019,255,0,Profitable
+S01241,Swiftly,Cybersecurity,India,Asia,Delhi NCR,2021,12,1,Revenue Generating
+S01242,Orionfy,E-Commerce,India,Asia,Delhi NCR,2024,12,0,Revenue Generating
+S01243,ArcWorks,Artificial Intelligence,Singapore,Asia,Singapore,2021,7,0,Profitable
+S01244,SageWare,Artificial Intelligence,United States,North America,San Francisco,2015,11,0,Pre-Revenue
+S01245,TerraSystems,Fintech,India,Asia,Pune,2017,35,0,Revenue Generating
+S01246,GridStack,Food & AgriTech,India,Asia,Mumbai,2023,18,0,Pre-Revenue
+S01247,OnyxCore,SaaS / Enterprise Software,United States,North America,Seattle,2023,24,0,Pre-Revenue
+S01248,GridLabs,Healthcare & Biotech,United States,North America,San Diego,2022,16,0,Revenue Generating
+S01249,CoreSpace,Fintech,China,Asia,Hangzhou,2022,3,0,Pre-Revenue
+S01250,Onyxly,Climate Tech / Clean Energy,Brazil,South America,São Paulo,2022,20,0,Pre-Revenue
+S01251,RapidTech,Insurtech,India,Asia,Pune,2023,270,0,Pre-Revenue
+S01252,EdgeLogic,Cybersecurity,United States,North America,San Francisco,2020,32,0,Pre-Revenue
+S01253,HubBase,Real Estate Tech,United States,North America,Chicago,2024,19,0,Pre-Revenue
+S01254,Xenoly,Artificial Intelligence,United States,North America,San Diego,2022,37,0,Profitable
+S01255,ZenSpace,Space Tech,United States,North America,Miami,2024,33,0,Revenue Generating
+S01256,PulseSpace,Healthcare & Biotech,United States,North America,Miami,2018,83,1,Pre-Revenue
+S01257,DataHealth,Edtech,France,Europe,Lyon,2024,6,0,Pre-Revenue
+S01258,FluxCore,Healthcare & Biotech,United States,North America,Denver,2021,12,0,Profitable
+S01259,ZenoHealth,Artificial Intelligence,France,Europe,Toulouse,2019,6,1,Pre-Revenue
+S01260,HyperBase,Fintech,China,Asia,Shanghai,2023,24,0,Revenue Generating
+S01261,HyperSecurity,Fintech,Saudi Arabia,Middle East,Riyadh,2020,17,0,Revenue Generating
+S01262,IonCloud,Food & AgriTech,Canada,North America,Montreal,2023,2,1,Revenue Generating
+S01263,XenoDynamics,E-Commerce,United Kingdom,Europe,Edinburgh,2023,2,0,Revenue Generating
+S01264,CoreLogic,Climate Tech / Clean Energy,Netherlands,Europe,Rotterdam,2023,18,0,Revenue Generating
+S01265,VibeEnergy,Cybersecurity,United States,North America,Chicago,2022,88,0,Revenue Generating
+S01266,UltraEnergy,Fintech,United States,North America,San Francisco,2019,7,0,Pre-Revenue
+S01267,Jetio,Web3 / Blockchain,United Kingdom,Europe,London,2021,4,0,Revenue Generating
+S01268,UltraHealth,Cybersecurity,South Korea,Asia,Busan,2023,2,0,Pre-Revenue
+S01269,OnyxLabs,Climate Tech / Clean Energy,Estonia,Europe,Tallinn,2024,15,0,Revenue Generating
+S01270,HyperSpace,Gaming & Entertainment,Spain,Europe,Madrid,2021,10,0,Revenue Generating
+S01271,VertexLabs,Gaming & Entertainment,United States,North America,Austin,2022,97,0,Revenue Generating
+S01272,BetaMind,SaaS / Enterprise Software,United States,North America,Seattle,2021,8,1,Revenue Generating
+S01273,YieldSense,SaaS / Enterprise Software,United Kingdom,Europe,Edinburgh,2020,23,0,Pre-Revenue
+S01274,WaveHealth,Artificial Intelligence,United States,North America,San Francisco,2016,14,0,Pre-Revenue
+S01275,TideHealth,Climate Tech / Clean Energy,United States,North America,Los Angeles,2022,23,1,Pre-Revenue
+S01276,OrionPlatform,Edtech,United States,North America,Miami,2023,51,0,Revenue Generating
+S01277,BetaCloud,SaaS / Enterprise Software,United Kingdom,Europe,Bristol,2022,10,0,Pre-Revenue
+S01278,EdgeAnalytics,Artificial Intelligence,Nigeria,Africa,Nairobi,2020,9,0,Profitable
+S01279,YieldNet,Fintech,United Kingdom,Europe,Bristol,2018,2,0,Pre-Revenue
+S01280,CloudHealth,Healthcare & Biotech,China,Asia,Shanghai,2022,19,0,Revenue Generating
+S01281,CloudCloud,Healthcare & Biotech,United States,North America,San Diego,2019,7,0,Profitable
+S01282,QuarkDynamics,SaaS / Enterprise Software,UAE,Middle East,Abu Dhabi,2016,35,0,Revenue Generating
+S01283,SwiftEnergy,Healthcare & Biotech,Israel,Middle East,Jerusalem,2023,37,1,Pre-Revenue
+S01284,DataPlatform,Artificial Intelligence,United States,North America,San Diego,2022,37,0,Pre-Revenue
+S01285,ForgeX,Logistics & Supply Chain,Indonesia,Asia,Jakarta,2024,23,0,Profitable
+S01286,SwiftSense,Artificial Intelligence,India,Asia,Delhi NCR,2023,54,0,Revenue Generating
+S01287,JetRobotics,Artificial Intelligence,United States,North America,San Diego,2020,15,1,Profitable
+S01288,SwiftRobotics,Healthcare & Biotech,United Kingdom,Europe,Manchester,2022,2,0,Revenue Generating
+S01289,Cyberfy,Healthcare & Biotech,Brazil,South America,Rio de Janeiro,2017,12,0,Revenue Generating
+S01290,QuarkWare,Artificial Intelligence,Germany,Europe,Frankfurt,2020,45,0,Pre-Revenue
+S01291,Corefy,Fintech,United States,North America,Seattle,2024,13,0,Revenue Generating
+S01292,VibeSystems,Web3 / Blockchain,United Kingdom,Europe,London,2020,35,1,Pre-Revenue
+S01293,ProtoEnergy,SaaS / Enterprise Software,Singapore,Asia,Singapore,2024,34,1,Pre-Revenue
+S01294,ArcBase,E-Commerce,United Kingdom,Europe,Cambridge,2023,12,1,Revenue Generating
+S01295,OnyxHealth,Gaming & Entertainment,China,Asia,Shenzhen,2020,71,0,Profitable
+S01296,SwiftBeam,Climate Tech / Clean Energy,United Kingdom,Europe,Edinburgh,2021,25,0,Revenue Generating
+S01297,Jetverse,Fintech,United States,North America,Seattle,2022,34,1,Profitable
+S01298,Hyperverse,Artificial Intelligence,China,Asia,Beijing,2023,41,1,Revenue Generating
+S01299,RapidLink,Insurtech,China,Asia,Beijing,2018,9,0,Pre-Revenue
+S01300,UltraNet,Cybersecurity,Japan,Asia,Osaka,2024,20,0,Pre-Revenue
+S01301,Cyberly,SaaS / Enterprise Software,Japan,Asia,Osaka,2024,19,1,Profitable
+S01302,DawnSpace,Cybersecurity,United States,North America,Chicago,2019,31,0,Pre-Revenue
+S01303,VertexSpace,Fintech,India,Asia,Mumbai,2022,46,0,Pre-Revenue
+S01304,AlphaWorks,Fintech,Singapore,Asia,Singapore,2023,66,0,Pre-Revenue
+S01305,AstraSense,Cybersecurity,United States,North America,Miami,2022,2,0,Pre-Revenue
+S01306,Rapidio,Fintech,United States,North America,Los Angeles,2022,33,1,Pre-Revenue
+S01307,SageCloud,Artificial Intelligence,India,Asia,Hyderabad,2023,29,0,Pre-Revenue
+S01308,IonForge,Social Media / Creator Economy,Kenya,Africa,Nairobi,2023,29,0,Profitable
+S01309,CruxFlow,Web3 / Blockchain,China,Asia,Beijing,2019,2,0,Pre-Revenue
+S01310,ArcHealth,Food & AgriTech,United States,North America,San Francisco,2020,6,0,Revenue Generating
+S01311,ZenWorks,Fintech,Canada,North America,Montreal,2019,36,1,Pre-Revenue
+S01312,IonWare,E-Commerce,United Kingdom,Europe,London,2024,20,1,Revenue Generating
+S01313,ArcX,Artificial Intelligence,Turkey,Europe,Ankara,2017,4,0,Revenue Generating
+S01314,YieldMind,E-Commerce,United Kingdom,Europe,Bristol,2018,3,1,Revenue Generating
+S01315,ZenoX,E-Commerce,Thailand,Asia,Bangkok,2024,7,0,Pre-Revenue
+S01316,XenoFlow,SaaS / Enterprise Software,United States,North America,Austin,2019,14,0,Revenue Generating
+S01317,JetFlow,Healthcare & Biotech,United States,North America,Los Angeles,2017,7,0,Pre-Revenue
+S01318,ZenoStack,SaaS / Enterprise Software,United States,North America,San Diego,2019,23,1,Revenue Generating
+S01319,HubSense,E-Commerce,Switzerland,Europe,Geneva,2024,6,0,Pre-Revenue
+S01320,NovaSpace,Fintech,Singapore,Asia,Singapore,2024,15,0,Revenue Generating
+S01321,TideDynamics,Logistics & Supply Chain,United States,North America,Miami,2022,9,1,Pre-Revenue
+S01322,AlphaFlow,Artificial Intelligence,United States,North America,San Francisco,2016,2,0,Pre-Revenue
+S01323,Velofy,Web3 / Blockchain,Singapore,Asia,Singapore,2020,2,0,Profitable
+S01324,XenoEnergy,E-Commerce,United States,North America,Chicago,2022,8,1,Pre-Revenue
+S01325,CyberStack,Gaming & Entertainment,Nigeria,Africa,Lagos,2023,28,0,Revenue Generating
+S01326,AlphaWare,Gaming & Entertainment,United States,North America,San Francisco,2015,2,1,Profitable
+S01327,PixelLink,Artificial Intelligence,United States,North America,Los Angeles,2018,69,1,Pre-Revenue
+S01328,HubNet,Climate Tech / Clean Energy,United States,North America,Denver,2024,62,0,Pre-Revenue
+S01329,Gridio,Climate Tech / Clean Energy,United States,North America,Miami,2022,67,0,Revenue Generating
+S01330,AlphaSense,E-Commerce,China,Asia,Guangzhou,2019,11,0,Pre-Revenue
+S01331,QuantumX,Food & AgriTech,India,Asia,Hyderabad,2018,11,1,Pre-Revenue
+S01332,OrionAnalytics,Food & AgriTech,Argentina,South America,Buenos Aires,2018,14,0,Pre-Revenue
+S01333,Orionly,Legal Tech,United States,North America,San Francisco,2022,25,1,Revenue Generating
+S01334,TerraBeam,Artificial Intelligence,Poland,Europe,Warsaw,2021,28,0,Revenue Generating
+S01335,PixelMind,Fintech,Poland,Europe,Kraków,2019,84,0,Revenue Generating
+S01336,MetaTech,SaaS / Enterprise Software,United States,North America,San Francisco,2023,103,0,Revenue Generating
+S01337,DataBeam,Food & AgriTech,India,Asia,Mumbai,2018,7,0,Revenue Generating
+S01338,Kiteio,Artificial Intelligence,Canada,North America,Toronto,2021,2,1,Pre-Revenue
+S01339,EdgePlatform,Legal Tech,United States,North America,Miami,2022,64,0,Profitable
+S01340,Edgeio,SaaS / Enterprise Software,United States,North America,Miami,2016,28,0,Revenue Generating
+S01341,RapidCore,Climate Tech / Clean Energy,India,Asia,Pune,2015,31,1,Pre-Revenue
+S01342,SwiftWare,Artificial Intelligence,United States,North America,San Diego,2020,27,0,Pre-Revenue
+S01343,CruxX,Cybersecurity,Nigeria,Africa,Lagos,2023,35,0,Pre-Revenue
+S01344,JetAnalytics,Artificial Intelligence,India,Asia,Chennai,2019,8,0,Revenue Generating
+S01345,EdgeLink,Climate Tech / Clean Energy,China,Asia,Beijing,2023,105,0,Revenue Generating
+S01346,ForgeHealth,E-Commerce,India,Asia,Mumbai,2022,25,0,Pre-Revenue
+S01347,KiteWorks,Gaming & Entertainment,United States,North America,San Francisco,2021,38,1,Revenue Generating
+S01348,GridFlow,SaaS / Enterprise Software,United Kingdom,Europe,London,2016,15,0,Revenue Generating
+S01349,NeoBeam,SaaS / Enterprise Software,Brazil,South America,São Paulo,2022,16,0,Revenue Generating
+S01350,Ultrafy,Fintech,United States,North America,Miami,2024,8,0,Revenue Generating
+S01351,Quarkverse,Web3 / Blockchain,India,Asia,Chennai,2022,421,1,Revenue Generating
+S01352,EdgeEnergy,E-Commerce,Israel,Middle East,Jerusalem,2017,5,0,Pre-Revenue
+S01353,Quarkfy,E-Commerce,United States,North America,Austin,2024,14,1,Profitable
+S01354,SageFlow,Healthcare & Biotech,South Korea,Asia,Seoul,2022,6,0,Revenue Generating
+S01355,SwiftLabs,SaaS / Enterprise Software,United States,North America,San Francisco,2020,43,0,Revenue Generating
+S01356,MetaSecurity,Edtech,United States,North America,Boston,2024,49,0,Revenue Generating
+S01357,QuantumCore,Edtech,United Kingdom,Europe,Bristol,2018,62,1,Revenue Generating
+S01358,OrionBase,E-Commerce,Argentina,South America,Buenos Aires,2021,389,0,Revenue Generating
+S01359,EdgeFinance,Healthcare & Biotech,United States,North America,Seattle,2019,73,0,Revenue Generating
+S01360,CruxPlatform,Fintech,United States,North America,Miami,2020,9,0,Revenue Generating
+S01361,ZenoEnergy,Logistics & Supply Chain,South Africa,Africa,Johannesburg,2024,40,0,Revenue Generating
+S01362,CruxAnalytics,Fintech,United States,North America,San Diego,2019,232,0,Pre-Revenue
+S01363,ArcSystems,Artificial Intelligence,Indonesia,Asia,Surabaya,2021,35,1,Revenue Generating
+S01364,QuantumSpace,Healthcare & Biotech,Australia,Oceania,Melbourne,2017,10,0,Pre-Revenue
+S01365,NovaBase,E-Commerce,Egypt,Africa,Cairo,2021,55,0,Revenue Generating
+S01366,OnyxWorks,Healthcare & Biotech,South Africa,Africa,Cape Town,2023,6,0,Revenue Generating
+S01367,MetaSpace,SaaS / Enterprise Software,Canada,North America,Vancouver,2024,19,0,Revenue Generating
+S01368,Boltfy,SaaS / Enterprise Software,Estonia,Europe,Tallinn,2018,73,0,Revenue Generating
+S01369,NeoFlow,Healthcare & Biotech,India,Asia,Pune,2021,32,0,Profitable
+S01370,Cloudio,Artificial Intelligence,Saudi Arabia,Middle East,Jeddah,2023,6,0,Pre-Revenue
+S01371,HubLabs,Artificial Intelligence,China,Asia,Guangzhou,2022,20,0,Profitable
+S01372,QuarkHub,Fintech,Israel,Middle East,Haifa,2017,54,0,Pre-Revenue
+S01373,Ultraverse,Fintech,United States,North America,Boston,2020,4,0,Pre-Revenue
+S01374,PixelSecurity,Artificial Intelligence,United States,North America,Boston,2021,33,0,Revenue Generating
+S01375,OnyxDynamics,Artificial Intelligence,India,Asia,Bangalore,2023,12,0,Pre-Revenue
+S01376,LumeNet,SaaS / Enterprise Software,United States,North America,Austin,2022,25,0,Pre-Revenue
+S01377,PulseRobotics,Gaming & Entertainment,India,Asia,Bangalore,2019,67,0,Revenue Generating
+S01378,NovaWare,Cybersecurity,France,Europe,Paris,2024,16,0,Revenue Generating
+S01379,HyperAI,Real Estate Tech,United States,North America,San Francisco,2019,20,1,Revenue Generating
+S01380,SwiftFlow,Fintech,India,Asia,Delhi NCR,2022,29,1,Profitable
+S01381,Runeio,Healthcare & Biotech,Kenya,Africa,Nairobi,2020,12,1,Pre-Revenue
+S01382,RuneStack,Web3 / Blockchain,United Kingdom,Europe,Manchester,2021,765,0,Revenue Generating
+S01383,BetaSecurity,Gaming & Entertainment,Germany,Europe,Berlin,2021,19,1,Revenue Generating
+S01384,FluxPay,Healthcare & Biotech,Japan,Asia,Tokyo,2017,779,1,Revenue Generating
+S01385,ProtoSystems,Healthcare & Biotech,United States,North America,Los Angeles,2022,14,1,Revenue Generating
+S01386,XenoLink,Fintech,China,Asia,Shenzhen,2023,35,0,Revenue Generating
+S01387,ZenFlow,Healthcare & Biotech,France,Europe,Lyon,2023,8,1,Revenue Generating
+S01388,XenoBio,E-Commerce,Poland,Europe,Kraków,2023,9,0,Revenue Generating
+S01389,VeloPay,Insurtech,France,Europe,Paris,2023,11,0,Revenue Generating
+S01390,QuantumLink,SaaS / Enterprise Software,United Kingdom,Europe,London,2022,108,0,Pre-Revenue
+S01391,Betaverse,Climate Tech / Clean Energy,United States,North America,Miami,2024,15,0,Revenue Generating
+S01392,VertexLogic,Artificial Intelligence,United States,North America,Boston,2019,8,0,Revenue Generating
+S01393,EchoLink,Robotics & Automation,Canada,North America,Montreal,2023,2,0,Revenue Generating
+S01394,ForgeMind,Artificial Intelligence,United States,North America,Denver,2018,245,0,Pre-Revenue
+S01395,DataForge,Artificial Intelligence,United States,North America,San Diego,2017,28,0,Revenue Generating
+S01396,HyperNet,E-Commerce,Poland,Europe,Warsaw,2024,89,0,Revenue Generating
+S01397,DawnSense,Food & AgriTech,United Kingdom,Europe,Bristol,2021,33,0,Revenue Generating
+S01398,Ionverse,Artificial Intelligence,Nigeria,Africa,Nairobi,2022,2,0,Pre-Revenue
+S01399,SageRobotics,Healthcare & Biotech,India,Asia,Mumbai,2021,11,1,Pre-Revenue
+S01400,RunePay,HR Tech,Brazil,South America,Belo Horizonte,2019,46,0,Revenue Generating
+S01401,EchoBase,E-Commerce,United States,North America,San Diego,2018,22,1,Profitable
+S01402,Betafy,Fintech,India,Asia,Delhi NCR,2019,37,0,Profitable
+S01403,EdgePay,Artificial Intelligence,United Kingdom,Europe,London,2024,62,0,Pre-Revenue
+S01404,NovaLabs,Fintech,India,Asia,Mumbai,2022,163,0,Revenue Generating
+S01405,CloudMind,Artificial Intelligence,Nigeria,Africa,Lagos,2019,32,1,Revenue Generating
+S01406,TideX,Climate Tech / Clean Energy,United States,North America,San Francisco,2023,6,0,Profitable
+S01407,Dawnly,HR Tech,Brazil,South America,São Paulo,2024,9,1,Revenue Generating
+S01408,TerraForge,Artificial Intelligence,United States,North America,San Francisco,2022,7,0,Pre-Revenue
+S01409,Ionly,Gaming & Entertainment,Mexico,South America,Monterrey,2017,25,0,Revenue Generating
+S01410,XenoPlatform,Artificial Intelligence,Sweden,Europe,Gothenburg,2016,13,0,Pre-Revenue
+S01411,NovaPay,Robotics & Automation,United Kingdom,Europe,London,2016,771,0,Pre-Revenue
+S01412,UltraForge,Climate Tech / Clean Energy,United States,North America,Seattle,2019,63,0,Revenue Generating
+S01413,Zenoio,Travel Tech,France,Europe,Toulouse,2018,30,0,Revenue Generating
+S01414,Tidefy,Healthcare & Biotech,Australia,Oceania,Sydney,2021,7,0,Profitable
+S01415,XenoForge,Logistics & Supply Chain,Israel,Middle East,Jerusalem,2022,3,0,Revenue Generating
+S01416,JetCloud,Fintech,India,Asia,Mumbai,2021,4,0,Revenue Generating
+S01417,RapidSecurity,Artificial Intelligence,United States,North America,Chicago,2020,16,0,Pre-Revenue
+S01418,IonWorks,Edtech,South Africa,Africa,Cape Town,2023,26,0,Revenue Generating
+S01419,GridPay,Artificial Intelligence,Turkey,Europe,Istanbul,2018,111,0,Revenue Generating
+S01420,DataDynamics,Climate Tech / Clean Energy,Germany,Europe,Hamburg,2023,8,0,Pre-Revenue
+S01421,PulseCloud,Gaming & Entertainment,India,Asia,Bangalore,2024,3,1,Pre-Revenue
+S01422,Coreio,Healthcare & Biotech,United States,North America,New York,2018,2,0,Revenue Generating
+S01423,AlphaBase,Robotics & Automation,United Kingdom,Europe,Manchester,2023,2,0,Revenue Generating
+S01424,TerraNet,Artificial Intelligence,Germany,Europe,Berlin,2022,63,0,Pre-Revenue
+S01425,AlphaLabs,Web3 / Blockchain,United Kingdom,Europe,London,2022,8,0,Revenue Generating
+S01426,ProtoTech,Artificial Intelligence,India,Asia,Hyderabad,2023,21,1,Revenue Generating
+S01427,LumeLink,Fintech,Estonia,Europe,Tallinn,2023,10,0,Revenue Generating
+S01428,ForgeBio,Artificial Intelligence,France,Europe,Lyon,2024,19,0,Revenue Generating
+S01429,GridAI,Cybersecurity,Germany,Europe,Hamburg,2024,26,0,Profitable
+S01430,ApexEnergy,Healthcare & Biotech,United States,North America,Denver,2015,5,0,Revenue Generating
+S01431,JetSecurity,Edtech,Brazil,South America,Rio de Janeiro,2024,22,0,Revenue Generating
+S01432,IonBio,Web3 / Blockchain,United Kingdom,Europe,Manchester,2023,19,0,Revenue Generating
+S01433,SwiftPay,Healthcare & Biotech,United States,North America,Los Angeles,2015,47,0,Pre-Revenue
+S01434,IonAI,Climate Tech / Clean Energy,France,Europe,Paris,2020,13,1,Profitable
+S01435,LumeCloud,Artificial Intelligence,Brazil,South America,Rio de Janeiro,2019,17,0,Revenue Generating
+S01436,ZenHealth,Healthcare & Biotech,United States,North America,Los Angeles,2023,33,1,Revenue Generating
+S01437,AstraAI,SaaS / Enterprise Software,United States,North America,San Diego,2022,42,1,Revenue Generating
+S01438,BoltLogic,Artificial Intelligence,United States,North America,New York,2015,2,0,Pre-Revenue
+S01439,HubCore,Healthcare & Biotech,Canada,North America,Montreal,2023,9,1,Revenue Generating
+S01440,AstraSystems,E-Commerce,India,Asia,Mumbai,2021,19,0,Revenue Generating
+S01441,ApexNet,Climate Tech / Clean Energy,Philippines,Asia,Manila,2023,10,0,Revenue Generating
+S01442,ApexBeam,Artificial Intelligence,Germany,Europe,Hamburg,2021,3,0,Profitable
+S01443,EdgeSpace,Artificial Intelligence,Saudi Arabia,Middle East,Jeddah,2021,4,1,Pre-Revenue
+S01444,UltraSpace,Legal Tech,China,Asia,Shanghai,2022,15,0,Profitable
+S01445,XenoMind,HR Tech,Indonesia,Asia,Jakarta,2021,76,1,Pre-Revenue
+S01446,EchoBio,Cybersecurity,Israel,Middle East,Jerusalem,2017,3,0,Profitable
+S01447,IonPlatform,Real Estate Tech,China,Asia,Shenzhen,2021,29,0,Pre-Revenue
+S01448,RapidBase,Web3 / Blockchain,Germany,Europe,Berlin,2020,54,1,Revenue Generating
+S01449,GridX,SaaS / Enterprise Software,United States,North America,Chicago,2024,46,0,Revenue Generating
+S01450,Neoio,Healthcare & Biotech,United Kingdom,Europe,Cambridge,2021,17,0,Revenue Generating
+S01451,AstraTech,Gaming & Entertainment,United Kingdom,Europe,Bristol,2016,8,0,Pre-Revenue
+S01452,RapidPlatform,Healthcare & Biotech,Canada,North America,Montreal,2022,12,0,Revenue Generating
+S01453,MetaFinance,SaaS / Enterprise Software,United States,North America,Denver,2017,8,0,Revenue Generating
+S01454,DeltaDynamics,Logistics & Supply Chain,Brazil,South America,Rio de Janeiro,2022,6,0,Revenue Generating
+S01455,ZenSecurity,Artificial Intelligence,United Kingdom,Europe,Cambridge,2017,13,1,Pre-Revenue
+S01456,LumeAI,Fintech,Thailand,Asia,Bangkok,2024,119,0,Revenue Generating
+S01457,EchoBeam,Gaming & Entertainment,United Kingdom,Europe,Manchester,2023,2,0,Revenue Generating
+S01458,NovaEnergy,SaaS / Enterprise Software,China,Asia,Shenzhen,2017,23,0,Revenue Generating
+S01459,CruxAI,Fintech,Israel,Middle East,Haifa,2023,105,0,Revenue Generating
+S01460,CoreCloud,Artificial Intelligence,Germany,Europe,Hamburg,2023,15,0,Pre-Revenue
+S01461,HyperLink,Healthcare & Biotech,India,Asia,Delhi NCR,2017,2,0,Revenue Generating
+S01462,QuarkHealth,SaaS / Enterprise Software,Canada,North America,Vancouver,2024,3,0,Pre-Revenue
+S01463,OnyxFinance,Web3 / Blockchain,Kenya,Africa,Nairobi,2020,10,1,Revenue Generating
+S01464,BoltPay,Logistics & Supply Chain,Poland,Europe,Kraków,2017,5,0,Pre-Revenue
+S01465,CyberCore,Healthcare & Biotech,China,Asia,Beijing,2021,12,1,Profitable
+S01466,LumeFinance,Artificial Intelligence,India,Asia,Bangalore,2023,20,1,Profitable
+S01467,OnyxRobotics,E-Commerce,China,Asia,Beijing,2018,66,0,Profitable
+S01468,AstraFlow,E-Commerce,India,Asia,Pune,2019,11,0,Revenue Generating
+S01469,HubX,E-Commerce,Brazil,South America,São Paulo,2020,19,0,Revenue Generating
+S01470,OrionForge,Healthcare & Biotech,Germany,Europe,Munich,2024,13,0,Revenue Generating
+S01471,RuneFinance,Artificial Intelligence,China,Asia,Guangzhou,2020,51,0,Pre-Revenue
+S01472,PixelAI,SaaS / Enterprise Software,Spain,Europe,Madrid,2023,16,1,Revenue Generating
+S01473,RuneSense,Artificial Intelligence,South Korea,Asia,Busan,2023,42,0,Revenue Generating
+S01474,ZenHub,Cybersecurity,Philippines,Asia,Manila,2018,21,0,Revenue Generating
+S01475,NexusAI,Cybersecurity,China,Asia,Beijing,2020,7,0,Revenue Generating
+S01476,DeltaX,Fintech,France,Europe,Toulouse,2021,3,0,Profitable
+S01477,GridNet,Healthcare & Biotech,United States,North America,Chicago,2017,24,0,Pre-Revenue
+S01478,CloudLogic,Fintech,China,Asia,Hangzhou,2017,10,1,Profitable
+S01479,Xenoio,Space Tech,United States,North America,San Diego,2022,96,0,Pre-Revenue
+S01480,QuarkFinance,Artificial Intelligence,United States,North America,Boston,2020,41,0,Pre-Revenue
+S01481,TerraPlatform,Artificial Intelligence,India,Asia,Pune,2021,6,0,Revenue Generating
+S01482,DeltaRobotics,Cybersecurity,United Kingdom,Europe,Edinburgh,2019,4,0,Revenue Generating
+S01483,VibeWorks,Insurtech,Egypt,Africa,Cairo,2020,148,0,Revenue Generating
+S01484,CyberEnergy,Legal Tech,United States,North America,Austin,2021,5,1,Pre-Revenue
+S01485,CoreX,Artificial Intelligence,India,Asia,Chennai,2023,2,0,Pre-Revenue
+S01486,WaveDynamics,Artificial Intelligence,Netherlands,Europe,Amsterdam,2022,54,0,Profitable
+S01487,UltraFlow,Edtech,Brazil,South America,Rio de Janeiro,2020,29,0,Revenue Generating
+S01488,RuneBio,Space Tech,France,Europe,Toulouse,2018,109,0,Pre-Revenue
+S01489,LumeWare,SaaS / Enterprise Software,China,Asia,Guangzhou,2022,8,1,Revenue Generating
+S01490,YieldHealth,Food & AgriTech,Netherlands,Europe,Amsterdam,2021,82,0,Revenue Generating
+S01491,GridForge,Artificial Intelligence,United States,North America,Los Angeles,2024,70,0,Profitable
+S01492,SageDynamics,Artificial Intelligence,India,Asia,Chennai,2022,78,0,Pre-Revenue
+S01493,Deltaly,Artificial Intelligence,United States,North America,Miami,2020,72,0,Pre-Revenue
+S01494,Forgeverse,E-Commerce,India,Asia,Bangalore,2020,29,0,Pre-Revenue
+S01495,ApexTech,E-Commerce,Singapore,Asia,Singapore,2017,3,1,Revenue Generating
+S01496,CruxForge,Food & AgriTech,United States,North America,Boston,2023,27,0,Revenue Generating
+S01497,SwiftHub,Artificial Intelligence,United States,North America,Chicago,2019,2,0,Revenue Generating
+S01498,IonCore,Fintech,India,Asia,Pune,2023,32,0,Pre-Revenue
+S01499,PixelX,Fintech,Switzerland,Europe,Zurich,2023,12,0,Pre-Revenue
+S01500,CruxBase,SaaS / Enterprise Software,United States,North America,Seattle,2020,6,0,Profitable
+S01501,Deltafy,Cybersecurity,Estonia,Europe,Tallinn,2020,7,0,Pre-Revenue
+S01502,ProtoStack,Fintech,Netherlands,Europe,Rotterdam,2017,18,1,Profitable
+S01503,JetForge,Healthcare & Biotech,India,Asia,Delhi NCR,2022,34,1,Pre-Revenue
+S01504,ArcFinance,Artificial Intelligence,Germany,Europe,Hamburg,2022,6,0,Profitable
+S01505,IonPay,HR Tech,South Korea,Asia,Seoul,2022,22,0,Profitable
+S01506,TideAI,Fintech,Sweden,Europe,Stockholm,2020,44,1,Pre-Revenue
+S01507,CyberWorks,Healthcare & Biotech,United Kingdom,Europe,Cambridge,2021,6,0,Revenue Generating
+S01508,SageNet,Healthcare & Biotech,Netherlands,Europe,Rotterdam,2016,66,0,Pre-Revenue
+S01509,LumeWorks,E-Commerce,India,Asia,Pune,2016,3,0,Profitable
+S01510,OnyxSystems,Artificial Intelligence,United States,North America,Los Angeles,2021,35,1,Revenue Generating
+S01511,NeoLink,SaaS / Enterprise Software,India,Asia,Pune,2020,32,0,Revenue Generating
+S01512,LumeCore,Cybersecurity,Australia,Oceania,Melbourne,2022,31,0,Revenue Generating
+S01513,Wavefy,Fintech,United States,North America,Boston,2021,2,0,Profitable
+S01514,NexusMind,Healthcare & Biotech,United States,North America,Chicago,2024,3,0,Pre-Revenue
+S01515,BoltFinance,SaaS / Enterprise Software,Germany,Europe,Hamburg,2020,277,0,Pre-Revenue
+S01516,CoreWare,SaaS / Enterprise Software,Switzerland,Europe,Zurich,2022,19,0,Revenue Generating
+S01517,YieldBase,Artificial Intelligence,China,Asia,Hangzhou,2023,23,0,Revenue Generating
+S01518,ApexLink,Edtech,Colombia,South America,Medellín,2022,11,0,Pre-Revenue
+S01519,DawnMind,Real Estate Tech,China,Asia,Hangzhou,2024,84,0,Profitable
+S01520,MetaHealth,Artificial Intelligence,United States,North America,Chicago,2019,18,0,Pre-Revenue
+S01521,OrionWare,Insurtech,Canada,North America,Montreal,2023,76,0,Revenue Generating
+S01522,Cruxly,SaaS / Enterprise Software,Germany,Europe,Munich,2019,12,0,Revenue Generating
+S01523,DeltaSystems,Edtech,Netherlands,Europe,Amsterdam,2024,44,0,Pre-Revenue
+S01524,ZenoPlatform,Real Estate Tech,India,Asia,Mumbai,2021,17,0,Pre-Revenue
+S01525,Zenofy,SaaS / Enterprise Software,Australia,Oceania,Melbourne,2021,12,0,Revenue Generating
+S01526,PulsePlatform,SaaS / Enterprise Software,India,Asia,Delhi NCR,2021,87,0,Revenue Generating
+S01527,NeoSpace,Robotics & Automation,China,Asia,Guangzhou,2022,3,0,Profitable
+S01528,EdgeWorks,Insurtech,United States,North America,Austin,2021,9,0,Pre-Revenue
+S01529,ApexX,E-Commerce,Sweden,Europe,Gothenburg,2023,3,0,Pre-Revenue
+S01530,RapidNet,Fintech,United States,North America,Denver,2022,369,0,Profitable
+S01531,BoltSpace,SaaS / Enterprise Software,United States,North America,Seattle,2024,14,0,Pre-Revenue
+S01532,UltraRobotics,Fintech,India,Asia,Pune,2024,27,1,Pre-Revenue
+S01533,Vibefy,SaaS / Enterprise Software,United States,North America,Denver,2018,18,0,Pre-Revenue
+S01534,OnyxWare,Fintech,Mexico,South America,Mexico City,2020,2,0,Pre-Revenue
+S01535,RapidSystems,Artificial Intelligence,United States,North America,San Francisco,2022,25,0,Pre-Revenue
+S01536,ArcSecurity,SaaS / Enterprise Software,China,Asia,Hangzhou,2020,21,0,Profitable
+S01537,AlphaPay,Fintech,United States,North America,Seattle,2021,60,1,Profitable
+S01538,PixelStack,Fintech,United Kingdom,Europe,Cambridge,2018,5,0,Pre-Revenue
+S01539,CoreLink,Space Tech,United States,North America,Miami,2019,76,1,Pre-Revenue
+S01540,ProtoForge,SaaS / Enterprise Software,India,Asia,Delhi NCR,2019,91,0,Revenue Generating
+S01541,HyperBio,Cybersecurity,United Kingdom,Europe,Cambridge,2022,131,0,Pre-Revenue
+S01542,CruxWorks,Artificial Intelligence,United States,North America,Boston,2024,2,0,Pre-Revenue
+S01543,XenoCore,SaaS / Enterprise Software,United States,North America,Miami,2022,7,0,Revenue Generating
+S01544,Neoly,Artificial Intelligence,United States,North America,Boston,2022,2,0,Revenue Generating
+S01545,HubMind,SaaS / Enterprise Software,United States,North America,Chicago,2018,92,0,Revenue Generating
+S01546,Vibeverse,Artificial Intelligence,Brazil,South America,Belo Horizonte,2020,85,1,Pre-Revenue
+S01547,MetaBeam,E-Commerce,India,Asia,Pune,2022,79,0,Pre-Revenue
+S01548,CloudCore,Healthcare & Biotech,India,Asia,Bangalore,2022,59,0,Pre-Revenue
+S01549,Xenofy,Space Tech,Philippines,Asia,Manila,2024,60,0,Revenue Generating
+S01550,BetaHealth,Food & AgriTech,South Korea,Asia,Seoul,2023,81,0,Revenue Generating
+S01551,Alphaly,Fintech,United States,North America,New York,2018,32,0,Profitable
+S01552,RapidFlow,Web3 / Blockchain,Israel,Middle East,Haifa,2021,48,1,Pre-Revenue
+S01553,XenoFinance,Artificial Intelligence,Mexico,South America,Mexico City,2018,22,0,Revenue Generating
+S01554,SageLink,Cybersecurity,United States,North America,Boston,2023,20,0,Revenue Generating
+S01555,Gridfy,Logistics & Supply Chain,United States,North America,Los Angeles,2022,110,0,Revenue Generating
+S01556,DawnFinance,Artificial Intelligence,United Kingdom,Europe,London,2022,139,0,Revenue Generating
+S01557,HyperEnergy,Artificial Intelligence,India,Asia,Mumbai,2020,12,0,Profitable
+S01558,PulseX,E-Commerce,India,Asia,Delhi NCR,2019,27,1,Profitable
+S01559,FluxSpace,Cybersecurity,Israel,Middle East,Tel Aviv,2022,2,0,Revenue Generating
+S01560,Echofy,SaaS / Enterprise Software,Colombia,South America,Bogotá,2015,107,1,Revenue Generating
+S01561,NeoAnalytics,Healthcare & Biotech,Vietnam,Asia,Ho Chi Minh City,2019,2,0,Revenue Generating
+S01562,HyperFlow,E-Commerce,United States,North America,Chicago,2021,18,1,Profitable
+S01563,EdgeAI,Healthcare & Biotech,France,Europe,Paris,2023,17,0,Pre-Revenue
+S01564,CloudRobotics,Healthcare & Biotech,Canada,North America,Montreal,2016,26,0,Revenue Generating
+S01565,OnyxLink,Fintech,United States,North America,Seattle,2022,19,1,Profitable
+S01566,SwiftAI,Artificial Intelligence,Germany,Europe,Frankfurt,2024,49,0,Revenue Generating
+S01567,DawnAnalytics,Fintech,Indonesia,Asia,Surabaya,2022,3,0,Pre-Revenue
+S01568,VeloCloud,Fintech,United States,North America,Miami,2020,23,1,Revenue Generating
+S01569,BetaSense,HR Tech,Egypt,Africa,Cairo,2020,8,0,Revenue Generating
+S01570,SwiftStack,Healthcare & Biotech,United States,North America,Boston,2015,36,0,Pre-Revenue
+S01571,Yieldio,Fintech,China,Asia,Beijing,2023,28,1,Pre-Revenue
+S01572,JetMind,Fintech,Israel,Middle East,Jerusalem,2023,4,0,Revenue Generating
+S01573,DataAI,Gaming & Entertainment,United States,North America,San Diego,2017,25,0,Profitable
+S01574,DeltaWare,Healthcare & Biotech,China,Asia,Hangzhou,2015,19,0,Revenue Generating
+S01575,QuarkBeam,Gaming & Entertainment,Turkey,Europe,Ankara,2015,31,0,Revenue Generating
+S01576,LumeX,Social Media / Creator Economy,Canada,North America,Toronto,2022,104,1,Revenue Generating
+S01577,Edgefy,Fintech,United Kingdom,Europe,Bristol,2019,7,0,Pre-Revenue
+S01578,FluxLabs,Artificial Intelligence,Thailand,Asia,Bangkok,2022,5,0,Revenue Generating
+S01579,TideEnergy,Legal Tech,India,Asia,Pune,2023,15,1,Pre-Revenue
+S01580,CloudWare,Legal Tech,China,Asia,Guangzhou,2020,154,0,Revenue Generating
+S01581,CyberMind,Artificial Intelligence,China,Asia,Shanghai,2024,9,0,Revenue Generating
+S01582,Deltaverse,SaaS / Enterprise Software,Mexico,South America,Mexico City,2024,50,1,Profitable
+S01583,Quantumio,Legal Tech,India,Asia,Mumbai,2022,4,0,Profitable
+S01584,NexusSecurity,Fintech,China,Asia,Shenzhen,2021,75,1,Profitable
+S01585,NeoX,Healthcare & Biotech,United Kingdom,Europe,Bristol,2024,4,1,Revenue Generating
+S01586,Nexusio,Food & AgriTech,Germany,Europe,Munich,2024,6,0,Revenue Generating
+S01587,SwiftX,Gaming & Entertainment,United States,North America,San Francisco,2020,15,1,Revenue Generating
+S01588,MetaPay,Web3 / Blockchain,South Africa,Africa,Johannesburg,2021,19,0,Revenue Generating
+S01589,Jetly,E-Commerce,United Kingdom,Europe,Bristol,2021,29,0,Pre-Revenue
+S01590,OrionEnergy,Climate Tech / Clean Energy,United States,North America,Miami,2022,103,1,Revenue Generating
+S01591,NovaLogic,Gaming & Entertainment,United States,North America,San Francisco,2018,74,0,Revenue Generating
+S01592,BoltBio,E-Commerce,Germany,Europe,Munich,2020,18,0,Pre-Revenue
+S01593,WaveBio,Healthcare & Biotech,Thailand,Asia,Bangkok,2018,328,0,Pre-Revenue
+S01594,MetaSense,Legal Tech,United States,North America,Seattle,2015,19,0,Pre-Revenue
+S01595,LumePay,Legal Tech,United States,North America,Austin,2020,9,0,Profitable
+S01596,DawnStack,SaaS / Enterprise Software,United States,North America,San Diego,2020,2,0,Revenue Generating
+S01597,DataStack,Gaming & Entertainment,United States,North America,Boston,2020,9,1,Revenue Generating
+S01598,HubPlatform,Edtech,Brazil,South America,Belo Horizonte,2018,2,0,Revenue Generating
+S01599,QuantumDynamics,Web3 / Blockchain,China,Asia,Beijing,2022,22,0,Profitable
+S01600,UltraDynamics,Insurtech,Japan,Asia,Tokyo,2023,3,1,Revenue Generating
+S01601,UltraAI,Cybersecurity,China,Asia,Guangzhou,2016,60,1,Profitable
+S01602,IonDynamics,Fintech,France,Europe,Lyon,2022,41,0,Pre-Revenue
+S01603,NexusNet,Artificial Intelligence,United Kingdom,Europe,Manchester,2021,209,0,Revenue Generating
+S01604,RapidX,Cybersecurity,Israel,Middle East,Tel Aviv,2018,5,0,Revenue Generating
+S01605,WaveMind,SaaS / Enterprise Software,Australia,Oceania,Sydney,2022,45,0,Revenue Generating
+S01606,VibePlatform,Healthcare & Biotech,Singapore,Asia,Singapore,2021,6,0,Profitable
+S01607,EdgeHub,Cybersecurity,United Kingdom,Europe,London,2023,14,1,Pre-Revenue
+S01608,IonFinance,Logistics & Supply Chain,Australia,Oceania,Sydney,2022,7,0,Revenue Generating
+S01609,VeloLabs,E-Commerce,United States,North America,Austin,2020,8,0,Pre-Revenue
+S01610,ZenCore,Logistics & Supply Chain,India,Asia,Delhi NCR,2023,29,0,Profitable
+S01611,BetaBeam,Logistics & Supply Chain,China,Asia,Shenzhen,2024,18,0,Revenue Generating
+S01612,HubSecurity,Logistics & Supply Chain,Brazil,South America,São Paulo,2019,2,1,Pre-Revenue
+S01613,HubStack,Robotics & Automation,India,Asia,Pune,2023,14,0,Revenue Generating
+S01614,NexusSpace,Fintech,Nigeria,Africa,Nairobi,2022,29,0,Revenue Generating
+S01615,Onyxverse,SaaS / Enterprise Software,United States,North America,Austin,2021,10,0,Pre-Revenue
+S01616,AstraCore,Gaming & Entertainment,United States,North America,Boston,2023,70,1,Pre-Revenue
+S01617,PulsePay,Fintech,United States,North America,San Diego,2021,10,0,Pre-Revenue
+S01618,Pixelverse,Artificial Intelligence,India,Asia,Mumbai,2020,5,0,Revenue Generating
+S01619,VibeSecurity,Artificial Intelligence,United States,North America,Denver,2021,9,1,Revenue Generating
+S01620,Hubio,E-Commerce,United States,North America,Miami,2017,36,0,Revenue Generating
+S01621,RuneForge,Social Media / Creator Economy,United States,North America,Austin,2022,87,0,Pre-Revenue
+S01622,PulseLink,Insurtech,United States,North America,Boston,2016,4,0,Revenue Generating
+S01623,KiteBeam,Edtech,Australia,Oceania,Sydney,2023,17,0,Revenue Generating
+S01624,NeoRobotics,Food & AgriTech,India,Asia,Mumbai,2016,26,0,Pre-Revenue
+S01625,CorePay,Fintech,France,Europe,Toulouse,2023,14,1,Revenue Generating
+S01626,Cloudly,Real Estate Tech,United States,North America,Boston,2024,26,0,Revenue Generating
+S01627,VibeBio,E-Commerce,India,Asia,Chennai,2017,65,0,Profitable
+S01628,SageHub,SaaS / Enterprise Software,United States,North America,Chicago,2020,9,0,Revenue Generating
+S01629,TideRobotics,Robotics & Automation,United States,North America,Chicago,2017,4,1,Revenue Generating
+S01630,OrionHub,SaaS / Enterprise Software,United States,North America,San Francisco,2022,99,0,Revenue Generating
+S01631,AlphaNet,Space Tech,United Kingdom,Europe,Manchester,2023,12,0,Revenue Generating
+S01632,ZenLabs,Fintech,United Kingdom,Europe,Cambridge,2021,4,1,Revenue Generating
+S01633,Dawnio,Artificial Intelligence,United States,North America,Seattle,2015,4,1,Pre-Revenue
+S01634,AlphaHealth,Fintech,United States,North America,New York,2017,40,0,Revenue Generating
+S01635,BoltSystems,Edtech,United States,North America,Boston,2018,4,1,Revenue Generating
+S01636,VeloFinance,Travel Tech,India,Asia,Bangalore,2024,15,0,Revenue Generating
+S01637,PixelForge,Artificial Intelligence,Israel,Middle East,Tel Aviv,2018,13,0,Pre-Revenue
+S01638,ApexFinance,E-Commerce,Israel,Middle East,Haifa,2018,15,0,Revenue Generating
+S01639,DawnCloud,Artificial Intelligence,India,Asia,Chennai,2022,23,0,Revenue Generating
+S01640,TideTech,Gaming & Entertainment,United States,North America,San Francisco,2022,53,0,Revenue Generating
+S01641,IonSense,Insurtech,United States,North America,Boston,2023,20,0,Revenue Generating
+S01642,RapidMind,Food & AgriTech,United States,North America,San Francisco,2021,16,0,Pre-Revenue
+S01643,BetaLogic,Web3 / Blockchain,United States,North America,New York,2021,26,0,Pre-Revenue
+S01644,CyberSystems,Artificial Intelligence,United Kingdom,Europe,Manchester,2023,158,1,Revenue Generating
+S01645,TideLogic,Fintech,Brazil,South America,São Paulo,2024,5,0,Pre-Revenue
+S01646,CoreTech,Healthcare & Biotech,United States,North America,Chicago,2021,3,0,Profitable
+S01647,DawnTech,Edtech,United Kingdom,Europe,Edinburgh,2021,5,0,Pre-Revenue
+S01648,EchoRobotics,Logistics & Supply Chain,Germany,Europe,Hamburg,2023,12,1,Revenue Generating
+S01649,SwiftBase,Space Tech,Indonesia,Asia,Surabaya,2021,14,1,Profitable
+S01650,QuantumFinance,Web3 / Blockchain,China,Asia,Hangzhou,2023,30,0,Revenue Generating
+S01651,KiteLabs,Artificial Intelligence,South Korea,Asia,Busan,2022,7,0,Revenue Generating
+S01652,OrionFinance,Cybersecurity,United States,North America,New York,2023,3,0,Pre-Revenue
+S01653,Yieldverse,Artificial Intelligence,India,Asia,Bangalore,2023,7,0,Revenue Generating
+S01654,IonHealth,Artificial Intelligence,Germany,Europe,Munich,2022,25,0,Revenue Generating
+S01655,DeltaEnergy,Fintech,Nigeria,Africa,Nairobi,2021,23,1,Revenue Generating
+S01656,ProtoCloud,Fintech,Poland,Europe,Warsaw,2022,21,1,Profitable
+S01657,QuarkRobotics,E-Commerce,Kenya,Africa,Nairobi,2016,26,1,Profitable
+S01658,VertexBeam,SaaS / Enterprise Software,Australia,Oceania,Sydney,2015,3,0,Revenue Generating
+S01659,NeoFinance,Insurtech,United States,North America,Denver,2024,4,0,Revenue Generating
+S01660,NeoWare,Fintech,Philippines,Asia,Manila,2017,25,0,Pre-Revenue
+S01661,AlphaForge,Insurtech,United States,North America,San Francisco,2022,15,0,Pre-Revenue
+S01662,NeoBase,Artificial Intelligence,Israel,Middle East,Jerusalem,2023,17,0,Revenue Generating
+S01663,WaveSense,Healthcare & Biotech,United States,North America,New York,2021,84,0,Pre-Revenue
+S01664,Metaio,HR Tech,Netherlands,Europe,Amsterdam,2021,53,1,Profitable
+S01665,CruxLabs,Healthcare & Biotech,Mexico,South America,Monterrey,2023,28,0,Pre-Revenue
+S01666,CyberNet,Fintech,Israel,Middle East,Tel Aviv,2019,27,0,Revenue Generating
+S01667,QuantumPay,SaaS / Enterprise Software,United States,North America,Austin,2019,34,1,Revenue Generating
+S01668,GridWare,Artificial Intelligence,Brazil,South America,Belo Horizonte,2024,14,0,Profitable
+S01669,RapidLogic,Social Media / Creator Economy,China,Asia,Shanghai,2016,18,0,Pre-Revenue
+S01670,NovaForge,E-Commerce,United Kingdom,Europe,Cambridge,2022,10,1,Profitable
+S01671,ZenStack,Fintech,United States,North America,Denver,2021,107,0,Revenue Generating
+S01672,TideSpace,Artificial Intelligence,Germany,Europe,Munich,2023,158,1,Revenue Generating
+S01673,MetaSystems,Artificial Intelligence,Canada,North America,Toronto,2024,6,0,Pre-Revenue
+S01674,QuarkSecurity,E-Commerce,India,Asia,Chennai,2017,23,0,Pre-Revenue
+S01675,ZenoNet,Artificial Intelligence,China,Asia,Shanghai,2019,91,1,Revenue Generating
+S01676,ZenoLogic,Cybersecurity,Germany,Europe,Frankfurt,2021,3,0,Revenue Generating
+S01677,EchoX,Web3 / Blockchain,United States,North America,Seattle,2015,2,0,Pre-Revenue
+S01678,RuneHub,SaaS / Enterprise Software,United States,North America,San Diego,2020,6,0,Revenue Generating
+S01679,HubSpace,Real Estate Tech,United Kingdom,Europe,Edinburgh,2016,4,0,Revenue Generating
+S01680,ForgeStack,Space Tech,United States,North America,San Francisco,2018,17,1,Revenue Generating
+S01681,GridCore,Food & AgriTech,China,Asia,Shanghai,2022,32,1,Revenue Generating
+S01682,HyperSense,SaaS / Enterprise Software,Sweden,Europe,Gothenburg,2023,12,0,Revenue Generating
+S01683,CyberPay,Robotics & Automation,Switzerland,Europe,Geneva,2021,13,0,Profitable
+S01684,HyperLabs,Fintech,United States,North America,Miami,2019,5,0,Pre-Revenue
+S01685,ForgeDynamics,Edtech,United States,North America,Boston,2024,41,0,Profitable
+S01686,ProtoX,Web3 / Blockchain,United States,North America,Seattle,2022,54,0,Pre-Revenue
+S01687,BetaHub,HR Tech,Israel,Middle East,Jerusalem,2022,3,0,Pre-Revenue
+S01688,FluxBeam,Edtech,United States,North America,Chicago,2021,64,0,Pre-Revenue
+S01689,LumeSecurity,Fintech,Saudi Arabia,Middle East,Riyadh,2019,35,0,Profitable
+S01690,EdgeRobotics,Climate Tech / Clean Energy,United States,North America,New York,2016,34,1,Revenue Generating
+S01691,Onyxfy,Healthcare & Biotech,China,Asia,Shenzhen,2022,10,0,Revenue Generating
+S01692,RuneBeam,Artificial Intelligence,Switzerland,Europe,Zurich,2023,92,0,Revenue Generating
+S01693,CyberTech,Logistics & Supply Chain,United States,North America,Denver,2024,5,0,Revenue Generating
+S01694,DeltaHub,Fintech,Estonia,Europe,Tallinn,2019,102,0,Profitable
+S01695,Coreverse,Artificial Intelligence,India,Asia,Mumbai,2020,7,0,Pre-Revenue
+S01696,Novafy,Artificial Intelligence,United States,North America,San Francisco,2017,10,0,Revenue Generating
+S01697,SwiftLink,Artificial Intelligence,India,Asia,Bangalore,2021,87,0,Revenue Generating
+S01698,Forgely,Healthcare & Biotech,United Kingdom,Europe,Edinburgh,2023,57,0,Pre-Revenue
+S01699,NovaTech,Artificial Intelligence,United States,North America,Miami,2021,15,0,Profitable
+S01700,SageMind,SaaS / Enterprise Software,United States,North America,San Francisco,2021,36,1,Revenue Generating
+S01701,OnyxFlow,Real Estate Tech,Thailand,Asia,Bangkok,2023,108,1,Revenue Generating
+S01702,CruxSecurity,Climate Tech / Clean Energy,United States,North America,San Francisco,2015,90,0,Revenue Generating
+S01703,ApexBio,SaaS / Enterprise Software,United States,North America,Boston,2016,99,1,Pre-Revenue
+S01704,Pulsely,Climate Tech / Clean Energy,United Kingdom,Europe,Bristol,2024,66,0,Revenue Generating
+S01705,SageFinance,Cybersecurity,Colombia,South America,Medellín,2021,90,0,Revenue Generating
+S01706,ApexLabs,Fintech,United States,North America,Austin,2021,223,0,Pre-Revenue
+S01707,BetaForge,E-Commerce,United States,North America,New York,2018,73,0,Pre-Revenue
+S01708,BetaWorks,Fintech,Sweden,Europe,Gothenburg,2015,25,1,Pre-Revenue
+S01709,EchoLogic,Healthcare & Biotech,United Kingdom,Europe,Cambridge,2021,8,0,Profitable
+S01710,UltraX,Food & AgriTech,China,Asia,Guangzhou,2020,4,0,Revenue Generating
+S01711,HyperSystems,Healthcare & Biotech,Indonesia,Asia,Surabaya,2024,7,0,Pre-Revenue
+S01712,TideNet,Social Media / Creator Economy,Indonesia,Asia,Surabaya,2024,159,0,Revenue Generating
+S01713,JetHub,Healthcare & Biotech,United States,North America,New York,2021,11,0,Revenue Generating
+S01714,XenoStack,Fintech,United States,North America,New York,2022,103,1,Profitable
+S01715,LumeDynamics,Fintech,Israel,Middle East,Jerusalem,2020,114,0,Revenue Generating
+S01716,DataBase,Healthcare & Biotech,China,Asia,Hangzhou,2020,43,0,Pre-Revenue
+S01717,OrionBio,Web3 / Blockchain,United States,North America,Chicago,2021,32,0,Revenue Generating
+S01718,KiteSpace,Cybersecurity,India,Asia,Chennai,2019,90,0,Pre-Revenue
+S01719,Quantumly,HR Tech,South Korea,Asia,Seoul,2015,3,0,Revenue Generating
+S01720,Zenverse,Cybersecurity,China,Asia,Guangzhou,2023,26,0,Pre-Revenue
+S01721,EchoHub,E-Commerce,India,Asia,Hyderabad,2022,16,0,Revenue Generating
+S01722,CyberSpace,Artificial Intelligence,China,Asia,Beijing,2019,12,0,Revenue Generating
+S01723,NeoBio,Healthcare & Biotech,India,Asia,Bangalore,2024,37,0,Profitable
+S01724,JetPay,Artificial Intelligence,France,Europe,Paris,2017,74,0,Profitable
+S01725,Protoly,Healthcare & Biotech,United Kingdom,Europe,Bristol,2023,2,0,Pre-Revenue
+S01726,VeloWare,Travel Tech,United States,North America,Chicago,2021,5,1,Revenue Generating
+S01727,Hubfy,SaaS / Enterprise Software,Singapore,Asia,Singapore,2016,2,0,Pre-Revenue
+S01728,AlphaAI,Climate Tech / Clean Energy,Netherlands,Europe,Rotterdam,2019,21,0,Revenue Generating
+S01729,PixelLogic,SaaS / Enterprise Software,United States,North America,Austin,2015,32,0,Revenue Generating
+S01730,SageBeam,Edtech,United States,North America,Chicago,2020,44,0,Revenue Generating
+S01731,AstraMind,Cybersecurity,United States,North America,Seattle,2020,2,0,Revenue Generating
+S01732,VeloHealth,E-Commerce,Australia,Oceania,Sydney,2022,4,1,Revenue Generating
+S01733,RuneNet,Climate Tech / Clean Energy,United Kingdom,Europe,London,2023,84,0,Pre-Revenue
+S01734,AstraLink,Artificial Intelligence,China,Asia,Hangzhou,2023,5,0,Revenue Generating
+S01735,QuantumBeam,E-Commerce,China,Asia,Hangzhou,2021,36,0,Pre-Revenue
+S01736,Sagely,Logistics & Supply Chain,Japan,Asia,Tokyo,2021,15,0,Pre-Revenue
+S01737,VibeHealth,Fintech,United States,North America,Austin,2015,66,0,Profitable
+S01738,CruxPay,Healthcare & Biotech,Brazil,South America,São Paulo,2020,18,0,Revenue Generating
+S01739,ZenNet,Web3 / Blockchain,China,Asia,Guangzhou,2019,56,0,Pre-Revenue
+S01740,QuantumBase,Healthcare & Biotech,China,Asia,Beijing,2015,85,0,Pre-Revenue
+S01741,Hubverse,Cybersecurity,Singapore,Asia,Singapore,2017,68,0,Pre-Revenue
+S01742,VeloSpace,Edtech,United States,North America,San Diego,2021,67,1,Pre-Revenue
+S01743,BetaTech,SaaS / Enterprise Software,Netherlands,Europe,Rotterdam,2023,4,0,Revenue Generating
+S01744,EdgeBase,SaaS / Enterprise Software,United States,North America,Los Angeles,2022,37,0,Pre-Revenue
+S01745,VertexFinance,Artificial Intelligence,Kenya,Africa,Nairobi,2021,2,0,Revenue Generating
+S01746,MetaFlow,Climate Tech / Clean Energy,Israel,Middle East,Haifa,2023,17,0,Revenue Generating
+S01747,VeloFlow,Gaming & Entertainment,United States,North America,Seattle,2023,246,0,Revenue Generating

@@ -1,0 +1,1 @@
+"""Startup funding analysis package."""

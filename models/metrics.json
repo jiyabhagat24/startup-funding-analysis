@@ -1,0 +1,203 @@
+{
+  "target": "high_funding = round amount > US$1.79M (median of training rounds)",
+  "threshold_million_usd": 1.795,
+  "features": [
+    "funding_stage",
+    "sector",
+    "country",
+    "region",
+    "revenue_status",
+    "female_founder",
+    "employee_count",
+    "age_at_round",
+    "year"
+  ],
+  "cat_features": [
+    "funding_stage",
+    "sector",
+    "country",
+    "region",
+    "revenue_status"
+  ],
+  "num_features": [
+    "female_founder",
+    "employee_count",
+    "age_at_round",
+    "year"
+  ],
+  "categories": {
+    "funding_stage": [
+      "Pre-Seed",
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Series D"
+    ],
+    "sector": [
+      "Artificial Intelligence",
+      "Climate Tech / Clean Energy",
+      "Cybersecurity",
+      "E-Commerce",
+      "Edtech",
+      "Fintech",
+      "Food & AgriTech",
+      "Gaming & Entertainment",
+      "HR Tech",
+      "Healthcare & Biotech",
+      "Insurtech",
+      "Legal Tech",
+      "Logistics & Supply Chain",
+      "Real Estate Tech",
+      "Robotics & Automation",
+      "SaaS / Enterprise Software",
+      "Social Media / Creator Economy",
+      "Space Tech",
+      "Travel Tech",
+      "Web3 / Blockchain"
+    ],
+    "country": [
+      "Argentina",
+      "Australia",
+      "Bangladesh",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Estonia",
+      "France",
+      "Germany",
+      "India",
+      "Indonesia",
+      "Israel",
+      "Japan",
+      "Kenya",
+      "Mexico",
+      "Netherlands",
+      "Nigeria",
+      "Philippines",
+      "Poland",
+      "Saudi Arabia",
+      "Singapore",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Thailand",
+      "Turkey",
+      "UAE",
+      "United Kingdom",
+      "United States",
+      "Vietnam"
+    ],
+    "region": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Middle East",
+      "North America",
+      "Oceania",
+      "South America"
+    ],
+    "revenue_status": [
+      "Pre-Revenue",
+      "Profitable",
+      "Revenue Generating"
+    ]
+  },
+  "n_total": 2818,
+  "n_train": 2234,
+  "n_test": 584,
+  "n_startups_train": 1397,
+  "n_startups_test": 350,
+  "positive_rate_train": 0.5,
+  "positive_rate_test": 0.5171,
+  "best_params": {
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "n_estimators": 200
+  },
+  "cv_roc_auc_best": 0.9336,
+  "test": {
+    "accuracy": 0.8065,
+    "precision": 0.7739,
+    "recall": 0.8841,
+    "f1": 0.8253,
+    "roc_auc": 0.9202
+  },
+  "confusion_matrix": [
+    [
+      204,
+      78
+    ],
+    [
+      35,
+      267
+    ]
+  ],
+  "baselines": {
+    "majority_class_accuracy": 0.5171,
+    "stage_only_random_forest": {
+      "accuracy": 0.7979,
+      "precision": 0.7222,
+      "recall": 0.9901,
+      "f1": 0.8352,
+      "roc_auc": 0.9167
+    }
+  },
+  "stage_relative_experiment": {
+    "description": "Same features, but target = round is above the median for its own funding stage",
+    "test_roc_auc": 0.5232
+  },
+  "permutation_importance": [
+    {
+      "feature": "funding_stage",
+      "auc_drop": 0.4214,
+      "std": 0.0219
+    },
+    {
+      "feature": "sector",
+      "auc_drop": 0.005,
+      "std": 0.0026
+    },
+    {
+      "feature": "employee_count",
+      "auc_drop": 0.003,
+      "std": 0.0015
+    },
+    {
+      "feature": "revenue_status",
+      "auc_drop": 0.0004,
+      "std": 0.0009
+    },
+    {
+      "feature": "country",
+      "auc_drop": 0.0003,
+      "std": 0.0025
+    },
+    {
+      "feature": "female_founder",
+      "auc_drop": 0.0002,
+      "std": 0.0005
+    },
+    {
+      "feature": "age_at_round",
+      "auc_drop": -0.0005,
+      "std": 0.001
+    },
+    {
+      "feature": "year",
+      "auc_drop": -0.0015,
+      "std": 0.0035
+    },
+    {
+      "feature": "region",
+      "auc_drop": -0.0018,
+      "std": 0.0013
+    }
+  ],
+  "sklearn_version": "1.9.1"
+}

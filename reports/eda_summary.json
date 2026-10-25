@@ -1,0 +1,280 @@
+{
+  "01": {
+    "median": 1.83,
+    "mean": 11.9,
+    "p90": 31.5,
+    "max": 359.54,
+    "skew": 5.3
+  },
+  "02": {
+    "2020": {
+      "total": 6500.5,
+      "rounds": 503,
+      "median": 1.97
+    },
+    "2021": {
+      "total": 4944.1,
+      "rounds": 426,
+      "median": 1.98
+    },
+    "2022": {
+      "total": 4603.0,
+      "rounds": 462,
+      "median": 1.53
+    },
+    "2023": {
+      "total": 4984.6,
+      "rounds": 453,
+      "median": 1.76
+    },
+    "2024": {
+      "total": 5093.5,
+      "rounds": 414,
+      "median": 1.78
+    },
+    "2025": {
+      "total": 6307.1,
+      "rounds": 462,
+      "median": 1.9
+    },
+    "2026": {
+      "total": 1092.3,
+      "rounds": 98,
+      "median": 1.86
+    }
+  },
+  "03": {
+    "peak_period": "2020 Q3",
+    "peak_total": 2414.9,
+    "min_period": "2022 Q3",
+    "min_total": 818.9
+  },
+  "04": {
+    "Pre-Seed": {
+      "rounds": 880,
+      "median": 0.49
+    },
+    "Seed": {
+      "rounds": 1069,
+      "median": 1.81
+    },
+    "Series A": {
+      "rounds": 447,
+      "median": 11.55
+    },
+    "Series B": {
+      "rounds": 288,
+      "median": 30.71
+    },
+    "Series C": {
+      "rounds": 102,
+      "median": 70.75
+    },
+    "Series D": {
+      "rounds": 32,
+      "median": 142.46
+    }
+  },
+  "05": {
+    "top5": [
+      {
+        "country": "United States",
+        "total": 9674.3,
+        "rounds": 863,
+        "share_pct": 28.9
+      },
+      {
+        "country": "India",
+        "total": 3856.2,
+        "rounds": 320,
+        "share_pct": 11.5
+      },
+      {
+        "country": "United Kingdom",
+        "total": 3252.4,
+        "rounds": 247,
+        "share_pct": 9.7
+      },
+      {
+        "country": "China",
+        "total": 2921.1,
+        "rounds": 249,
+        "share_pct": 8.7
+      },
+      {
+        "country": "Germany",
+        "total": 1568.2,
+        "rounds": 104,
+        "share_pct": 4.7
+      }
+    ],
+    "top5_share_pct": 63.5
+  },
+  "06": {
+    "Oceania": {
+      "share_pct": 2.4,
+      "total": 790.3,
+      "rounds": 64
+    },
+    "Africa": {
+      "share_pct": 3.4,
+      "total": 1132.2,
+      "rounds": 101
+    },
+    "Middle East": {
+      "share_pct": 3.7,
+      "total": 1243.1,
+      "rounds": 118
+    },
+    "South America": {
+      "share_pct": 5.6,
+      "total": 1893.2,
+      "rounds": 149
+    },
+    "Europe": {
+      "share_pct": 23.2,
+      "total": 7787.8,
+      "rounds": 620
+    },
+    "Asia": {
+      "share_pct": 29.9,
+      "total": 10027.3,
+      "rounds": 825
+    },
+    "North America": {
+      "share_pct": 31.8,
+      "total": 10651.1,
+      "rounds": 941
+    }
+  },
+  "07": {
+    "top5": [
+      {
+        "sector": "Artificial Intelligence",
+        "total": 5670.1,
+        "rounds": 462
+      },
+      {
+        "sector": "Fintech",
+        "total": 4564.3,
+        "rounds": 427
+      },
+      {
+        "sector": "Healthcare & Biotech",
+        "total": 4286.9,
+        "rounds": 282
+      },
+      {
+        "sector": "E-Commerce",
+        "total": 2720.6,
+        "rounds": 203
+      },
+      {
+        "sector": "SaaS / Enterprise Software",
+        "total": 2112.8,
+        "rounds": 261
+      }
+    ],
+    "most_rounds": "Artificial Intelligence",
+    "most_rounds_n": 462
+  },
+  "08": {
+    "largest_cell": {
+      "country": "United States",
+      "sector": "Fintech",
+      "total": 1620.3
+    }
+  },
+  "09": {
+    "Pre-Seed": {
+      "pre": 3.1,
+      "post": 3.6
+    },
+    "Seed": {
+      "pre": 11.0,
+      "post": 13.0
+    },
+    "Series A": {
+      "pre": 91.4,
+      "post": 102.8
+    },
+    "Series B": {
+      "pre": 236.1,
+      "post": 264.5
+    },
+    "Series C": {
+      "pre": 395.5,
+      "post": 475.4
+    },
+    "Series D": {
+      "pre": 682.7,
+      "post": 816.8
+    }
+  },
+  "10": {
+    "Crowdfunding": {
+      "rounds": 105,
+      "median": 1.92,
+      "total": 924.6
+    },
+    "Government/Sovereign Fund": {
+      "rounds": 132,
+      "median": 2.01,
+      "total": 2248.0
+    },
+    "Family Office": {
+      "rounds": 163,
+      "median": 2.04,
+      "total": 2220.3
+    },
+    "Accelerator": {
+      "rounds": 207,
+      "median": 1.9,
+      "total": 2367.4
+    },
+    "Private Equity": {
+      "rounds": 271,
+      "median": 1.89,
+      "total": 4097.0
+    },
+    "Corporate VC": {
+      "rounds": 348,
+      "median": 1.85,
+      "total": 3749.9
+    },
+    "Angel Investor": {
+      "rounds": 415,
+      "median": 1.96,
+      "total": 5576.9
+    },
+    "Venture Capital": {
+      "rounds": 1177,
+      "median": 1.64,
+      "total": 12341.0
+    }
+  },
+  "11": {
+    "spearman_with_round_size": {
+      "Pre-money val.": 0.975,
+      "Post-money val.": 0.982,
+      "Equity dilution %": 0.644,
+      "No. of investors": 0.009,
+      "Employees": -0.009,
+      "Startup age at round": -0.01,
+      "Round number": 0.268,
+      "Female founder": -0.012
+    }
+  },
+  "12": {
+    "median_by_revenue": {
+      "Pre-Revenue": 1.83,
+      "Profitable": 1.65,
+      "Revenue Generating": 1.87
+    },
+    "median_by_female_founder": {
+      "no_female": 1.83,
+      "female": 1.8
+    },
+    "share_female_founder_rounds_pct": 21.8
+  }
+}
